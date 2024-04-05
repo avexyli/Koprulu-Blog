@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Koprulu
-logo: /images/icon.png
+logo: '/images/icon.png'
 description: Team Koprulu development news site.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
@@ -10,14 +10,14 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Angel Huerta
+  name: Kat
   avatar: '/images/15.jpg'
 
 
 #-------------------------------
 # Hero Settings
 hero:
-  title: Robert Wilson
+  title: Starcraft Evolution Complete
   description: Thoughts, stories and ideas.
   image: '/images/bannerLarge.jpg'
 
