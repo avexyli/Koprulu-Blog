@@ -66,6 +66,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Added Light attribute to Vulture
 * Reduced range Vulture can deploy spider mines from 3 -> 1
 * Spider Mines no longer collides with 'Hover' attributed units
+* Reduced Firebat cost from 75 Minerals -> 50 Minerals
 
 ***
 
@@ -144,6 +145,8 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 * Reduced the Overlord Speed from 0.9375 -> 0.6445
 * Reduced the Overlord Acceleration from 1.6875 -> 1.0625
 * Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
+* Dark Swarm now reduces ranged damage by 90% and spell damage by 55%
+
 
 ***
 
