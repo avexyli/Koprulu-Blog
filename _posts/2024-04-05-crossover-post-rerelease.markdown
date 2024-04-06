@@ -14,21 +14,17 @@ Today we celebrate the release of the SC Evo Crossover Edition mod, this mod is 
 
 We want to start this new post on our new site by publishing the patchnotes for our upcoming Update 1.0 to the Crossover Edition as well as thank everyone who has made this project possible and all the love and passion we've seen from the Korean community that inspire this update, without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
 
-
-
-![]({{site.baseurl}}/images/Divider_Crossover.png)
-*Placeholder Divier / Crossover Mod*
-
 ***
 
-Dev Comment about the terran state in general.
+![]({{site.baseurl}}/images/Divider_Crossover.png)
+
+_For starters we've made several adjustments to the game balance of all three races to have a much more even fighting chance against their sc2 counterparts as well as removed several features that are exclusive to the legacy and campaign versions of the game._
+
+* Removed bonus damage vs Shields from Explosive and Concussive Weapons
 
 _From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
-*Placeholder Divier / Terran*
-
-***
 
 * Added Dropship Emergency Boost Upgrade at the Control Tower
 * Added Dropship Emergency Boost Ability
@@ -36,9 +32,26 @@ _From the feedback we received on the terran sc1 vs sc2 balance some of the comm
 ![]({{site.baseurl}}/images/test.png)
 *Emergency Boost GIF?*
 
+* Increase Ghost Damage from 5 (10 vs Light) -> 8 (16 vs Light)
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+* Added Gateway Resonant Matrix Upgrade at the Citadel of Adun
+* Added Gateway Resonant Matrix Passive Ability
+
+![]({{site.baseurl}}/images/test.png)
+*Resonant Matrix GIF?*
+
+* Reduced Dragoon Damage from 15 (10 vs Armored) -> 14 (19 vs Light)
+* Increased Dark Templar Damage from 40 -> 45
+* Reduced Dark Templar attack period from 1.875 -> 1.694
+* Increased Zealot & Dark Templar weapon slop range 1.0 -> 1.3686
+* Dark Archon Feedback can no longer target structures
+* Reduced Dark Archon Feedback Damage per energy from 1 -> 0.5
+
+***
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
-*Placeholder Divier / Core Mods*
 
 * Added Ability data for **Resonant Matrix**
 * Added Ability data for **Emergency Thrusters**
