@@ -3,24 +3,61 @@ layout: post
 title:  SC Evo Crossover Edition Release
 description: A re-release of the SC1 vs SC2 Extension now called Crossover Edition with some brand new mechanics and tons of rebalance updates
 date:   2024-04-05 15:01:35 +0000
-image:  '/images/20.jpg'
+image:  '/images/Crossover1_0.jpg'
 tags:   [crossover, release]
 featured:   true
 ---
+
+## Evo Crossover Release 1.0
+
 Today we celebrate the release of the SC Evo Crossover Edition mod, this mod is a much more in-depth update of the old SC1 vs SC2 Extension mod including some new units, abilities and upgrades as well as a much better balanced AI.
 
 We want to start this new post on our new site by publishing the patchnotes for our upcoming Update 1.0 to the Crossover Edition as well as thank everyone who has made this project possible and all the love and passion we've seen from the Korean community that inspire this update, without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
 
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit; Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit potionibus.
 
-![Fresh vegetables]({{site.baseurl}}/images/615.jpg)
-*Fresh vegetables / [Unsplash](https://unsplash.com/)*
+![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+*Placeholder Divier / Crossover Mod*
 
-Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur. Natura sic ab iis investigata est, ut nulla pars caelo, mari, terra, ut poëtice loquar, praetermissa sit. Eadem nunc mea adversum te oratio est. Mihi quidem Homerus huius modi quiddam vidisse videatur in iis, quae de Sirenum cantibus finxerit. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis. Put in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere.
+***
 
-<p><iframe src="https://www.youtube.com/embed/CB9Enh6yP0w" frameborder="0" allowfullscreen></iframe></p>
+Dev Comment about the terran state in general.
 
-Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur disputari sine.
+_From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
-Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Archytam? Qua ex cognitione facilior facta est investiga.
+![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+*Placeholder Divier / Terran*
+
+***
+
+* Added Dropship Emergency Boost Upgrade at the Control Tower
+* Added Dropship Emergency Boost Ability
+
+![]({{site.baseurl}}/images/test.png)
+*Emergency Boost GIF?*
+
+
+![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+*Placeholder Divier / Core Mods*
+
+* Added Ability data for **Resonant Matrix**
+* Added Ability data for **Emergency Thrusters**
+* Added Ability data for **Ensnaring Creep**
+* Added Unit data for the **Stinger**
+* Added visual effect for Ultralisk speed Upgrage
+* Added data for combined Mech Plating Upgrades
+* Minor Data additions required for Crossover Update
+* Adjusted Defiler spell animations
+* Adjusted Medic's Blind impact visual
+* Adjusted Arbiter missile and impact visuals
+* Adjusted OVerlord speed being too high by default
+* Dark Archon Feedback can no longer target structures
+* Burrow and Unburrow Ability now share placement in the Command Card to match sc2
+* Burrow and Unburrow Commands are now able to be sent to other units currently selected
+* Default Burrow hotkeys have been adjusted to match sc2
+* Fixed Archon splash not dealing damage properly in Dark Swarm
+* Fixed missing text style errors
+* Removed Warp Prism reference from Shuttles
+* Removed several unused text keys
+
+***
