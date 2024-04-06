@@ -22,6 +22,9 @@ _For starters we've made several adjustments to the game balance of all three ra
 
 * Removed bonus damage vs Shields from Explosive and Concussive Weapons
 * Reworked Damage bonuses across most SC1 Units
+* Reworked SC1 Unit Attributes
+
+_These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._ 
 
 _From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
@@ -29,6 +32,7 @@ _From the feedback we received on the terran sc1 vs sc2 balance some of the comm
 
 * Added Dropship Emergency Boost Upgrade at the Control Tower
 * Added Dropship Emergency Boost Ability
+
 _The new upgrade for the Dropship works in a similar way as the sc2 medivac but requires a previous research at the Control tower for 150 minerals and 150 vespene, allowing the Dropship to receive a temporary boost to leave sticky situations or make for quick drop-ins._
 
 ![]({{site.baseurl}}/images/test.png)
@@ -46,12 +50,14 @@ _Protoss Race General State_
 
 * Added Gateway Resonant Matrix Upgrade at the Citadel of Adun
 * Added Gateway Resonant Matrix Passive Ability
+
 _This new upgrade is meant to address an issue with the late game unit production for the protoss, it can be researched at the Citadel of Adun for 200 Minerals and 200 Vespne, requires the Templar Archive and allows Gateways to produce two units at the same time._
 
 ![]({{site.baseurl}}/images/test.png)
 *Resonant Matrix GIF?*
 
 * Added the Ability for Observers to Morph into Surveillance Mode
+
 _Observers entering Surveilance Mode gain a much larger vision range at the cost of losing the ability to move until they're turned back to Observer mode._
 
 ![]({{site.baseurl}}/images/test.png)
@@ -77,6 +83,7 @@ _Zerg Race General State_
 
 * Added Queen Ensnaring Creep Ability
 * Removed Queen Ensnare Ability
+
 _Queens have received a modified ability replacing Ensnare, this Ability variant launches a mix of creep and the classic green goo to slow down enemies as well as create a Creep patch around the target aream this ability has several uses such as giving your units a temporary speed boost or using it as part of a Nydus Proxy._
 
 ![]({{site.baseurl}}/images/test.png)
