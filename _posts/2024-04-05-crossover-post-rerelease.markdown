@@ -38,6 +38,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 ![]({{site.baseurl}}/images/test.png)
 *Emergency Boost GIF?*
 
+* Reduced Command Center Costs from 400 Minerals -> 350
 * Added the Ability for Bunkers to be Salvaged
 * Increase Ghost Damage from 5 (10 vs Light) -> 8 (16 vs Light)
 * Combined the Terran Vehicle and Starship Armor Upgrades into Terran Mech Plating
@@ -63,6 +64,7 @@ _Observers entering Surveilance Mode gain a much larger vision range at the cost
 ![]({{site.baseurl}}/images/test.png)
 *Observer Surveillance GIF?*
 
+* Reduced Nexus Costs from 400 Minerals -> 350
 * Reduced Dragoon Damage from 15 (10 vs Armored) -> 14 (19 vs Light)
 * Increased Dark Templar Damage from 40 -> 45
 * Reduced Dark Templar attack period from 1.875 -> 1.694
@@ -90,6 +92,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 *Ensnare GIF?*
 
 * Queen's Parasite now has a duration of 168 seconds.
+* Reduced Hatchery Costs from 300 Minerals -> 250
 * Increased the Hatchery delay between larva spawns from 12 -> 19.9
 * Decreased the Lair delay between larva spawns from 12 -> 10
 * Decreased the Hive delay between larva spawns from 12 -> 10
