@@ -20,7 +20,7 @@ We want to start this new post on our new site by publishing the patchnotes for 
 _For starters we've made several adjustments to the game balance of all three races to have a much more even fighting chance against their sc2 counterparts as well as removed several features that are exclusive to the legacy and campaign versions of the game._
 
 * Removed bonus damage vs Shields from Explosive and Concussive Weapons
-* Reworked Damage bonuses across most SC1 Units
+* Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to light/armored for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
 * Reworked SC1 Unit Attributes
 
 _These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._
@@ -44,7 +44,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Combined the Terran Vehicle and Starship Armor Upgrades into Terran Mech Plating
 * Increased Battlecruiser Health from 500 -> 550
 * Increased Battlecruiser Speed from 1.406 -> 1.875
-* Icreased Dropship Health from 150 -> 165
+* Increased Dropship Health from 150 -> 165
 * Increased Dropship Acceleration from 1.06 -> 1.5
 * Reduced Command Center Cost from 400 Minerals -> 350
 * Reduced Factory Cost from 200 Minerals -> 150
@@ -62,6 +62,10 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Reduced Missile Turret Weapon Attack period from 0.9375 -> 0.8608
 * Reduced Valkyrie Weapon Attack period from 4 -> 3.7631
 * Reduced Wraith Air Weapon Attack period from 1.375 -> 1.25
+* Reduced Vulture Damage 10 (vs. Light 20) -> 7 (vs. Light 14)
+* Added Light attribute to Vulture
+* Reduced range Vulture can deploy spider mines from 3 -> 1
+* Spider Mines no longer collides with 'Hover' attributed units
 
 ***
 
@@ -90,7 +94,7 @@ _Observers entering Surveilance Mode gain a much larger vision range at the cost
 _Although Dark Archons and High Templars do not usually have weapons one has been added with very low damage to help them from walking straight into the enemy_
 
 * Reduced Nexus Costs from 400 Minerals -> 350
-* Reduced Dragoon Damage from 15 (10 vs Armored) -> 14 (19 vs Light)
+* Reduced Dragoon base Damage from 15 -> 14
 * Increased Dark Templar Damage from 40 -> 45
 * Reduced Dark Templar attack period from 1.875 -> 1.694
 * Increased Zealot & Dark Templar weapon slop range 1.0 -> 1.3686
@@ -100,9 +104,10 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Reduced Dark Archon Feedback Damage per energy from 1 -> 0.5
 * Increased High Templar Speed from 1.875 -> 2.0156
 * Increased High Templar Acceleration from 1.6875 -> 2.5
-* Increased the Shuttle Speed from 2.4882 -> 2.9531
+* Increased the Shuttle Speed from 2.4882 -> 2.5507
 * Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
 * Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
+* Adjusted Shield Battery range and recharge rates to match SC2 Battery
 
 ***
 
@@ -138,7 +143,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 * Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
 * Reduced the Overlord Speed from 0.9375 -> 0.6445
 * Reduced the Overlord Acceleration from 1.6875 -> 1.0625
-* Adjusted incorrect Scourge cost values from 24 Minerasl -> 25 and 74 Vespene -> 75
+* Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
 
 ***
 
