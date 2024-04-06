@@ -5,6 +5,7 @@ description: A re-release of the SC1 vs SC2 Extension now called Crossover Editi
 date:   2024-04-05 15:01:35 +0000
 image:  '/images/20.jpg'
 tags:   [crossover, release]
+featured:   true
 ---
 Today we celebrate the release of the SC Evo Crossover Edition mod, this mod is a much more in-depth update of the old SC1 vs SC2 Extension mod including some new units, abilities and upgrades as well as a much better balanced AI.
 
