@@ -16,7 +16,7 @@ We want to start this new post on our new site by publishing the patchnotes for 
 
 
 
-![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+![]({{site.baseurl}}/images/Divider_Crossover.png)
 *Placeholder Divier / Crossover Mod*
 
 ***
@@ -25,7 +25,7 @@ Dev Comment about the terran state in general.
 
 _From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
-![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+![]({{site.baseurl}}/images/Divider_Terran.png)
 *Placeholder Divier / Terran*
 
 ***
@@ -37,7 +37,7 @@ _From the feedback we received on the terran sc1 vs sc2 balance some of the comm
 *Emergency Boost GIF?*
 
 
-![]({{site.baseurl}}/images/Divider_Multiplayer.png)
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
 *Placeholder Divier / Core Mods*
 
 * Added Ability data for **Resonant Matrix**
