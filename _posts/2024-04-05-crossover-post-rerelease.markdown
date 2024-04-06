@@ -5,7 +5,6 @@ description: A re-release of the SC1 vs SC2 Extension now called Crossover Editi
 date:   2024-04-05 15:01:35 +0000
 image:  '/images/Crossover1_0.jpg'
 tags:   [crossover, release]
-featured:   true
 ---
 
 ## Evo Crossover Release 1.0
@@ -90,7 +89,6 @@ _Observers entering Surveilance Mode gain a much larger vision range at the cost
 
 _Although Dark Archons and High Templars do not usually have weapons one has been added with very low damage to help them from walking straight into the enemy_
 
-
 * Reduced Nexus Costs from 400 Minerals -> 350
 * Reduced Dragoon Damage from 15 (10 vs Armored) -> 14 (19 vs Light)
 * Increased Dark Templar Damage from 40 -> 45
@@ -98,6 +96,7 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Increased Zealot & Dark Templar weapon slop range 1.0 -> 1.3686
 * Reduced Zealot Weapon Attack period from 1.375 -> 1.3686
 * Dark Archon Feedback can no longer target structures
+* Dark Archon Mind Control can no longer target Frenzied units
 * Reduced Dark Archon Feedback Damage per energy from 1 -> 0.5
 * Increased High Templar Speed from 1.875 -> 2.0156
 * Increased High Templar Acceleration from 1.6875 -> 2.5
@@ -119,7 +118,6 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 ![]({{site.baseurl}}/images/test.png)
 *Ensnare GIF?*
 
-* Added the Ultralisk Frenzy Passive
 * Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
 * Reduced Devourer costs from 250 Minerals -> 200 and 150 Vespene -> 125
 * Queen's Parasite now has a duration of 168 seconds.
