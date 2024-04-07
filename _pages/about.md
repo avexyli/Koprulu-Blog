@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/bannerLarge.jpg.jpg'
+image: '/images/bannerLarge.jpg'
 ---
 
 ![]({{site.baseurl}}/images/KopruluLogoProject.png)
