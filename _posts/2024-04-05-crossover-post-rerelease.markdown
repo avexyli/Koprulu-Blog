@@ -38,19 +38,24 @@ _From the feedback we received on the terran sc1 vs sc2 balance some of the comm
 * Added New Unit: *The Stinger*
 * Added New Unit Upgrade: *Helios Tracer Rounds*
 
-_The New Stinger unit is meant to help out Terran players with a response to the Cyclone, the Stinger can be built at the Factory and requires an attached Machine shop and is equipped with two weapons, a Gatling gun able to deal 8 damage (+8 vs Mechanical) and a Grenade Launcher that can only target buildings for 20 Damage, the Stinger can also be upgraded with the *Helios Tracer Rounds* allowing it to target enemies while moving.
-
-We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
-
 ![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+*Base Stinger*
+![]({{site.baseurl}}/gifs/2024-07-04-stinger2.gif)
+*Helios Tracer Rounds Upgraded*
+
+
+_The New Stinger unit is meant to help out Terran players with a response to the Cyclone, the Stinger can be built at the Factory and requires an attached Machine shop and is equipped with two weapons, a Gatling gun able to deal 8 damage (+8 vs Mechanical) and a Grenade Launcher that can only target buildings for 20 Damage, the Stinger can also be upgraded with the *Helios Tracer Rounds* allowing it to target enemies while moving._
+
+_We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
 
 * Added Dropship Emergency Boost Upgrade at the Control Tower
 * Added Dropship Emergency Boost Ability
 
-_The new upgrade for the Dropship works in a similar way as the sc2 medivac but requires a previous research at the Control tower for 100 minerals and 100 vespene, allowing the Dropship to receive a temporary boost to leave sticky situations or make for quick drop-ins._
-
 ![]({{site.baseurl}}/images/test.png)
 *Emergency Boost GIF?*
+
+_The new upgrade for the Dropship works in a similar way as the sc2 medivac but requires a previous research at the Control tower for 100 minerals and 100 vespene, allowing the Dropship to receive a temporary boost to leave sticky situations or make for quick drop-ins._
+
 
 * Added the Ability for Bunkers to be Salvaged
 * Combined the Terran Vehicle and Starship Armor Upgrades into Terran Mech Plating
