@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/bannerLarge.jpg.jpg'
 ---
 
-![]({{site.baseurl}}/KopruluLogoProject.png)
+![]({{site.baseurl}}/images/KopruluLogoProject.png)
 
 Hi, We're Team Koprulu a group of modders working to create the highest quality StarCraft content that we're able to make. We currently have our sights set on recreating the entirety of StarCraft 1 and it's campaigns in the StarCraft 2 Engine.
 
@@ -19,7 +19,7 @@ We'd like for people to join us in our journey as we work to deliver the Ultimat
 
 You can help us fund the Project's Models by Donating to our PayPal, all the money received goes directly to the Modellers and Data Engineers.
 
-<a href="https://paypal.me/KopruluKat/"><img src="/images/blue.png" height="40"></a>
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" height="40"></a>
 
 _This site is still under construction and all articles are subject to change_
 <hr>

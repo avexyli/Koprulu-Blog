@@ -175,7 +175,6 @@ _To help Zerg player production we're reducing the spawn delay for all Zerg town
 * Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
 * Reduced the Overlord Speed from 0.9375 -> 0.6445
 * Reduced the Overlord Acceleration from 1.6875 -> 1.0625
-* Overlords now require the 'Antennae' upgrade to be able to detect
 * Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
 * Dark Swarm now reduces ranged damage by 90% and ranged spell damage by 55%
 
