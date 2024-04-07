@@ -49,7 +49,7 @@ social:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: team-koprulu # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
