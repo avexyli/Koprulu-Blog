@@ -169,7 +169,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 ![]({{site.baseurl}}/gifs/2024-07-04-lairlarva.gif)
 *Lair Holding 5 Larvae*
 
-![]({{site.baseurl}}/gifs/2024-07-04-2024-07-04-hivelarva.gif)
+![]({{site.baseurl}}/gifs/2024-07-04-hivelarva.gif)
 *Hive Holding 7 Larvae*
 
 _To help Zerg player unit production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
