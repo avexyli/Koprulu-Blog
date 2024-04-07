@@ -41,7 +41,7 @@ _The AI has not yet been tuned due to several balance changes we've made as well
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-* Added New Unit: *The Stinger* (Cost: 125/50 | Requires Machine Shop)
+* Added New Unit: *The Stinger* (Cost: 125/50, Requires Machine Shop)
 * Added New Unit Upgrade: *Helios Tracer Rounds* (Researched at Machine shop, requires Armory)
 
 ![]({{site.baseurl}}/images/stinger-showcase.png)
