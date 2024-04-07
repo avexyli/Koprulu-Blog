@@ -34,6 +34,11 @@ _These changes are aimed at making the weapons across both races compatible allo
 
 _From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
+* AI is temporarily disabled
+
+_The AI has not yet been tuned due to several balance changes we've made as well as the AI being noticeably weaker than its sc2 counterpart. The builds are currently being adjusted and will be coming in the next major patch._
+
+
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 * Added New Unit: *The Stinger*
