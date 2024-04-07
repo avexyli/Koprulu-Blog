@@ -20,7 +20,7 @@ We want to start this new post on our new site by publishing the patchnotes for 
 _For starters we've made several adjustments to the game balance of all three races to have a much more even fighting chance against their sc2 counterparts as well as removed several features that are exclusive to the legacy and campaign versions of the game._
 
 * Removed bonus damage vs Shields from Explosive and Concussive Weapons
-* Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to light/armored for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
+* Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to armored/light for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
 * Reworked SC1 Unit Attributes
 
 _These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._
@@ -100,7 +100,7 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Reduced Dark Templar attack period from 1.875 -> 1.694
 * Increased Zealot & Dark Templar weapon slop range 1.0 -> 1.3686
 * Reduced Zealot Weapon Attack period from 1.375 -> 1.3686
-* Dark Archon Feedback can no longer target structures
+* Dark Archon Feedback can no longer target structures or friendly targets
 * Dark Archon Mind Control can no longer target Frenzied units
 * Reduced Dark Archon Feedback Damage per energy from 1 -> 0.5
 * Increased High Templar Speed from 1.875 -> 2.0156
@@ -109,6 +109,12 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
 * Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
 * Adjusted Shield Battery range and recharge rates to match SC2 Battery
+* Reworked Reaver based on SardineS Reaver Mod
+    - Now uses SC1 mechanics with pathable scarab
+    - Base damage adjusted from 100 -> 60 (+20 bonus to shields)
+    - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
+    - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
+    - Removed Reaver Capacity upgrade
 
 ***
 
@@ -145,7 +151,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 * Reduced the Overlord Speed from 0.9375 -> 0.6445
 * Reduced the Overlord Acceleration from 1.6875 -> 1.0625
 * Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
-* Dark Swarm now reduces ranged damage by 90% and spell damage by 55%
+* Dark Swarm now reduces ranged damage by 90% and ranged spell damage by 55%
 
 
 ***
