@@ -17,9 +17,8 @@ We'd like for people to join us in our journey as we work to deliver the Ultimat
 
 <iframe src="https://www.youtube.com/embed/fjIEpeKHqSk?si=OiLK8TTFEoipDjAX" frameborder="0" allowfullscreen></iframe>
 
-You can help us fund the Project's Models by Donating to our PayPal, all the money received goes directly to the Modellers and Data Engineers.
 
-<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" height="40"></a>
+You can help us fund the Project's Models by Donating to our <a href="https://paypal.me/KopruluKat/" target="_blank">Paypal</a>, all the money received goes directly to the Modellers and Data Engineers.
 
 _This site is still under construction and all articles are subject to change_
 <hr>
