@@ -11,7 +11,9 @@ tags:   [crossover, release]
 
 Today we celebrate the release of the SC Evo Crossover Edition mod, this mod is a much more in-depth update of the old SC1 vs SC2 Extension mod including some new units, abilities and upgrades as well as a much better balanced AI.
 
-We want to start this new post on our new site by publishing the patchnotes for our upcoming Update 1.0 to the Crossover Edition as well as thank everyone who has made this project possible and all the love and passion we've seen from the Korean community that inspire this update, without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
+We want to start this new post on our new site by publishing the patchnotes for our upcoming Update 1.0 to the Crossover Edition as well as thank everyone who has made this project possible and all the love and passion we've seen from the Korean community that inspire this update. 
+
+Coming in this update we're including the Reaver rework thanks to SardineS for allowing us to use his data and upgrade, you can find him at his [Twitch](https://www.twitch.tv/sardinestv) or [Youtube](https://www.youtube.com/@SardineS_tv) channel. Without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
 
 ***
 
@@ -22,6 +24,7 @@ _For starters we've made several adjustments to the game balance of all three ra
 * Removed bonus damage vs Shields from Explosive and Concussive Weapons
 * Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to armored/light for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
 * Reworked SC1 Unit Attributes
+* Adjusted Several Interactions between SC1 and SC2 Spells
 
 _These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._
 
@@ -31,6 +34,16 @@ _These changes are aimed at making the weapons across both races compatible allo
 _From the feedback we received on the terran sc1 vs sc2 balance some of the comments pointed out at the lack of a way to improve the unit production speed, while we do not yet have a solution we're exploring a couple options and if you have a suggestion feel free to drop it in the Discord._
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
+
+* Added New Unit: *The Stinger*
+* Added New Unit Upgrade: *Helios Tracer Rounds*
+
+_The New Stinger unit is meant to help out Terran players with a response to the Cyclone, the Stinger can be built at the Factory and requires an attached Machine shop and is equipped with two weapons, a Gatling gun able to deal 8 damage (+8 vs Mechanical) and a Grenade Launcher that can only target buildings for 20 Damage, the Stinger can also be upgraded with the *Helios Tracer Rounds* allowing it to target enemies while moving.
+
+We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
+
+![]({{site.baseurl}}/images/test.png)
+*Stinger GIF?*
 
 * Added Dropship Emergency Boost Upgrade at the Control Tower
 * Added Dropship Emergency Boost Ability
@@ -82,6 +95,16 @@ _This new upgrade is meant to address an issue with the late game unit productio
 ![]({{site.baseurl}}/images/test.png)
 *Resonant Matrix GIF?*
 
+* Reworked Reaver based on SardineS Reaver Mod
+    - Now uses SC1 mechanics with pathable scarab
+    - Base damage adjusted from 100 -> 60 (+20 bonus to shields)
+    - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
+    - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
+    - Removed Reaver Capacity upgrade
+
+![]({{site.baseurl}}/images/test.png)
+*Reaver GIF?*
+
 * Added the Ability for Observers to Morph into Surveillance Mode
 
 _Observers entering Surveilance Mode gain a much larger vision range at the cost of losing the ability to move until they're turned back to Observer mode._
@@ -109,12 +132,6 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
 * Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
 * Adjusted Shield Battery range and recharge rates to match SC2 Battery
-* Reworked Reaver based on SardineS Reaver Mod
-    - Now uses SC1 mechanics with pathable scarab
-    - Base damage adjusted from 100 -> 60 (+20 bonus to shields)
-    - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
-    - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
-    - Removed Reaver Capacity upgrade
 
 ***
 
@@ -130,15 +147,23 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 ![]({{site.baseurl}}/images/test.png)
 *Ensnare GIF?*
 
+* Increased Max Larva count for Lair from 3 -> 5
+* Increased Max Larva count for Hive from 3 -> 7
+* Increased the Hatchery delay between larva spawns from 12 -> 10
+* Decreased the Lair delay between larva spawns from 12 -> 10
+* Decreased the Hive delay between larva spawns from 12 -> 10
+
+_To help Zerg player production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
+
+![]({{site.baseurl}}/images/test.png)
+*Lair GIF?*
+
+* Overlords are no longer Detectors by Default
+    - Overlords now Require Antennae Upgrade to become Detectors
 * Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
 * Reduced Devourer costs from 250 Minerals -> 200 and 150 Vespene -> 125
 * Queen's Parasite now has a duration of 168 seconds.
 * Reduced Hatchery Costs from 300 Minerals -> 250
-* Increased the Hatchery delay between larva spawns from 12 -> 10
-* Decreased the Lair delay between larva spawns from 12 -> 10
-* Decreased the Hive delay between larva spawns from 12 -> 10
-* Increased Max Larva count for Lair from 3 -> 5
-* Increased Max Larva count for Hive from 3 -> 7
 * Reduced Hydralisk supply cost from 2 -> 1
 * Reduced Hydralisk Weapon Attack Period from 0.9375 -> 0.8437
 * Increased Guardian Speed from 1.406 -> 2.25
@@ -159,14 +184,16 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-* Added Ability data for **Resonant Matrix**
 * Added Ability data for **Emergency Thrusters**
 * Added Ability data for **Ensnaring Creep**
+* Added Upgrade data for **Resonant Matrix**
+* Added Upgrade data for **Helios Tracer Rounds**
 * Added Unit data for the **Stinger**
 * Added visual effect for Ultralisk speed Upgrage
 * Added data for combined Mech Plating Upgrades
 * Added the Ability for Changelings to morph into SC1 Races
 * Minor Data additions required for Crossover Update
+* The Discord Button on the Game Menu now has a delay before it becomes active once you hover over it
 * Adjusted Defiler spell animations
 * Adjusted Medic's Blind impact visual
 * Adjusted Arbiter missile and impact visuals
@@ -177,6 +204,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 * Default Burrow hotkeys have been adjusted to match sc2
 * Fixed Archon splash not dealing damage properly in Dark Swarm
 * Fixed missing text style errors
+* Fixed the missing Radius indicator for Scanner Sweep
 * Removed Warp Prism reference from Shuttles
 * Removed several unused text keys
 * Updated a previously erroneous larva spawn value to 19.8
