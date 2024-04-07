@@ -70,15 +70,17 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Increased Dropship Acceleration from 1.06 -> 1.5
 * Reduced Command Center Cost from 400 Minerals -> 350
 * Reduced Factory Cost from 200 Minerals -> 150
-* Increase Ghost Damage from 5 (10 vs Light) -> 8 (16 vs Light)
+* Increased Ghost Damage from 5 (10 vs Light) -> 8 (16 vs Light)
 * Increased Ghost Speed from 2.25 -> 2.5
 * Increased Marine Sight range from 8 -> 9
 * Reduced Marine Weapon Attack period from 0.9375 -> 0.8608
 * Reduced the SCV Health from 60 -> 45
+* Reduced Firebat Attack Period from 1.375 -> 1.25
+* Reduced Firebat cost from 75 Minerals -> 50 Minerals
+* Reduced Firebat and Marine Stimpack life cost 10 -> 5
 * Increased the Siege Tank Supply Cost from 2 -> 3
 * Increased Siege Tank Sieged Weapon Range from 12 -> 13
 * Reduced Siege Tank Weapon Attack period from 2.3125 -> 2.05
-* Reduced Firebat Attack Period from 1.375 -> 1.25
 * Reduced Goliath Air Weapon Attack Period from 1.5 -> 1.25
 * Reduced Goliath Ground Weapon Attack Period from 1.375 -> 1.22
 * Reduced Missile Turret Weapon Attack period from 0.9375 -> 0.8608
@@ -88,7 +90,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Added Light attribute to Vulture
 * Reduced range Vulture can deploy spider mines from 3 -> 1
 * Spider Mines no longer collides with 'Hover' attributed units
-* Reduced Firebat cost from 75 Minerals -> 50 Minerals
+* Adjusted Spider mine model size slightly to be bigger
 
 ***
 
@@ -111,6 +113,7 @@ _This new upgrade is meant to address an issue with the late game unit productio
     - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
     - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
     - Removed Reaver Capacity upgrade
+    - Changed Scarab costs 15 minerals -> 0 minerals 5 vespene 
 
 <iframe src="https://www.youtube.com/embed/6R4cK9bLCYo?si=JjSYI_btacRr-WLK" frameborder="0" allowfullscreen></iframe>
 *Showcase Video of the Reaver by SardineS*
@@ -144,6 +147,7 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 * Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
 * Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
 * Adjusted Shield Battery range and recharge rates to match SC2 Battery
+* Hallucinations can no longer be instantly killed by various SC1 spells
 
 ***
 
@@ -174,28 +178,33 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 
 _To help Zerg player unit production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
 
-
-* Overlords are no longer Detectors by Default
-    - Overlords now Require Antennae Upgrade to become Detectors
-* Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
-* Reduced Devourer costs from 250 Minerals -> 200 and 150 Vespene -> 125
-* Increased Devourer Supply Cost from 2 -> 3
-* Queen's Parasite now has a duration of 168 seconds.
 * Reduced Hatchery Costs from 300 Minerals -> 250
+* Increased morph time of Lair 60 -> 80
+* Increased morph time of Hive 60 -> 100
+* Reduced Spore Colony morph time from 21 -> 16
+* **Overlords are no longer Detectors by Default**
+    - Overlords now Require Antennae Upgrade to become Detectors
+* Increased Overlord Speed upgrade research time 43 -> 60
+* Reduced the Overlord Speed from 0.9375 -> 0.6445
+* Reduced the Overlord Acceleration from 1.6875 -> 1.0625
+* Queen's Parasite now has a duration of 168 seconds.
+* Increased 'Spawn Broodling' research time 60 -> 140.
 * Reduced Hydralisk supply cost from 2 -> 1
 * Reduced Hydralisk Weapon Attack Period from 0.9375 -> 0.8437
+* Reduced Hydralisk range upgrade research time 100 -> 79
+* Reduced Hydralisk speed upgrade research time 100 -> 90
+* Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
+* Reduced Mutalisk Vespene Costs from 100 -> 75
+* Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
+* Reduced Devourer Morph mineral cost from 150 -> 100
+* Increased Devourer Supply Cost from 2 -> 3
 * Increased Guardian Speed from 1.406 -> 2.25
 * Reduced Guardian Weapon Attack Period from 1.875 -> 1.5
 * Increased the Guardian Weapon Range from 8 -> 10
-* Reduced Guardian Vespene Cost from 200 -> 175
 * Increased Guardian Supply Cost from 2 -> 4
-* Reduced the Mutalisk Vespene Costs from 100 -> 75
-* Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
-* Reduced the Overlord Speed from 0.9375 -> 0.6445
-* Reduced the Overlord Acceleration from 1.6875 -> 1.0625
 * Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
 * Dark Swarm now reduces ranged damage by 90% and ranged spell damage by 55%
-
+* Zerg units now unburrow correctly when lifted by Phoenixes
 
 ***
 
@@ -215,15 +224,22 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
 * Adjusted Medic's Blind impact visual
 * Adjusted Arbiter missile and impact visuals
 * Adjusted Overlord speed being too high by default
+* Adjusted Shuttle model to be easier click and select
+* Adjusted Observers model size to be bigger
 * Dark Archon Feedback can no longer target structures
 * Burrow and Unburrow Ability now share placement in the Command Card to match sc2
 * Burrow and Unburrow Commands are now able to be sent to other units currently selected
 * Default Burrow hotkeys have been adjusted to match sc2
-* Fixed Archon splash not dealing damage properly in Dark Swarm
+* Fixed Archon not dealing splash damage properly in Dark Swarm
 * Fixed missing text style errors
 * Fixed the missing Radius indicator for Scanner Sweep
+* Fixed issue where morph visual would remain after canceling Lair or Hive morphing
+* Fixed bug causing SCV's to gain weapon upgrades
+* Fixed issue on some Observatory death model not playing correctly
+* Fixed Fleet Beacon death model changing size
 * Removed Warp Prism reference from Shuttles
 * Removed several unused text keys
 * Updated a previously erroneous larva spawn value to 19.8
+* Optimized several texture assets
 
 ***
