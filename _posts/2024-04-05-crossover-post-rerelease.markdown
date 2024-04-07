@@ -151,13 +151,12 @@ _The biggest problem that we've identified with the Zerg as of yet has been a re
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-* Added Queen Ensnaring Creep Ability
-* Removed Queen Ensnare Ability
+* Replaced Queen Ensnare with Ensnaring Creep Ability
 
 ![]({{site.baseurl}}/gifs/2024-07-04-queencreep.gif)
 *Queen using the new Ensnare Creep Effect*
 
-_Queens have received a modified ability replacing Ensnare, this Ability variant launches a mix of creep and the classic green goo to slow down enemies as well as create a Creep patch around the target aream this ability has several uses such as giving your units a temporary speed boost or using it as part of a Nydus Proxy._
+_Queens have received a modified ability replacing Ensnare, this Ability variant launches a mix of creep and the classic green goo to slow down enemies as well as create a Creep patch around the target aream this ability has a lot of potential and it could be used as part of a Nydus Proxy._
 
 
 * Increased Max Larva count for Lair from 3 -> 5
