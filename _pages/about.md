@@ -15,7 +15,7 @@ Our Campaign offering which is currently under development will include new Unit
 
 We'd like for people to join us in our journey as we work to deliver the Ultimate BroodWar Remake.
 
-<iframe src="https://www.youtube.com/watch?v=fjIEpeKHqSk" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/fjIEpeKHqSk?si=OiLK8TTFEoipDjAX" frameborder="0" allowfullscreen></iframe>
 
 You can help us fund the Project's Models by Donating to our PayPal, all the money received goes directly to the Modellers and Data Engineers.
 
