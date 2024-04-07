@@ -95,7 +95,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Added Light attribute to Vulture
 * Reduced range Vulture can deploy spider mines from 3 -> 1
 * Spider Mines no longer collides with 'Hover' attributed units
-* Adjusted Spider mine model size slightly to be bigger
+* Increased Spider Mine model size slightly
 
 ***
 
