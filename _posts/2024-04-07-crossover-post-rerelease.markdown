@@ -150,6 +150,7 @@ _Although Dark Archons and High Templars do not usually have weapons, one has be
 * Increased High Templar Acceleration from 1.6875 -> 2.5
 * Increased the Shuttle Speed from 2.4882 -> 2.5507
 * Reduced the Arbiter Attack Period from 2.8125 -> 2.5312
+* Units hit by Arbiter Stasis can no longer be moved by allied units.
 * Reduced Photon Cannon Weapon Attack period from 1.375 -> 1.25
 * Increased Photon Cannon shields and life from 100 -> 150
 * Reduced Pylon shields and life from 300 -> 250
