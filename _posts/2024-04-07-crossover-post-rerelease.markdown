@@ -134,7 +134,7 @@ _Observers entering Surveilance Mode gain a much larger vision range at the cost
 * Added a Weapon to the High Templar
 * Added a Weapon to the Dark Archon
 
-_Although Dark Archons and High Templars do not usually have weapons one has been added with very low damage to help them from walking straight into the enemy_
+_Although Dark Archons and High Templars do not usually have weapons, one has been added with very low damage to help them from walking straight into the enemy._
 
 
 * Reduced Nexus Costs from 400 Minerals -> 350
@@ -170,9 +170,7 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 
 * Increased Max Larva count for Lair from 3 -> 5
 * Increased Max Larva count for Hive from 3 -> 7
-* Increased the Hatchery delay between larva spawns from 12 -> 10
-* Decreased the Lair delay between larva spawns from 12 -> 10
-* Decreased the Hive delay between larva spawns from 12 -> 10
+* Decreased the Hatchery, Lair and Hive delay between larva spawns from 12 -> 10
 
 ![]({{site.baseurl}}/gifs/2024-07-04-lairlarva.gif)
 *Lair Holding 5 Larvae*
