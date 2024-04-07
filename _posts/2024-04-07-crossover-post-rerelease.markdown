@@ -210,6 +210,7 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
 * Adjusted incorrect Scourge cost values from 24 Minerals -> 25 and 74 Vespene -> 75
 * Dark Swarm now reduces ranged damage by 90% and ranged spell damage by 55%
 * Zerg units now unburrow correctly when lifted by Phoenixes
+* Queens Ensnare and Defiler Plague abilities no longer reveal targets in the fog of war.
 
 ***
 
