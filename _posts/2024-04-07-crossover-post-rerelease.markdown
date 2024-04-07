@@ -115,6 +115,7 @@ _This new upgrade is meant to address an issue with the late game unit productio
 * Reworked Reaver based on SardineS Reaver Mod
     - Now uses SC1 mechanics with pathable scarab
     - Base damage adjusted from 100 -> 60 (+20 bonus to shields)
+    - Reaver now gains weapon upgrades, gaining 6 base damage per upgrade
     - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
     - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
     - Removed Reaver Capacity upgrade
