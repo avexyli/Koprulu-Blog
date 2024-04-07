@@ -179,6 +179,7 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
     - Overlords now Require Antennae Upgrade to become Detectors
 * Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
 * Reduced Devourer costs from 250 Minerals -> 200 and 150 Vespene -> 125
+* Increased Devourer Supply Cost from 2 -> 3
 * Queen's Parasite now has a duration of 168 seconds.
 * Reduced Hatchery Costs from 300 Minerals -> 250
 * Reduced Hydralisk supply cost from 2 -> 1
@@ -213,7 +214,7 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
 * Adjusted Defiler spell animations
 * Adjusted Medic's Blind impact visual
 * Adjusted Arbiter missile and impact visuals
-* Adjusted OVerlord speed being too high by default
+* Adjusted Overlord speed being too high by default
 * Dark Archon Feedback can no longer target structures
 * Burrow and Unburrow Ability now share placement in the Command Card to match sc2
 * Burrow and Unburrow Commands are now able to be sent to other units currently selected
