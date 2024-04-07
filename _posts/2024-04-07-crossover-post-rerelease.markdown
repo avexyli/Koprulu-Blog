@@ -41,8 +41,8 @@ _The AI has not yet been tuned due to several balance changes we've made as well
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-* Added New Unit: *The Stinger*
-* Added New Unit Upgrade: *Helios Tracer Rounds*
+* Added New Unit: *The Stinger* (Cost: 125/50 | Requires Machine Shop)
+* Added New Unit Upgrade: *Helios Tracer Rounds* (Researched at Machine shop, requires Armory)
 
 ![]({{site.baseurl}}/images/stinger-showcase.png)
 *Stinger Model*
@@ -83,7 +83,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 * Reduced Firebat Attack Period from 1.375 -> 1.25
 * Reduced Firebat cost from 75 Minerals -> 50 Minerals
 * Reduced Firebat and Marine Stimpack life cost 10 -> 5
-* Increased the Siege Tank Supply Cost from 2 -> 3
+* Increased the Siege Tank Supply Cost from 2 -> 3 and Vespene Cost 100 -> 125
 * Increased Siege Tank Sieged Weapon Range from 12 -> 13
 * Reduced Siege Tank Weapon Attack period from 2.3125 -> 2.05
 * Reduced Goliath Air Weapon Attack Period from 1.5 -> 1.25
