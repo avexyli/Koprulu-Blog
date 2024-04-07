@@ -38,6 +38,9 @@ _From the feedback we received on the terran sc1 vs sc2 balance some of the comm
 * Added New Unit: *The Stinger*
 * Added New Unit Upgrade: *Helios Tracer Rounds*
 
+![]({{site.baseurl}}/images/stinger-showcase.png)
+*Stinger Model*
+
 ![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
 *Base Stinger*
 ![]({{site.baseurl}}/gifs/2024-07-04-stinger2.gif)
@@ -48,11 +51,12 @@ _The New Stinger unit is meant to help out Terran players with a response to the
 
 _We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
 
-* Added Dropship Emergency Boost Upgrade at the Control Tower
-* Added Dropship Emergency Boost Ability
 
-![]({{site.baseurl}}/images/test.png)
-*Emergency Boost GIF?*
+* Added Dropship Emergency Thrusters Upgrade at the Control Tower
+* Added Dropship Emergency Thrusters Ability
+
+![]({{site.baseurl}}/gifs/2024-07-04-dropship.gif)
+*Dropship using Emergency Thrusters*
 
 _The new upgrade for the Dropship works in a similar way as the sc2 medivac but requires a previous research at the Control tower for 100 minerals and 100 vespene, allowing the Dropship to receive a temporary boost to leave sticky situations or make for quick drop-ins._
 
@@ -94,10 +98,11 @@ _Protoss Race General State_
 * Added Gateway Resonant Matrix Upgrade at the Citadel of Adun
 * Added Gateway Resonant Matrix Passive Ability
 
+![]({{site.baseurl}}/gifs/2024-07-04-matrix.gif)
+*Resonant Matrix Producing two Units*
+
 _This new upgrade is meant to address an issue with the late game unit production for the protoss, it can be researched at the Citadel of Adun for 200 Minerals and 200 Vespne, requires the Templar Archive and allows Gateways to produce two units at the same time._
 
-![]({{site.baseurl}}/images/test.png)
-*Resonant Matrix GIF?*
 
 * Reworked Reaver based on SardineS Reaver Mod
     - Now uses SC1 mechanics with pathable scarab
@@ -106,20 +111,19 @@ _This new upgrade is meant to address an issue with the late game unit productio
     - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
     - Removed Reaver Capacity upgrade
 
-![]({{site.baseurl}}/images/test.png)
-*Reaver GIF?*
-
 * Added the Ability for Observers to Morph into Surveillance Mode
+
+![]({{site.baseurl}}/gifs/2024-07-04-observer.gif)
+*Observer using Surveillance Mode*
 
 _Observers entering Surveilance Mode gain a much larger vision range at the cost of losing the ability to move until they're turned back to Observer mode._
 
-![]({{site.baseurl}}/images/test.png)
-*Observer Surveillance GIF?*
 
 * Added a Weapon to the High Templar
 * Added a Weapon to the Dark Archon
 
 _Although Dark Archons and High Templars do not usually have weapons one has been added with very low damage to help them from walking straight into the enemy_
+
 
 * Reduced Nexus Costs from 400 Minerals -> 350
 * Reduced Dragoon base Damage from 15 -> 14
