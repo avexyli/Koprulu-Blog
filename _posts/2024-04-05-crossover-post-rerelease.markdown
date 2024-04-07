@@ -42,8 +42,7 @@ _The New Stinger unit is meant to help out Terran players with a response to the
 
 We cannot wait for players to get their hands on the Stinger and try out new strategies, we're open to any possible changes to this new Unit and we'd like to show our commitment and flexibility to add new things or make some changes._
 
-![]({{site.baseurl}}/images/test.png)
-*Stinger GIF?*
+![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
 
 * Added Dropship Emergency Boost Upgrade at the Control Tower
 * Added Dropship Emergency Boost Ability
