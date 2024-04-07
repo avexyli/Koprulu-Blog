@@ -198,6 +198,7 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
 * Reduced Hydralisk range upgrade research time 100 -> 79
 * Reduced Hydralisk speed upgrade research time 100 -> 90
 * Reduced Ultralisk Weapon Attack period from 0.9375 -> 0.8437
+* Reduced Ultralisk model size to match SC2 Ultra 
 * Reduced Mutalisk Vespene Costs from 100 -> 75
 * Reduced Mutalisk Weapon Attack period from 1.875 -> 1.5246
 * Reduced Devourer Morph mineral cost from 150 -> 100
@@ -228,7 +229,7 @@ _To help Zerg player unit production we're reducing the spawn delay for all Zerg
 * Adjusted Medic's Blind impact visual
 * Adjusted Arbiter missile and impact visuals
 * Adjusted Overlord speed being too high by default
-* Adjusted Shuttle model to be easier click and select
+* Adjusted Shuttle model to be easier to click and select
 * Adjusted Observers model size to be bigger
 * Dark Archon Feedback can no longer target structures
 * Burrow and Unburrow Ability now share placement in the Command Card to match sc2
