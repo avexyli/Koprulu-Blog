@@ -25,6 +25,7 @@ _For starters we've made several adjustments to the game balance of all three ra
 * Reworked Damage bonuses across most SC1 Units, Explosive and Concussive weapons now gain +1 damage to armored/light for each weapon upgrade (Damage bonuses from upgrades have been adjusted accordingly)
 * Reworked SC1 Unit Attributes
 * Adjusted Several Interactions between SC1 and SC2 Spells
+* Adjusted attack periods of most SC1 Units
 
 _These changes are aimed at making the weapons across both races compatible allowing the sc2 damage bonuses to work on sc1 units and vice versa._
 
@@ -91,7 +92,7 @@ _The new upgrade for the Dropship works in a similar way as the sc2 medivac but 
 
 ***
 
-_Protoss Race General State_
+_Similarly with the other races the Protoss also suffer from a reduced production speed mostly due to the existence of Warp Gates for the sc2 Protoss, to that end we've added a new Upgrade to Gateways for the Mid-Late Game, we'd like some more feedback on the current Upgrade Requirements._
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
@@ -101,7 +102,7 @@ _Protoss Race General State_
 ![]({{site.baseurl}}/gifs/2024-07-04-matrix.gif)
 *Resonant Matrix Producing two Units*
 
-_This new upgrade is meant to address an issue with the late game unit production for the protoss, it can be researched at the Citadel of Adun for 200 Minerals and 200 Vespne, requires the Templar Archive and allows Gateways to produce two units at the same time._
+_This new upgrade is meant to address an issue with the late game unit production for the protoss, it can be researched at the Citadel of Adun for 200 Minerals and 200 Vespne, requires the Arbiter Tribunal and allows Gateways to produce two units at the same time._
 
 
 * Reworked Reaver based on SardineS Reaver Mod
@@ -110,6 +111,9 @@ _This new upgrade is meant to address an issue with the late game unit productio
     - Reaver Scarab Damage upgrade now gives +40 dmg vs armored
     - Added new upgrade 'Imbued Lenses', increases Reavers range by 2
     - Removed Reaver Capacity upgrade
+
+<iframe src="https://www.youtube.com/embed/6R4cK9bLCYo?si=JjSYI_btacRr-WLK" frameborder="0" allowfullscreen></iframe>
+*Showcase Video of the Reaver by SardineS*
 
 * Added the Ability for Observers to Morph into Surveillance Mode
 
@@ -143,17 +147,18 @@ _Although Dark Archons and High Templars do not usually have weapons one has bee
 
 ***
 
-_Zerg Race General State_
+_The biggest problem that we've identified with the Zerg as of yet has been a reduced production speed when compared to SC2 due to queens, to that end we've made some changes to the larvae. While this is not the only issue with the Zerg race, we'd like to gather additional feedback to make future adjustments._
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 * Added Queen Ensnaring Creep Ability
 * Removed Queen Ensnare Ability
 
+![]({{site.baseurl}}/gifs/2024-07-04-queencreep.gif)
+*Queen using the new Ensnare Creep Effect*
+
 _Queens have received a modified ability replacing Ensnare, this Ability variant launches a mix of creep and the classic green goo to slow down enemies as well as create a Creep patch around the target aream this ability has several uses such as giving your units a temporary speed boost or using it as part of a Nydus Proxy._
 
-![]({{site.baseurl}}/images/test.png)
-*Ensnare GIF?*
 
 * Increased Max Larva count for Lair from 3 -> 5
 * Increased Max Larva count for Hive from 3 -> 7
@@ -161,10 +166,14 @@ _Queens have received a modified ability replacing Ensnare, this Ability variant
 * Decreased the Lair delay between larva spawns from 12 -> 10
 * Decreased the Hive delay between larva spawns from 12 -> 10
 
-_To help Zerg player production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
+![]({{site.baseurl}}/gifs/2024-07-04-lairlarva.gif)
+*Lair Holding 5 Larvae*
 
-![]({{site.baseurl}}/images/test.png)
-*Lair GIF?*
+![]({{site.baseurl}}/gifs/2024-07-04-2024-07-04-hivelarva.gif)
+*Hive Holding 7 Larvae*
+
+_To help Zerg player unit production we're reducing the spawn delay for all Zerg town buildings as well as increasing the max amount of Larvae that can be idle at each building._
+
 
 * Overlords are no longer Detectors by Default
     - Overlords now Require Antennae Upgrade to become Detectors
