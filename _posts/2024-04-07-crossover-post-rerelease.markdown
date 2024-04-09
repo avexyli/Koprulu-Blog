@@ -15,6 +15,11 @@ We want to start this new post on our new site by publishing the patchnotes for 
 
 Coming in this update we're including the Reaver rework thanks to SardineS for allowing us to use his data and upgrade, you can find him at his [Twitch](https://www.twitch.tv/sardinestv) or [Youtube](https://www.youtube.com/@SardineS_tv) channel. Without further ado below are the update notes as well as some comments from the dev team on how or why some changes were made.
 
+For this update we have finished the Korean Translation featuring:
+- Fully Translated Text
+- Korean Voices
+- Korean Portrait Animations
+
 ***
 
 ![]({{site.baseurl}}/images/Divider_Crossover.png)
