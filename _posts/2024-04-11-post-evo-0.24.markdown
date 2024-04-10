@@ -31,6 +31,10 @@ tags:   [crossover, release]
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-
+* Fixed Hive and Lair not using correct morph times
+* Adjusted Firebat splash to be slightly smaller to match sc1 behaviour
+* Increased Spider Mine model size slightly
+* Reduced Dark Archon model size to match Archon
+* Stasis Field not longer reveals targets in fog of war
 
 ***
