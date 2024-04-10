@@ -7,34 +7,84 @@ image:  '/images/Crossover1_0.png'
 tags:   [crossover, release]
 ---
 
-## Evo Release 1.0
+## Evo Release 0.24
 
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Crossover.png)
 
-
+* Added back negative damage values for Concussive and Explosive attacks
+* Added Fractional armor handling to Concussive and Explosive attacks
+* Hallucinations can no longer be killed by various sc1 spells
+* Matched Vespene structures costs to SC2
+* Matched all worker weapons speeds, sizes, acceleration to sc2 values
+* All melee weapons ranges now matched to sc2 standards
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
+* Increased Yamato Energy cost 100 -> 150
+* Reduced Yamato Research time 140 -> 112.5
+* Reduced Yamato Cost 150/150 -> 100/100
+* Added Siege Mode Tech research requirement back
+* Stimpack Research time 140 -> 75
+* Spider Mine research time 100 -> 75
+* Siege Tank & Goliath turrets now tracks target while moving
+* Fixed Lockdown research time 10 -> 70
+* Increased Lockdown duration 20 -> 65.5
+* Lockdown can no longer target player or allied units
+* Reduced Firebat mineral cost 75 -> 50
+* Reduced Firebat life 80 -> 50
+* Reduced Ghost cost 100/100 -> 25/75
+* Reduced Ghost life 75 -> 45
+* Increased Marine Sight radius 8 -> 9
+* Reduced Siege Tank life 175 -> 150
+* Missile Turret weapon period 0.9375 -> 0.8608 
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
+* SC1 Protoss Shields recharge delay 10 -> 0
+* SC1 Protoss Shields recharge rate 2 -> 0.4375
+* Reduced Stasis Field Research Time 170 -> 100
+* Reduced Stasis Field Research Time 170 -> 100
+* Reduced Carrier starting Interceptor count 2 -> 0
+* Increased Carrier Hangar Research Time 80 -> 65
+* Increased Carrier Hangar Research Time 80 -> 65
+* Dark Archon can no longer Feedback friendly units
+* Dark Archon Mind control research time 180 -> 112.5
+* Fixed Observer Sight Range upgrade vespene cost 110 -> 100
+* Queen Spawn Broodling research time 60 -> 75
+* Reduced Reaver starting Scarab Count 2 -> 0
+* Increased Stasis field duration 40 -> 65.5
+* Medic Optic Flare Blind now stays indefinetly 
+* Increased Arbiter vespene cost 300 -> 350
+* Matched Archon & Dark Archon sizes to sc2 Archons
+* Reaver Build time 85 -> 75
+* Reduced Shuttle Shields 100 -> 60
+* Dark Templar Weapon speed 1.875 -> 1.694
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
+* SC1 Zerg units not longer gain movement speed increases from creep
+* Fixed Scourge costs being incorrect
+* Queen Spawn Broodling research time 60 -> 75
+* Reduced Ultralisk unit and model size to match sc2
+* Queens Parasite now stays indefinetly
+* Plague can no longer target player or allied units 
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-* Fixed Hive and Lair not using correct morph times
-* Adjusted Firebat splash to be slightly smaller to match sc1 behaviour
+* Adjusted Firebat splash to be slightly 10% smaller to match sc1 behaviour
+* Changed Academy default build hotkey to A
 * Increased Spider Mine model size slightly
 * Reduced Dark Archon model size to match Archon
 * Stasis Field not longer reveals targets in fog of war
+* Fixed Hive and Lair using incorrect morph times
+* Fix Lurker Aspect being available without Lair
+* Added SC2 Ally under attack alerts for multiplayer games
 
 ***
