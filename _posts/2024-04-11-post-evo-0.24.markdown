@@ -47,9 +47,7 @@ tags:   [crossover, release]
 * SC1 Protoss Shields recharge delay 10 -> 0
 * SC1 Protoss Shields recharge rate 2 -> 0.4375
 * Reduced Stasis Field Research Time 170 -> 100
-* Reduced Stasis Field Research Time 170 -> 100
 * Reduced Carrier starting Interceptor count 2 -> 0
-* Increased Carrier Hangar Research Time 80 -> 65
 * Increased Carrier Hangar Research Time 80 -> 65
 * Dark Archon can no longer Feedback friendly units
 * Dark Archon Mind control research time 180 -> 112.5
