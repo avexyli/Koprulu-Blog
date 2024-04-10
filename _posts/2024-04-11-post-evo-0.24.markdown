@@ -60,6 +60,7 @@ tags:   [crossover, release]
 * Matched Archon & Dark Archon sizes to sc2 Archons
 * Reaver Build time 85 -> 75
 * Reduced Shuttle Shields 100 -> 60
+* Increased Shuttle speed research cost 100/100 -> 200/200
 * Dark Templar Weapon speed 1.875 -> 1.694
 
 
