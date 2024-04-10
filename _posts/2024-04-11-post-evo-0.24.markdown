@@ -40,7 +40,7 @@ tags:   [crossover, release]
 * Increased Marine Sight radius 8 -> 9
 * Reduced Siege Tank life 175 -> 150
 * Missile Turret weapon period 0.9375 -> 0.8608 
-
+* SCV can now repair other races
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
