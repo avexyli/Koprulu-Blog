@@ -90,8 +90,10 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Increased Spider Mine model size slightly
 * Reduced Dark Archon model size to match Archon
 * Stasis Field not longer reveals targets in fog of war
-* Fixed Hive and Lair using incorrect morph times
-* Fix Lurker Aspect being available without Lair
+* Fixed Hives and Lairs using incorrect morph times
+* Fixed a bug allowing Lurker Aspect to be available without Lair
 * Added SC2 Ally under attack alerts for multiplayer games
+* Fixed a bug preventing Sc2 Lurkers from dealing damage under Dark Swarm
+* Fixed a bug allowing Maelstrom to target Sc2 Ultralisk
 
 ***
