@@ -66,9 +66,10 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Increased Stasis field duration 40 -> 65.5
 * Increased Arbiter vespene cost 300 -> 350
 * Matched Archon & Dark Archon sizes to sc2 Archons
-* Reaver Build time 85 -> 75
+* Reaver Build time 85 -> 65.6
 * Reduced Shuttle Shields 100 -> 60
 * Increased Shuttle speed research cost 100/100 -> 200/200
+* Shuttle Build time 50 -> 56.25
 * Dark Templar Weapon speed 1.875 -> 1.694
 
 
