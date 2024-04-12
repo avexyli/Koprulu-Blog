@@ -1,18 +1,26 @@
 ---
 layout: post
-title:  SC Evo TITLE
-description: DESCRIPTION
-date:   2024-04-10 15:01:35 +0000
+title:  SC Evo Complete Extension update 0.24
+description: First balance update for SC Evo Complete Extension as well as addressing feedback received by the KR community
+date:   2024-04-12 15:01:35 +0000
 image:  '/images/Crossover1_0.png'
 tags:   [crossover, release]
 ---
 
-## Evo Release 0.24
+## Evo Complete Extension Release 0.24
 
+Hey everyone!, we've listened to the feedback we received from the Crossover Extension mod and after careful review we decided to continue supporting the Evo Extension Mod, while Crossover will remain online it's development time and resources will be devoted somewhere else.
+
+In the meantime however we decided to roll back some of the changes we originally had done to Evo Extension to revert most of them back to their BW values, most noticeably we've reverted the weapon behaviors from BroodWar as well as a huge amount of changes to Research times, costs, Health adjustments.
+**Do Note that most of these changes come from vanilla BroodWar values**
+
+Besides that a new iteration of the Melee AI is in development since the current one was not tuned for this version of the Mod.
+
+We hope that this update satisfies the players who seek a more authentic experience when playing Starcraft 2 vs BroodWar modes, we will be on the lookout for additional feedback from our Korean Advisors to continue to improve these mods in the future.
 
 ***
 
-![]({{site.baseurl}}/images/Divider_Crossover.png)
+![]({{site.baseurl}}/images/Divider_Extension.png)
 
 * Added back negative damage values for Concussive and Explosive attacks
 * Added Fractional armor handling to Concussive and Explosive attacks
@@ -40,6 +48,7 @@ tags:   [crossover, release]
 * Increased Marine Sight radius 8 -> 9
 * Reduced Siege Tank life 175 -> 150
 * Missile Turret weapon period 0.9375 -> 0.8608 
+* Medic Optic Flare Blind now stays indefinetly 
 * SCV can now repair other races
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
@@ -55,7 +64,6 @@ tags:   [crossover, release]
 * Queen Spawn Broodling research time 60 -> 75
 * Reduced Reaver starting Scarab Count 2 -> 0
 * Increased Stasis field duration 40 -> 65.5
-* Medic Optic Flare Blind now stays indefinetly 
 * Increased Arbiter vespene cost 300 -> 350
 * Matched Archon & Dark Archon sizes to sc2 Archons
 * Reaver Build time 85 -> 75
@@ -77,7 +85,7 @@ tags:   [crossover, release]
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-* Adjusted Firebat splash to be slightly 10% smaller to match sc1 behaviour
+* Adjusted Firebat splash to be slightly smaller _(around 10%)_ to match sc1 behaviour
 * Changed Academy default build hotkey to A
 * Increased Spider Mine model size slightly
 * Reduced Dark Archon model size to match Archon
