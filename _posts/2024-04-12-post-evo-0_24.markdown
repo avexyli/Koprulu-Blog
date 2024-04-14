@@ -25,6 +25,7 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Added back negative damage values for Concussive and Explosive attacks
 * Added Fractional armor handling to Concussive and Explosive attacks
 * Hallucinations can no longer be killed by various sc1 spells
+* Adjusted various unit build times to match SC2
 * Matched Vespene structures costs to SC2
 * Non worker melee weapons ranges now matched to sc2 standards
 * Added Gameheart and Observer PlusPlus mod support into the extension
@@ -77,10 +78,10 @@ We hope that this update satisfies the players who seek a more authentic experie
 * SC1 Zerg units not longer gain movement speed increases from creep
 * Fixed Scourge costs being incorrect
 * Queen Spawn Broodling research time 60 -> 75
-* Reduced Ultralisk unit and model size to match sc2
+* Reduced Ultralisk unit and model size to match sc2, can now fit 1x1 gaps
 * Queens Parasite now stays indefinetly
 * Plague can no longer target player or allied units
-* Made Ultralisk smaller, can now fit 1x1 gaps
+* Larva spawn time 10 -> 15
 
 ***
 
@@ -107,5 +108,7 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Goliaths now launch both missiles at the same time
 * Added hallucination death to fake scarabs launched by Hallucinated reavers
 * Adjusted Scarab unit size 0.3125 -> 0.125
+* Spider Mine now attacks cloaked targets passing by
+* Goliath and Siege tank turrets now track their targets while moving
 
 ***
