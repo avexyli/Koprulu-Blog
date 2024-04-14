@@ -26,8 +26,8 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Added Fractional armor handling to Concussive and Explosive attacks
 * Hallucinations can no longer be killed by various sc1 spells
 * Matched Vespene structures costs to SC2
-* Matched all worker weapons speeds, sizes, acceleration to sc2 values
-* All melee weapons ranges now matched to sc2 standards
+* Non worker melee weapons ranges now matched to sc2 standards
+* Added Gameheart and Observer PlusPlus mod support into the extension
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
@@ -57,11 +57,10 @@ We hope that this update satisfies the players who seek a more authentic experie
 * SC1 Protoss Shields recharge rate 2 -> 0.4375
 * Reduced Stasis Field Research Time 170 -> 100
 * Reduced Carrier starting Interceptor count 2 -> 0
-* Increased Carrier Hangar Research Time 80 -> 65
+* Reduced Carrier Hangar Research Time 80 -> 65
 * Dark Archon can no longer Feedback friendly units
 * Dark Archon Mind control research time 180 -> 112.5
 * Fixed Observer Sight Range upgrade vespene cost 110 -> 100
-* Queen Spawn Broodling research time 60 -> 75
 * Reduced Reaver starting Scarab Count 2 -> 0
 * Increased Stasis field duration 40 -> 65.5
 * Increased Arbiter vespene cost 300 -> 350
@@ -80,7 +79,8 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Queen Spawn Broodling research time 60 -> 75
 * Reduced Ultralisk unit and model size to match sc2
 * Queens Parasite now stays indefinetly
-* Plague can no longer target player or allied units 
+* Plague can no longer target player or allied units
+* Made Ultralisk smaller, can now fit 1x1 gaps
 
 ***
 
@@ -95,6 +95,17 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Fixed a bug allowing Lurker Aspect to be available without Lair
 * Added SC2 Ally under attack alerts for multiplayer games
 * Fixed a bug preventing Sc2 Lurkers from dealing damage under Dark Swarm
-* Fixed a bug allowing Maelstrom to target Sc2 Ultralisk
+* Fixed issues allowing Maelstrom and Ensnare slow to effect Sc2 Ultralisk
+* Fixed multiple issues with low quality death models
+* Fixed issue with units using wrong assets when dying in mid air.
+* Fixed Gravitic Drive using a wrong upgrade icon 
+* Fixed Maelstrom being able to target buildings
+* Fixed Mutalisk bounce search being too large
+* Fixed issue that prevented Creep Colonies to be placed in fog of war
+* SC1 Races now have custom race icons for observer interfaces
+* Corrected SC1 Interceptor using wrong model
+* Goliath attack can no longer launch one missile only
+* Added hallucination death to fake scarabs launched by Hallucinated reavers
+* Adjusted Scarab unit size 0.3125 -> 0.125
 
 ***
