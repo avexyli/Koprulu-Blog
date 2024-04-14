@@ -104,7 +104,7 @@ We hope that this update satisfies the players who seek a more authentic experie
 * Fixed issue that prevented Creep Colonies to be placed in fog of war
 * SC1 Races now have custom race icons for observer interfaces
 * Corrected SC1 Interceptor using wrong model
-* Goliath attack can no longer launch one missile only
+* Goliaths now launch both missiles at the same time
 * Added hallucination death to fake scarabs launched by Hallucinated reavers
 * Adjusted Scarab unit size 0.3125 -> 0.125
 
