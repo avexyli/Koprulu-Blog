@@ -1,0 +1,115 @@
+---
+layout: post
+title:  SC Evo Complete Extension update 0.24
+description: First balance update for SC Evo Complete Extension as well as addressing feedback received by the KR community
+date:   2024-04-12 15:01:35 +0000
+image:  '/images/EvoExtension0_24.png'
+tags:   [crossover, release]
+featured: true
+---
+
+## Evo Complete Extension Release 0.24
+
+Hey everyone!, we've listened to the feedback we received from the Crossover Extension mod and after careful review we decided to continue supporting the Evo Extension Mod, while Crossover will remain online it's development time and resources will be devoted somewhere else.
+
+In the meantime however we decided to roll back some of the changes we originally had done to Evo Extension to revert most of them back to their BW values, most noticeably we've reverted the weapon behaviors from BroodWar as well as a huge amount of changes to Research times, costs, Health adjustments.
+**Do Note that most of these changes come from vanilla BroodWar values**
+
+Besides that a new iteration of the Melee AI is in development since the current one was not tuned for this version of the Mod.
+
+We hope that this update satisfies the players who seek a more authentic experience when playing Starcraft 2 vs BroodWar modes, we will be on the lookout for additional feedback from our Korean Advisors to continue to improve these mods in the future.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+* Added back negative damage values for Concussive and Explosive attacks
+* Added Fractional armor handling to Concussive and Explosive attacks
+* Hallucinations can no longer be killed by various sc1 spells
+* Adjusted various unit build times to match SC2
+* Matched Vespene structures costs to SC2
+* Non worker melee weapons ranges now matched to sc2 standards
+* Added Gameheart and Observer PlusPlus mod support into the extension
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+* Increased Yamato Energy cost 100 -> 150
+* Reduced Yamato Research time 140 -> 112.5
+* Reduced Yamato Cost 150/150 -> 100/100
+* Added Siege Mode Tech research requirement back
+* Stimpack Research time 140 -> 75
+* Spider Mine research time 100 -> 75
+* Siege Tank & Goliath turrets now tracks target while moving
+* Fixed Lockdown research time 10 -> 70
+* Increased Lockdown duration 20 -> 65.5
+* Lockdown can no longer target player or allied units
+* Reduced Firebat mineral cost 75 -> 50
+* Reduced Firebat life 80 -> 50
+* Reduced Ghost cost 100/100 -> 25/75
+* Reduced Ghost life 75 -> 45
+* Increased Marine Sight radius 8 -> 9
+* Reduced Siege Tank life 175 -> 150
+* Missile Turret weapon period 0.9375 -> 0.8608 
+* Medic Optic Flare Blind now stays indefinetly 
+* SCV can now repair other races
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+* SC1 Protoss Shields recharge delay 10 -> 0
+* SC1 Protoss Shields recharge rate 2 -> 0.4375
+* Reduced Stasis Field Research Time 170 -> 100
+* Reduced Carrier starting Interceptor count 2 -> 0
+* Reduced Carrier Hangar Research Time 80 -> 65
+* Dark Archon can no longer Feedback friendly units
+* Dark Archon Mind control research time 180 -> 112.5
+* Fixed Observer Sight Range upgrade vespene cost 110 -> 100
+* Reduced Reaver starting Scarab Count 2 -> 0
+* Increased Stasis field duration 40 -> 65.5
+* Increased Arbiter vespene cost 300 -> 350
+* Matched Archon & Dark Archon sizes to sc2 Archons
+* Reaver Build time 85 -> 65.6
+* Reduced Shuttle Shields 100 -> 60
+* Increased Shuttle speed research cost 100/100 -> 200/200
+* Shuttle Build time 50 -> 56.25
+* Dark Templar Weapon speed 1.875 -> 1.694
+
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+* SC1 Zerg units not longer gain movement speed increases from creep
+* Fixed Scourge costs being incorrect
+* Queen Spawn Broodling research time 60 -> 75
+* Reduced Ultralisk unit and model size to match sc2, can now fit 1x1 gaps
+* Queens Parasite now stays indefinetly
+* Plague can no longer target player or allied units
+* Larva spawn time 10 -> 15
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+* Adjusted Firebat splash to be slightly smaller _(around 10%)_ to match sc1 behaviour
+* Changed Academy default build hotkey to A
+* Increased Spider Mine model size slightly
+* Reduced Dark Archon model size to match Archon
+* Stasis Field not longer reveals targets in fog of war
+* Fixed Hives and Lairs using incorrect morph times
+* Fixed a bug allowing Lurker Aspect to be available without Lair
+* Added SC2 Ally under attack alerts for multiplayer games
+* Fixed a bug preventing Sc2 Lurkers from dealing damage under Dark Swarm
+* Fixed issues allowing Maelstrom and Ensnare slow to effect Sc2 Ultralisk
+* Fixed multiple issues with low quality death models
+* Fixed issue with units using wrong assets when dying in mid air.
+* Fixed Gravitic Drive using a wrong upgrade icon 
+* Fixed Maelstrom being able to target buildings
+* Fixed Mutalisk bounce search being too large
+* Fixed issue that prevented Creep Colonies to be placed in fog of war
+* SC1 Races now have custom race icons for observer interfaces
+* Corrected SC1 Interceptor using wrong model
+* Goliaths now launch both missiles at the same time
+* Added hallucination death to fake scarabs launched by Hallucinated reavers
+* Adjusted Scarab unit size 0.3125 -> 0.125
+* Spider Mine now attacks cloaked targets passing by
+* Goliath and Siege tank turrets now track their targets while moving
+
+***
