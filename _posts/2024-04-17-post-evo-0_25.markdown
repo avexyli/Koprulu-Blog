@@ -1,0 +1,99 @@
+---
+layout: post
+title:  SC Evo Complete Extension update 0.25
+description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
+date:   2024-04-12 15:01:35 +0000
+image:  '/images/EvoExtension0_24.png'
+tags:   [crossover, release]
+featured: true
+---
+
+## Evo Complete Extension Release 0.25
+
+Hey everyone! We've been listening to the feedback and discussing balance with our advisors and have brought you an additional update to the balance, this is one of many to come in order to make the StarCraft 1 races more competitive.
+
+Among some of the changes we're decreasing the cost of several BroodWar Spells such as the EMP, Ensnare and Disruption Web as well as slightly buffing some of the Units, we'll explain below some of the reasoning behind some of the changes.
+
+We will continue to monitor the balance changes and make adjustments where necessary and we will avoid too many changes at once in order to reduce risk of overtuning the BroodWar races.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+* Increased Zerg unit Creep Movement Speed multiplier from 1 -> 1.2
+
+_This change has been made to help Zerg players defend early rush strategies like Reapers, the multiplier currently is not higher than StarCraft 2 Zerg but will be monitored for any potential balance issues._
+
+***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+| ![]({{site.baseurl}}/images/EvoExtension0_24.png) | I am text to the right |
+
+* Increased Firebat Health from 50 -> 55
+* Increased Marine Health from 40 - 45
+
+_This Terran Infantry change is aimed at allowing Marines to survive at least a baneling attack, as for the Firebats their high gas cost is not worth it compared to the low health and armor they have compared to the Marauder_
+
+* Increased Goliath Anti Air Weapon Range from 5 -> 6
+* Increased Charon Boosters Bonus from 3 -> 4
+
+_This Goliath buff is meant to allow Goliaths to more effectively fight Tempests ans well as Liberators, Guardians have also undergone a change to comply with this Range change._
+
+* Increased Battlecruiser Health from 500 -> 550
+* Increased Battlecruiser Speed from 1.406 -> 1.875
+
+_With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase some of their stats, while we have several ideas of what stats to change we want to avoid too many changes at once in order not to risk making them overpowered. In the meantime this change should improve their value even slightly._
+
+* Decreased Ghost Lockdown Energy cost from 100 -> 75
+
+_Energy costs have been reduced for some BroodWar spells in order to allow players to make more use of certain spells_
+
+* Reduced Siege Tank Research Time from 75 -> 60
+* Reduced Siege Tank Research Mineral Cost from 150 -> 100
+* Increased Siege Tank's Siege Mode Weapon Range from -> 
+
+* Science Vessel's Defensive Matrix can no longer target Enemies
+* Increased Valkyrie range by +1
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+* SC1 Protoss Shields recharge delay 10 -> 0
+* SC1 Protoss Shields recharge rate 2 -> 0.4375
+* Reduced Stasis Field Research Time 170 -> 100
+* Reduced Carrier starting Interceptor count 2 -> 0
+* Reduced Carrier Hangar Research Time 80 -> 65
+* Dark Archon can no longer Feedback friendly units
+* Dark Archon Mind control research time 180 -> 112.5
+* Fixed Observer Sight Range upgrade vespene cost 110 -> 100
+* Reduced Reaver starting Scarab Count 2 -> 0
+* Increased Stasis field duration 40 -> 65.5
+* Increased Arbiter vespene cost 300 -> 350
+* Matched Archon & Dark Archon sizes to sc2 Archons
+* Reaver Build time 85 -> 65.6
+* Reduced Shuttle Shields 100 -> 60
+* Increased Shuttle speed research cost 100/100 -> 200/200
+* Shuttle Build time 50 -> 56.25
+* Dark Templar Weapon speed 1.875 -> 1.694
+
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+* SC1 Zerg units not longer gain movement speed increases from creep
+* Fixed Scourge costs being incorrect
+* Queen Spawn Broodling research time 60 -> 75
+* Reduced Ultralisk unit and model size to match sc2, can now fit 1x1 gaps
+* Queens Parasite now stays indefinetly
+* Plague can no longer target player or allied units
+* Larva spawn time 10 -> 15
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+* Updated Ensnare Impact Visuals
+* Adjusted visibility of Psionic Storm effects on Low Graphics
+* Fixed an issue in koKR locale playing the wrong sound for "Upgrade Complete" alert
+
+***
