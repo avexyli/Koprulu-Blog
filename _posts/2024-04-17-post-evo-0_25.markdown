@@ -28,7 +28,7 @@ _This change has been made to help Zerg players defend early rush strategies lik
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-| ![]({{site.baseurl}}//images/EvoExtension0_24.png) | I am text to the right |
+| ![]({{site.baseurl}}//images/btn-unit-terran-firebat@scbw.png) | I am text to the right |
 
 * Increased Firebat Health from 50 -> 55
 * Increased Marine Health from 40 - 45
@@ -59,34 +59,8 @@ _Energy costs have been reduced for some BroodWar spells in order to allow playe
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-* SC1 Protoss Shields recharge delay 10 -> 0
-* SC1 Protoss Shields recharge rate 2 -> 0.4375
-* Reduced Stasis Field Research Time 170 -> 100
-* Reduced Carrier starting Interceptor count 2 -> 0
-* Reduced Carrier Hangar Research Time 80 -> 65
-* Dark Archon can no longer Feedback friendly units
-* Dark Archon Mind control research time 180 -> 112.5
-* Fixed Observer Sight Range upgrade vespene cost 110 -> 100
-* Reduced Reaver starting Scarab Count 2 -> 0
-* Increased Stasis field duration 40 -> 65.5
-* Increased Arbiter vespene cost 300 -> 350
-* Matched Archon & Dark Archon sizes to sc2 Archons
-* Reaver Build time 85 -> 65.6
-* Reduced Shuttle Shields 100 -> 60
-* Increased Shuttle speed research cost 100/100 -> 200/200
-* Shuttle Build time 50 -> 56.25
-* Dark Templar Weapon speed 1.875 -> 1.694
-
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
-
-* SC1 Zerg units not longer gain movement speed increases from creep
-* Fixed Scourge costs being incorrect
-* Queen Spawn Broodling research time 60 -> 75
-* Reduced Ultralisk unit and model size to match sc2, can now fit 1x1 gaps
-* Queens Parasite now stays indefinetly
-* Plague can no longer target player or allied units
-* Larva spawn time 10 -> 15
 
 ***
 
