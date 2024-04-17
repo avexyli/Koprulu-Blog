@@ -1,0 +1,78 @@
+---
+layout: post
+title:  SC Evo Complete Extension update 0.25
+description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
+date:   2024-04-12 15:01:35 +0000
+image:  '/images/EvoExtension0_24.png'
+tags:   [crossover, release]
+featured: true
+---
+
+## Evo Complete Extension Release 0.25
+
+Hey everyone! We've been listening to the feedback and discussing balance with our advisors and have brought you an additional update to the balance, this is one of many to come in order to make the StarCraft 1 races more competitive.
+
+Among some of the changes we're decreasing the cost of several BroodWar Spells such as the EMP, Ensnare and Disruption Web as well as slightly buffing some of the Units, we'll explain below some of the reasoning behind some of the changes.
+
+We will continue to monitor the balance changes and make adjustments where necessary and we will avoid too many changes at once in order to reduce risk of overtuning the BroodWar races.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+* Increased Zerg unit Creep Movement Speed multiplier from 1 -> 1.2
+
+_This change has been made to help Zerg players defend early rush strategies like Reapers, the multiplier currently is not higher than StarCraft 2 Zerg but will be monitored for any potential balance issues._
+
+***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50">   Firebat / Marine
+
+* Increased Firebat Health from 50 -> 55
+* Increased Marine Health from 40 -> 45
+
+_This Terran Infantry change is aimed at allowing Marines to survive at least a baneling attack, as for the Firebats their high gas cost is not worth it compared to the low health and armor they have compared to the Marauder_
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50">   Goliath
+
+* Increased Goliath Anti Air Weapon Range from 5 -> 6
+* Increased Charon Boosters Range Bonus from 3 -> 4
+
+_This Goliath buff is meant to allow Goliaths to more effectively fight Tempests ans well as Liberators, Guardians have also undergone a change to comply with this Range change._
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50">   Goliath
+
+* Increased Battlecruiser Health from 500 -> 550
+* Increased Battlecruiser Speed from 1.406 -> 1.875
+
+_With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase some of their stats, while we have several ideas of what stats to change we want to avoid too many changes at once in order not to risk making them overpowered. In the meantime this change should improve their value even slightly._
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50">   Goliath
+
+* Reduced Siege Tank Research Time from 75 -> 60
+* Reduced Siege Tank Research Mineral Cost from 150 -> 100
+* Increased Siege Tank's Siege Mode Weapon Range from 12 -> 13
+
+* Decreased Ghost Lockdown Energy cost from 100 -> 75
+
+* Science Vessel's Defensive Matrix can no longer target Enemies
+* Increased Valkyrie range by +1
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+* Updated Ensnare Impact Visuals
+* Adjusted visibility of Psionic Storm effects on Low Graphics
+* Fixed an issue in koKR locale playing the wrong sound for "Upgrade Complete" alert
+
+***
