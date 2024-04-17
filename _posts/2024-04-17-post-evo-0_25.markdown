@@ -28,7 +28,9 @@ _This change has been made to help Zerg players defend early rush strategies lik
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-| ![]({{site.baseurl}}//images/btn-unit-terran-firebat@scbw.png) | **Firebat** |
+| ![]({{site.baseurl}}//images/btn-unit-terran-firebat@scbw.png) | ##**Firebat** | |
+
+<img src="{{site.baseurl}}//images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
 
 * Increased Firebat Health from 50 -> 55
 * Increased Marine Health from 40 - 45
