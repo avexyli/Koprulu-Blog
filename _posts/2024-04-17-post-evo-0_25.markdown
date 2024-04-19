@@ -20,9 +20,13 @@ We will continue to monitor the balance changes and make adjustments where neces
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-* Increased Zerg unit Creep Movement Speed multiplier from 1 -> 1.2
+* Adjusted Several Upgrade costs
 
-_This change has been made to help Zerg players defend early rush strategies like Reapers, the multiplier currently is not higher than StarCraft 2 Zerg but will be monitored for any potential balance issues._
+_We've adjusted several upgrade costs to help with the increased unit costs for BroodWar players_
+
+* Adjusted several Ability Energy costs
+
+_Several Abilities have had their Energy costs reduced in order to allow BroodWar players to use abilities more frequently_
 
 ***
 
@@ -33,6 +37,7 @@ _This change has been made to help Zerg players defend early rush strategies lik
 
 * Increased Firebat Health from 50 -> 55
 * Increased Marine Health from 40 -> 45
+* Increased Marine's U-238 Vespene cost from 50 -> 100
 
 _This Terran Infantry change is aimed at allowing Marines to survive at least a baneling attack, as for the Firebats their high gas cost is not worth it compared to the low health and armor they have compared to the Marauder_
 
@@ -43,19 +48,23 @@ _This Terran Infantry change is aimed at allowing Marines to survive at least a 
 
 _This Goliath buff is meant to allow Goliaths to more effectively fight Tempests ans well as Liberators, Guardians have also undergone a change to comply with this Range change._
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50">   Goliath
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50">   Battlecruiser
 
 * Increased Battlecruiser Health from 500 -> 550
 * Increased Battlecruiser Speed from 1.406 -> 1.875
+* Decreased Battlecruiser's Energy cost from 150 -> 125
 
 _With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase some of their stats, while we have several ideas of what stats to change we want to avoid too many changes at once in order not to risk making them overpowered. In the meantime this change should improve their value even slightly._
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50">   Goliath
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50">   Siege Tank
 
 * Reduced Siege Tank Research Time from 75 -> 60
 * Reduced Siege Tank Research Mineral Cost from 150 -> 100
 * Increased Siege Tank's Siege Mode Weapon Range from 12 -> 13
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost.png" width="50" height="50">   Ghost
+
+* Increased Ghost Health from 45 -> 55
 * Decreased Ghost Lockdown Energy cost from 100 -> 75
 
 * Science Vessel's Defensive Matrix can no longer target Enemies
@@ -64,15 +73,67 @@ _With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50">   Dark Archon
+
+* Dark Archon Maelstrom can no longer target allied units
+* Decreased Dark Archon's Maelstrom Energy cost from 100 -> 75
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50">   Dragoon
+
+* Increased Dragoon's Singularity Charge Range Upgrade from 1 -> 2
+* Decreased Dragoon's Singularity Charge Mineral Cost 150 -> 100
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50">   Observatory
+
+* Decreased Observatory build time from 25 -> 20
+* Decreased Observer build time from 25 -> 20
+
+* Increased Zealot Shields from 60 -> 70
+* Increased Dark Templar's Weapon damage from 40 -> 45
+* Reduced Carrier's Interceptor Launch delay from 0.5 -> 0.37
+* Decreased Arbiter's Stasis Field Energy cost from 100 -> 75
+* Decreased Corsair's Disruption Web Energy cost from 125 -> 100
+* Reduced High Templar's Hallucination Energy cost from 100 -> 75
+
+
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord.png" width="50" height="50">   Overlord
+
+* Increased Overlord Speed from 0.469 -> 0.9414
+* Decreased Overlord's Ventral Sacs Mineral and Gas cost from 200 -> 150
+
+_We've adjusted the Overlord speed based on feedback, allowing BroodWar Zerg players to be able to scout enemy bases during the early game in the same way SC2 players can._
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-larvaex3.png" width="50" height="50">   Larva
+
+* Reduced Larva Spawn delay from 15 -> 12
+
+_The Larva spawn speed has been buffed to help BroodWar players with the unit production rates, we're still looking at feedback for the sweet spot on the delay and we'll continue to monitor games to see if it needs further adjustments_
+
+* Increased Zerg unit Creep Movement Speed multiplier from 1 -> 1.2
+
+_This change has been made to help Zerg players defend early rush strategies like Reapers, the multiplier currently is not higher than StarCraft 2 Zerg but will be monitored for any potential balance issues._
+
+* Increased Guardian's Weapon Range from 8 -> 10
+* Decreased Defiler's Dark Swarm Energy cost from 100 -> 75
+* Decreased Queen's Spawn Broodlings Energy cost from 150 -> 125
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
 * Updated Ensnare Impact Visuals
+* Changed Creep Colony Hotkey from A -> C
+* Changed Defiler Mound Hotkey from R -> D
+* Added Error sounds
+* Added Several Zerg Cocoon Sounds
+* Modified Photon Cannon Weapon Effects
 * Adjusted visibility of Psionic Storm effects on Low Graphics
+* Fixed the display of the Incorrect placement models on Low Graphics
+* Fixed several interactions between Abduct and several BroodWar Units
+* Fixed an Issue displaying two Hatcheries being built in Observer Interfaces
 * Fixed an issue in koKR locale playing the wrong sound for "Upgrade Complete" alert
 
 ***
