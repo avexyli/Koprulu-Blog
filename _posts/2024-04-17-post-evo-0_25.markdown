@@ -83,7 +83,7 @@ _With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase
 * Increased Dragoon's Singularity Charge Range Upgrade from 1 -> 2
 * Decreased Dragoon's Singularity Charge Mineral Cost 150 -> 100
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50">   Observatory
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50">   Observer
 
 * Decreased Observatory build time from 25 -> 20
 * Decreased Observer build time from 25 -> 20
