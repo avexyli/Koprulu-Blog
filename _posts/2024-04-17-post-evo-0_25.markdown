@@ -2,8 +2,8 @@
 layout: post
 title:  SC Evo Complete Extension update 0.25
 description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
-date:   2024-04-12 15:01:35 +0000
-image:  '/images/EvoExtension0_24.png'
+date:   2024-04-19 15:01:35 +0000
+image:  '/images/EvoExtension0_25.png'
 tags:   [crossover, release]
 featured: true
 ---
@@ -137,3 +137,5 @@ _This change has been made to help Zerg players defend early rush strategies lik
 * Fixed an issue in koKR locale playing the wrong sound for "Upgrade Complete" alert
 
 ***
+
+_Featured Image credit by: TOP_
