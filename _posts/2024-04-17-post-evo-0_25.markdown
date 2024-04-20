@@ -101,7 +101,7 @@ _With Battlecruisers being notoriously bad in StarCraft 1 we decided to increase
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord.png" width="50" height="50">   Overlord
 
-* Increased Overlord Speed from 0.469 -> 0.9414
+* Increased Overlord Speed from 0.469 -> 0.6445
 * Decreased Overlord's Ventral Sacs Mineral and Gas cost from 200 -> 150
 
 _We've adjusted the Overlord speed based on feedback, allowing BroodWar Zerg players to be able to scout enemy bases during the early game in the same way SC2 players can._
