@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  SC Evo Complete Extension update 0.26
+title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 patch notes
 description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
-date:   2024-04-19 15:01:35 +0000
+date:   2024-04-27 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
 featured: true
@@ -15,27 +15,141 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
+* Reaper added Hover attribute
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
+* Increased Marine range research time 60 -> 94
+* Missile Turret explosive damage 20 -> 25
+* Ghost Lockdown range 9 -> 10
+
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
+### Zealot
+* Upgraded Zealot speed multipler 1.5 -> 1.6
+* Zealot Changeling now has same shield amount
 
+* Photon Cannon weapon speed and life matched to sc2 photon cannon
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
+### Lurker
+* Burrow time reduced from 2.5 -> 2.0 (slower than SC2 lurker with Adaptive Talons)
+* Increased weapon range from 7 to 8
+* Lurker +3 damage to light (Allows lurkers to kill sc1 marines in two attacks again)
+
+### Queen
+* Temporarily disabled sc2 Command Centers being able to be targeted by Queens Infest ability
+* Spawn Broodling can now target massive targets
+* Spawn Broodling can now only target mechanical or biological targets
+* Spawn Broodling now Deals 300 + 100 vs biological instead of instantly killing the target
+* Spawn Broodling will fail if target goes into stasis
+* Disruptor, Colossus, Sentry, Reaver, Probes & Widow Mine now have robotic attribute
+* Increase Spawn Broodling launch volume
+_This damage change keeps the Starcraft 1 interactions intact, (with the exception of defensive matrix) while targets like Thor and SC2 Ultralisk now require two casts to be killed by Queens_
+
+* Most fire type weapons now deal damage in Dark Swarm this now includes Colossus, Hellion
+
+### Spore Colony
+* Spore Colony damage increased 15 -> 25
+* Spore Colony weapon range increased 7 -> 8
+_Weapon has been adjusted based on it's cost, spore colony total cost 175 minerals_
+
+* Fixed Spore Colony using incorrect morph time 19 -> to 15
+* Fixed Sunken Colony using incorrect morph time 19 -> to 35
+_Morph times match SC2 drone equivalents when creep colony build time is included_
 
 
 ***
+
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
+### Valkyrie
+* Doubled the range Valkyries keep firing at their target before chasing
+
+### Carrier
+* Implemented SC1 Carrier inteceptor behaviours quriks (Thanks to m0ebiuz!)
+* Interceptors can only enter Carrier while it is stationary
+* Interceptors will now retreat to the carrier if they are at 0 shields
+* Interceptors will now repair their shields and life when inside the carrier
+* Interceptors can only exit the carrier when life is above 20 
+_The shield regen rate is comparable to shield battery instead of instant heal. Special checks have been done to allow them to exit with plague_
+* The area which Interceptors circle around target has been increased
+* Interceptor weapon speed reduced 1.554 -> 1.875 
+* Interceptors launch delay from Carrier increased from 0.5 -> 0.625
+* Fixed SC1 Interceptor weapon incorrectly displaying 2 attacks in it's weapon
+* Raven Scrambler Missile now disables Carrier weapon correctly
+
+### Ghost
+* New Ghost model for SC1 ghost
+* Hold Fire and Weapons Free buttons can now be mapped to same hotkey
+
+### Vulture & Spider Mine
+* Spider Mine now visually tilts on uneven ground
+* Increased volume of Spider Mine Burrow and Chase sounds
+* Increased Spider Mine model visual scale by 15%
+* Spider Mine now has correct initial burrow delay when placed
+* Spider Mine can now target undetected burrowed targets same as cloaked units
+* Spider Mine can't target enemy spider mines (they still deal damage to own and other spider mines if exploding near them)
+* Reduced the time spider mine re-burrows after unburrowing
+* Spider Mine placement range reduced from 0.6 -> 0.5
+* Spider Mine now takes priority over other units when targeting units in the same location
+* Spider Mine now have same attack target priority as other units
+* Vulture now has short delay before placing mines plays an "animation" after it has been placed. 
+_This is mimicing the vulture behavior in sc1 and should prevent usage of the spider mine in fights without penalty_
+@Kat add gif of the new placement "animation" & maybe the burrowed roach targeting?
+
+### Irradiate
+* Science Vessel can't target itself with irradiate anymore
+* AI players will now try to avoid irradiated targets
+* Armored Eggs and Larva are now immune to irradiate
+* Irradiate now transfers from larva eggs to their produced unit
+* Increased the visual size to match it's search area more closely
+* Irradiate search area can't target burrowed units anymore
+* If the irradiate target is burrowed, it only hits the targeted unit
+* Irradiate visual will now adjust when target is burrowed
+@Kat add gif here of the new irradiate burrowed visual
+
+### Ensnare
+* Ensnare now has new enhanced visual
+* Ensnare targets accelerate -25% slower
+* Ensnare visual now matches it's radius
+* Ensnare can no longer target burrowed targets
+@Kat add gif here of the new ensnare visual
+
+* Fixed Goliath air weapon using incorrect weapon speed (1.5 -> 1.375)
+* Arbiter Stasis field can now target Disruptor orbs again
+* Fixed issue where Recall required the Arbiter to be on pathable ground when targeting ground units
+* SC1 Stargate now plays the sc2 stargate 'What' Sound instead of no sound
+* Added scan attack move for flying buildings
+* Fixed Broodling using wrong fire death model
+* New UI asset for sc1 terran defeat screen
+* Updated Observatory texture
+* Fixed Lurker attack sounds being able to be heard in fog of war
+* Wraith and Scout air weapons now takes priority when attacking targets like Colossus
+
+
+### Observer Mod
+* Fixed Observer mod applying skins to sc2 races
+* Fixed sc1 races missing icons for some Observer UI's 
+
+### Crossover
+* Fixed erronous research times for ghost lockdown
+* Fixed wrong vespene cost for Observer Sight
+* Resonating Matrix no longer increases max queue size
+* Corrected spider mine damage
+* SC1 Stimpack duration reduced by 30%
+* Fixed stinger using incorrect static portrait
+
+
 
 ***
+Credits: _m0ebiuz for Sc1 Carrier behaviour quirks data_
 
 <!-- _Featured Image credit by: TOP_ -->
