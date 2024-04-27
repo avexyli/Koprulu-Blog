@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 patch notes
 description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
-date:   2024-04-27 15:01:35 +0000
+date:   2024-04-28 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
 featured: true
@@ -129,7 +129,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 * SC1 Stargate now plays the sc2 stargate 'What' Sound instead of no sound
 * Added scan attack move for flying buildings
 * Fixed Broodling using wrong fire death model
-* New UI asset for sc1 terran defeat screen
+* Added new UI asset for sc1 terran defeat screen
 * Updated Observatory texture
 * Fixed Lurker attack sounds being able to be heard in fog of war
 * Wraith and Scout air weapons now takes priority when attacking targets like Colossus
