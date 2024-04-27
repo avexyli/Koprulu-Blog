@@ -75,7 +75,7 @@ _Morph times match SC2 drone equivalents when creep colony build time is include
 * Doubled the range Valkyries keep firing at their target before chasing
 
 ### Carrier
-* Implemented SC1 Carrier inteceptor behaviours quriks (Thanks to m0ebiuz!)
+* Implemented SC1 Carrier inteceptor behaviours quirks (Thanks to m0ebiuz!)
 * Interceptors can only enter Carrier while it is stationary
 * Interceptors will now retreat to the carrier if they are at 0 shields
 * Interceptors will now repair their shields and life when inside the carrier
