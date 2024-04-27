@@ -108,7 +108,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 ### Irradiate
 * Science Vessel can't target itself with irradiate anymore
 * AI players will now try to avoid irradiated targets
-* Armored Eggs and Larva are now immune to irradiate
+* Armored Eggs, Cocoons and Larva are now immune to irradiate
 * Irradiate now transfers from larva eggs to their produced unit
 * Increased the visual size to match it's search area more closely
 * Irradiate search area can't target burrowed units anymore
