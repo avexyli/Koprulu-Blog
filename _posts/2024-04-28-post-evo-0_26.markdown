@@ -15,7 +15,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-* Added Hover attribute to Reaper, Sentry and Disruptor
+* Added Hover attribute to High Templars, Reaper, Sentry and Disruptor
 
 ***
 
@@ -81,7 +81,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal. 
 * Interceptor weapon speed reduced 1.554 -> 1.875 
 * Interceptors launch delay from Carrier increased from 0.5 -> 0.625
 * Fixed SC1 Interceptor weapon incorrectly displaying 2 attacks in it's weapon
-* Raven Scrambler Missile now disables Carrier weapon correctly
+* Raven Interference Matrix now disables Carrier weapon correctly
 
 ### Ghost
 * New Ghost model for SC1 ghost
