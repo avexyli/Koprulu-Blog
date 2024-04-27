@@ -24,7 +24,8 @@ featured: true
 * Increased Marine range research time 60 -> 94
 * Missile Turret explosive damage 20 -> 25
 * Ghost Lockdown range 9 -> 10
-
+* Goliath life 125 -> 150
+_ALlows the Goliath to survive Liberator & Disruptor attacks_
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
