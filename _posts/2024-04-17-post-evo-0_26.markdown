@@ -22,16 +22,16 @@ featured: true
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 * Increased Marine range research time 60 -> 94
-* Missile Turret explosive damage 20 -> 25
-* Ghost Lockdown range 9 -> 10
-* Goliath life 125 -> 150
+* Increased Missile Turret explosive damage 20 -> 25
+* Increased Ghost Lockdown range 9 -> 10
+* Increased Goliath life 125 -> 150
 _ALlows the Goliath to survive Liberator & Disruptor attacks_
 
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 ### Zealot
-* Upgraded Zealot speed multipler 1.5 -> 1.6
+* Increased Zealot Leg Enhancments speed multipler 1.5 -> 1.6
 * Zealot Changeling now has same shield amount
 
 * Photon Cannon weapon speed and life matched to sc2 photon cannon
@@ -47,14 +47,14 @@ _ALlows the Goliath to survive Liberator & Disruptor attacks_
 ### Queen
 * Temporarily disabled sc2 Command Centers being able to be targeted by Queens Infest ability
 * Spawn Broodling can now target massive targets
-* Spawn Broodling can now only target mechanical or biological targets
+* Spawn Broodling can now only target non-robotic mechanical or biological targets
 * Spawn Broodling now Deals 300 + 100 vs biological instead of instantly killing the target
 * Spawn Broodling will fail if target goes into stasis
 * Disruptor, Colossus, Sentry, Reaver, Probes & Widow Mine now have robotic attribute
 * Increase Spawn Broodling launch volume
 _This damage change keeps the Starcraft 1 interactions intact, (with the exception of defensive matrix) while targets like Thor and SC2 Ultralisk now require two casts to be killed by Queens_
 
-* Most fire type weapons now deal damage in Dark Swarm this now includes Colossus, Hellion
+* Most fire type weapons now deal damage in Dark Swarm, this now includes Colossus and Hellion
 
 ### Spore Colony
 * Spore Colony damage increased 15 -> 25
@@ -65,14 +65,10 @@ _Weapon has been adjusted based on it's cost, spore colony total cost 175 minera
 * Fixed Sunken Colony using incorrect morph time 19 -> to 35
 _Morph times match SC2 drone equivalents when creep colony build time is included_
 
-
 ***
 
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
-
-### Valkyrie
-* Doubled the range Valkyries keep firing at their target before chasing
 
 ### Carrier
 * Implemented SC1 Carrier inteceptor behaviours quirks (Thanks to m0ebiuz!)
@@ -91,6 +87,9 @@ _The shield regen rate is comparable to shield battery instead of instant heal. 
 * New Ghost model for SC1 ghost
 * Hold Fire and Weapons Free buttons can now be mapped to same hotkey
 
+### Valkyrie
+* Doubled the range Valkyries keep firing at their target before chasing
+
 ### Vulture & Spider Mine
 * Spider Mine now visually tilts on uneven ground
 * Increased volume of Spider Mine Burrow and Chase sounds
@@ -102,7 +101,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal. 
 * Spider Mine placement range reduced from 0.6 -> 0.5
 * Spider Mine now takes priority over other units when targeting units in the same location
 * Spider Mine now have same attack target priority as other units
-* Vulture now has short delay before placing mines plays an "animation" after it has been placed. 
+* Vulture now has short delay before placing mines, plays an "animation" after it has been placed. 
 _This is mimicing the vulture behavior in sc1 and should prevent usage of the spider mine in fights without penalty_
 @Kat add gif of the new placement "animation" & maybe the burrowed roach targeting?
 
