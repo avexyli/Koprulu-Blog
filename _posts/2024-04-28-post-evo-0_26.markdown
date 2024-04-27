@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 Patch notes
-description: Added Several unique BroodWar Features to existing units.
-date:   2024-04-27 15:01:35 +0000
+title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 patch notes
+description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
+date:   2024-04-28 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
 featured: true
@@ -15,7 +15,7 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-* Reaper added Hover attribute
+* Added Hover attribute to High Templars, Reaper, Sentry and Disruptor
 
 ***
 
@@ -81,7 +81,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal. 
 * Interceptor weapon speed reduced 1.554 -> 1.875 
 * Interceptors launch delay from Carrier increased from 0.5 -> 0.625
 * Fixed SC1 Interceptor weapon incorrectly displaying 2 attacks in it's weapon
-* Raven Scrambler Missile now disables Carrier weapon correctly
+* Raven Interference Matrix now disables Carrier weapon correctly
 
 ### Ghost
 * New Ghost model for SC1 ghost
@@ -108,7 +108,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 ### Irradiate
 * Science Vessel can't target itself with irradiate anymore
 * AI players will now try to avoid irradiated targets
-* Armored Eggs and Larva are now immune to irradiate
+* Armored Eggs, Cocoons and Larva are now immune to irradiate
 * Irradiate now transfers from larva eggs to their produced unit
 * Increased the visual size to match it's search area more closely
 * Irradiate search area can't target burrowed units anymore
@@ -129,7 +129,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 * SC1 Stargate now plays the sc2 stargate 'What' Sound instead of no sound
 * Added scan attack move for flying buildings
 * Fixed Broodling using wrong fire death model
-* New UI asset for sc1 terran defeat screen
+* Added new UI asset for sc1 terran defeat screen
 * Updated Observatory texture
 * Fixed Lurker attack sounds being able to be heard in fog of war
 * Wraith and Scout air weapons now takes priority when attacking targets like Colossus
