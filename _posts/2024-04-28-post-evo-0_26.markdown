@@ -22,7 +22,7 @@ Without further ado here are the patch notes, we've made some major balance chan
 
 _We've added the Hover attribute to these units to mix the Spider Mine mechanics with some of the sc2 units. Units with the Hover attribute can walk over mines without triggering them_
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-hovermines.gif)
 *Hovering Units being ignored by Spider Mines*
 
 * Adjusted the stats of static defenses such as the Missile Turret, Sunken Colony, Photon Cannon, etc
@@ -116,7 +116,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal a
 * Fixed SC1 Interceptor weapon incorrectly displaying 2 attacks in it's weapon
 * Raven Interference Matrix now disables Carrier weapon correctly
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-newcarrier.gif)
 *New Carrier and Interceptor Attack patterns*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
@@ -140,7 +140,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal a
 
 * Doubled the range Valkyries keep firing at their target before chasing
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-valkyrie.gif)
 *Valkyrie Attacks are now more similar to StarCraft 1*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50">  Arbiter
@@ -157,7 +157,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal a
 * Spider Mine now has correct initial burrow delay when placed
 * Spider Mine can now target undetected burrowed targets same as cloaked units
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-burrowedmines.gif)
 *Spider Mine Attacking Burrowed Moving Units*
 
 * Spider Mine can't target enemy spider mines (they still deal damage to own and other spider mines if exploding near them)
@@ -169,7 +169,7 @@ _The shield regen rate is comparable to shield battery instead of instant heal a
 
 _This is mimicing the vulture behavior in sc1 and should prevent usage of the spider mine in fights without penalty_
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-vulturespider.gif)
 *Vultures placing down Spider Mines now have a short cast "Animation" after one is used*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Irradiate
@@ -182,7 +182,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 * If the irradiate target is burrowed, it only hits the targeted unit
 * Irradiate visual will now adjust when target is burrowed
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-irradiate.gif)
 *Irradiate effects on a Burrowed Unit*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Ensnare
@@ -191,7 +191,7 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 * Ensnare visual now matches it's radius
 * Ensnare can no longer target burrowed targets
 
-![]({{site.baseurl}}/gifs/2024-07-04-stinger1.gif)
+![]({{site.baseurl}}/gifs/2024-30-04-newensnare.gif)
 *New Ensnare Effects*
 
 * Changed Shuttle Hotkey from A -> S
