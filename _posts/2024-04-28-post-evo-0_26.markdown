@@ -33,6 +33,7 @@ _We've buffed the static defenses of all races to be more competitive with Starc
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
+* Factory mineral cost 200 -> 150
 * Increased Marine range research time 60 -> 94
 * Reduced Medic Restoration research time 90 -> 75 & cost 100/100 -> 50/50
 * Increased Missile Turret explosive damage 20 -> 25
@@ -50,6 +51,10 @@ _This Goliath change should allow them to survive at least two Liberator attacks
 * Corrected the Zealot Changeling not using the same Shield amount
 
 * Photon Cannon weapon speed and life matched to sc2 photon cannon
+* Cybernetics core mineral cost 200 -> 150
+* Robotics Facility mineral cost 200 -> 150
+* Observatory cost 50/100 -> 100/50
+* Observatory build time 20 -> 28
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
