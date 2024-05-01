@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SC Evo Complete Extension update 0.25 hotfix & 0.26 patch notes
+title:  SC Evo Complete Extension 0.26 patch notes
 description: Minor balance adjustments across all three races to improve their performance vs StarCraft 2 Races
 date:   2024-04-30 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
