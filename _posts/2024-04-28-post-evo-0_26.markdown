@@ -244,4 +244,5 @@ _This is mimicing the vulture behavior in sc1 and should prevent usage of the sp
 
 Credits: 
 _m0ebiuz for Sc1 Carrier behaviour quirks data_
-_Featured by: TOP_
+_Featured image by: TOP_
+_Ghost model by HammerTheTank107_
