@@ -58,7 +58,7 @@ _This Goliath change should allow them to survive at least two Liberator attacks
 
 * Reduced Burrowing time from 2.5 -> 2.0 
 * Increased weapon range from 7 -> 8
-* Weapon added +6 damage to light
+* Weapon added +5 damage to light
 
 _These changes to the Lurker bring them up with the buffs to the other races, as they were previously underperforming due to a smaller range, damage and burrowing times. The weapon change allows Lurkers to kill Starcraft 1 Marines in two attacks and the Burrow time remains slower than a Starcraft 2 Lurker with the Adaptive Talons upgrade._
 
