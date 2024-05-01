@@ -55,6 +55,11 @@ _This Goliath change should allow them to survive at least two Liberator attacks
 * Robotics Facility mineral cost 200 -> 150
 * Observatory cost 50/100 -> 100/50
 * Observatory build time 20 -> 28
+* High Templar build time 55 -> 45
+* Dark Templar build time 50 -> 45
+* Shuttle increase life 80 -> 100 & Shields 60 -> 70
+* Arbiter Vespene cost 350 -> 300
+* Arbiter Recall energy cost 150 -> 125
 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
