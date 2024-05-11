@@ -68,7 +68,7 @@ INTRO SPIEL
 * Removed hover attribute from SC1 and SC2 High Templar
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> Shuttle
-* Increased 1.0625 -> 1.2
+* Increased acceleration 1.0625 -> 1.2
 * Gravitic Drive further increases acceleration by 0.75 
 * Increased Gravitic Drive research time 80 -> 100
 * Reduced Gravitic Drive costs 200/200 -> 150/150
@@ -136,22 +136,12 @@ INTRO SPIEL
 * Fixed Science Facility using incorrect sounds
 * Fixed Shield Battery erronous starting energy 50 -> 100
 * Fixed SC1 Lurker spines not being able to cross terrain features that pass over chasms
-* Fixed Devourer Acid now detecting cloaked units
+* Fixed Devourer Acid now detects cloaked units
 * Fixed various upgrade visuals appearing on units during their research
-* Fixed Vipers Abduct interrupting SC1 Tank Sieging morphs
+* Fixed Vipers Abduct interrupting SC1 Tank sieging morphs
 * Fixed Lurker Burrow hotkeys not being able to share the same hotkey
 * Fixed certain crucial abilites being hidden when Simple Command Card game option was turned on
 * Fixed 'Infinite Money' maps not working correctly for the sc1 workers
-
-
-***
-
-### Observer Mod
-
-
-***
-
-### Crossover
 
 
 ***
