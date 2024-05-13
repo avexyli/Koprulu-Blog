@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 0.28 patch notes
+title:  SC Evo Complete Extension 1.0 patch notes
 description: ADD DESCRIPTION
 date:   2024-05-12 15:01:35 +0000
 image:  '/images/EvoExtension0_28.png'
