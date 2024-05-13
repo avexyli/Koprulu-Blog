@@ -14,7 +14,7 @@ Hey everyone, we've been working hard for a while along with our advisors to cre
 
 Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
 
-Finally from the Dev we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
+Finally from the Dev team we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
 
 ***
 
@@ -123,7 +123,7 @@ Finally from the Dev we'd like to wish the best to all the players participating
 * Reduced weapon period 0.5 -> 0.6
 * Increased 'Adrenal Glands' weapon rate multiplier bonus 0.33 -> 0.45
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralik
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 
 * Reduced weapon range 5 -> 4 
 * Increased Grooved Spines range bonus 1 -> 2
