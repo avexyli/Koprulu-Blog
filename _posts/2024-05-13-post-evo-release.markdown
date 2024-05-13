@@ -130,7 +130,7 @@ Finally from the Dev we'd like to wish the best to all the players participating
 * Increased Grooved Spines research times  100 -> 170
 * Increased Grooved Spines research costs  100/100 -> 150/150
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk@scbw.png" width="50" height="50"> Ultralisk
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk-remastered.png" width="50" height="50"> Ultralisk
 
 * Reduced unit radius 0.875 -> 0.75
 * Reduced damage point from 0.33 -> 0.25 __(Core)__
