@@ -33,7 +33,6 @@ INTRO SPIEL
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
-* Updated Irradiate visuals __(Core)__
 * Fixed Irradiate erronously dealing extra 10 damage when it was applied __(Core)__
 * Increased Irradiate total duration 34.5 -> 37.5 __(Core)__
 * Reduced Irradiate periodic tick delay 1.0 -> 0.5 __(Core)__
@@ -45,7 +44,7 @@ INTRO SPIEL
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 * Reduced Dark Templar build time 45 -> 42
-* Increased Archon shields 350 -> 375  
+* Increased Archon shields 350 -> 375
 * Reduced Dark Archon Mind Control research time 112.5 -> 100
 * Increased Nexus Shields & Life 750/750 -> 1000/1000 
 * Reduced Robotics Support Bay build time 50 -> 30
@@ -54,7 +53,6 @@ INTRO SPIEL
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
-* Updated model and animations __(Core)__
 * Updated weapon attack to match it's SC1 version __(Core)__
 * Leg Enhancements upgrade now grants 10% attack speed bonus
 * Increased Leg Enhancements research time 90 -> 100
@@ -131,7 +129,13 @@ INTRO SPIEL
 ***
 
 ### Visual Updates
-
+* New Zealot model
+* New Mutaliks model
+* New Overlord model
+* New Sunken Colony model
+* New Spore Colony model
+* Updated Irradiate visuals
+* Updated Plague Textures
 
 ### Bug fixes & changes
 * Updated various sounds volumes & added missing SC1 sounds
