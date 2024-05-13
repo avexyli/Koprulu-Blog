@@ -34,11 +34,11 @@ INTRO SPIEL
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
 
-* Fixed Irradiate erronously dealing extra 10 damage when it was applied __(Core)__
-* Increased Irradiate total duration 34.5 -> 37.5 __(Core)__
-* Reduced Irradiate periodic tick delay 1.0 -> 0.5 __(Core)__
-* Changed periodic damage from 7 -> 3.332, now deals correct amount of total damage 248 -> 249.9 __(Core)__
+* Increased Irradiate total duration 34.5 -> 42
+* Reduced Irradiate periodic tick delay 1.0 -> 0.5
+* Changed periodic damage from 7 -> 3.332, now deals total damage 248 -> 289.9
 * Fixed Irradiate not detecting cloaked units __(Core)__
+* Increased Defensive Matrix Shielding 250 -> 250
 * Reduced EMP missile speed to match SC1 behaviour __(Core)__
 
 
