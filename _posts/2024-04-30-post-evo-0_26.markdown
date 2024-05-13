@@ -5,7 +5,6 @@ description: Minor balance adjustments across all three races to improve their p
 date:   2024-04-30 15:01:35 +0000
 image:  '/images/EvoExtension0_26.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## Evo Complete Extension Release 0.26
