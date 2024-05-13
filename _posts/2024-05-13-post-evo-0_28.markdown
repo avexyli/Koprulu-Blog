@@ -33,6 +33,7 @@ INTRO SPIEL
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
+
 * Fixed Irradiate erronously dealing extra 10 damage when it was applied __(Core)__
 * Increased Irradiate total duration 34.5 -> 37.5 __(Core)__
 * Reduced Irradiate periodic tick delay 1.0 -> 0.5 __(Core)__
@@ -53,44 +54,52 @@ INTRO SPIEL
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+
 * Updated weapon attack to match it's SC1 version __(Core)__
 * Leg Enhancements upgrade now grants 10% attack speed bonus
 * Increased Leg Enhancements research time 90 -> 100
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50"> Dragoon
+
 * Increased Dragoon weapon range 5 -> 6
 * Reduced Singularity Charge weapon range bonus 2 -> 1
 * Reduced Singularity Charge research Cost 100/150 -> 100/100 & Time 110 -> 100
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> High Templar
+
 * Reduced build time 45 -> 42
 * Reduced Psionic Storm cooldown 3 -> 2
 * Reduced Psionic Storm research Cost 200/200 -> 175/175 & Time 110 -> 100
 * Removed hover attribute from SC1 and SC2 High Templar
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> Shuttle
+
 * Increased acceleration 1.0625 -> 1.2
 * Gravitic Drive further increases acceleration by 0.75 
 * Increased Gravitic Drive research time 80 -> 100
 * Reduced Gravitic Drive costs 200/200 -> 150/150
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
+
 * Increased air weapon range 5 -> 6
 * Reduced ground weapon period 1.875 -> 1.6875
 * Increased ground weapon damage 8 -> 9
 * Increased life armor 0 -> 1
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
+
 * Reduced Inteceptor launch period from 0.625 -> 0.58
 * Increased Carrier Shields 150 -> 175
 * Fixed bug on Carriers that allowed Interceptors to enter the Carrier while it was moving
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> Carrier
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> Arbiter
+
 * Increased Arbiter Recall radius area by 20%
 * Reduced Arbiter build time 115 -> 105
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer@scbw.png" width="50" height="50"> Observer & Observatory
+
 * Increased Observer sight radius 10 -> 11
 * Increased Observer movement speed 1.875 -> 2.0156
 * Increased Observer shields 20 -> 30
@@ -103,41 +112,49 @@ INTRO SPIEL
 * Fixed Burrow not being able to be researched on Hatchery __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
+
 * Reduced weapon period 0.5 -> 0.6
 * Increased 'Adrenal Glands' weapon rate multiplier bonus 0.33 -> 0.45
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralik
+
 * Reduced weapon range 5 -> 4 
 * Increased Grooved Spines range bonus 1 -> 2
 * Increased Grooved Spines research times  100 -> 170
 * Increased Grooved Spines research costs  100/100 -> 150/150
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk@scbw.png" width="50" height="50"> Ultralisk
+
 * Reduced unit radius 0.875 -> 0.75
 * Reduced damage point from 0.33 -> 0.25 __(Core)__
 * Increased weapon damage 20 -> 25
 * Increased weapon period 0.9375 -> 0.8437
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
+
 * Increased weapon damage 9 -> 10
 * Increased weapon range 3 -> 4
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Queen
+
 * Removed Spawn Broodling damage changes, now kills all targets instantly again
 * Increased Spawn Broodling energy cost 125 -> 150
 
 ***
 
 ### Visual Updates
+
 * New Zealot model
-* New Mutaliks model
+* New Mutalik model
 * New Overlord model
 * New Sunken Colony model
 * New Spore Colony model
+* New Guardian model
 * Updated Irradiate visuals
 * Updated Plague Textures
 
 ### Bug fixes & changes
+
 * Updated various sounds volumes & added missing SC1 sounds
 * Fixed Ghost nuclear strike targeting dot not appearing for enemy players
 * Fixed Valkyrie missile impacts not appearing correctly on the impact location (Credit: Bommes)
@@ -153,9 +170,8 @@ INTRO SPIEL
 * Fixed certain crucial abilites being hidden when Simple Command Card game option was turned on
 * Fixed 'Infinite Money' maps not working correctly for the sc1 workers
 
-
 ***
 
 Credits: 
 
-_Featured image by: TOP_
+_New Plague Texture by: Nyanpie_
