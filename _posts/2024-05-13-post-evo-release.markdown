@@ -3,7 +3,7 @@ layout: post
 title:  SC Evo Complete Extension 1.0 patch notes
 description: Several balance changes and new Models!
 date:   2024-05-13 00:01:35 +0000
-image:  '/images/EvoExtension0_28.png'
+image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
 featured: true
 ---
