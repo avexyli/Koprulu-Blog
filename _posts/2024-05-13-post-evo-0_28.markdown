@@ -42,12 +42,13 @@ INTRO SPIEL
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-* Reduced Dark templar build time 45 -> 42
+* Reduced Dark Templar build time 45 -> 42
 * Increased Archon shields 350 -> 375  
 * Reduced Dark Archon Mind Control research time 112.5 -> 100
 * Increased Nexus Shields & Life 750/750 -> 1000/1000 
 * Reduced Robotics Support Bay build time 50 -> 30
 * Increased Reaver Increased Capacity research time 110 -> 130
+* Updated Shield Battery Restore Shields ability to match it's SC1 Version
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
@@ -75,7 +76,6 @@ INTRO SPIEL
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
 * Increased air weapon range 5 -> 6
-* Increased ground weapon range 5 -> 6
 * Reduced ground weapon period 1.875 -> 1.6875
 * Increased ground weapon damage 8 -> 9
 * Increased life armor 0 -> 1
@@ -93,9 +93,9 @@ INTRO SPIEL
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer@scbw.png" width="50" height="50"> Observer & Observatory
 * Increased Observer sight radius 10 -> 11
 * Increased Observer movement speed 1.875 -> 2.0156
-* Increased Observer shilds 20 -> 30
+* Increased Observer shields 20 -> 30
 * Reduced Observatory cost 100/50 -> 50/50
-* Reduced Observatory Shields & Life: 250/250 -> 200/200 
+* Reduced Observatory Shields & Life: 250/250 -> 200/200
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
@@ -103,10 +103,14 @@ INTRO SPIEL
 * Fixed Burrow not being able to be researched on Hatchery __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
-* Reduced weapon period from 0.5 -> 0.6
+* Reduced weapon period 0.5 -> 0.6
 * Increased 'Adrenal Glands' weapon rate multiplier bonus 0.33 -> 0.45
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralik
+* Reduced weapon range 5 -> 4 
+* Increased Grooved Spines range bonus 1 -> 2
+* Increased Grooved Spines research times  100 -> 170
+* Increased Grooved Spines research costs  100/100 -> 150/150
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk@scbw.png" width="50" height="50"> Ultralisk
 * Reduced unit radius 0.875 -> 0.75
@@ -128,7 +132,6 @@ INTRO SPIEL
 
 
 ### Bug fixes & changes
-* Updated Shield Battery Restore Shields ability to match it's SC1 Version
 * Updated various sounds volumes & added missing SC1 sounds
 * Fixed Ghost nuclear strike targeting dot not appearing for enemy players
 * Fixed Valkyrie missile impacts not appearing correctly on the impact location (Credit: Bommes)
@@ -136,6 +139,7 @@ INTRO SPIEL
 * Fixed Science Facility using incorrect sounds
 * Fixed Shield Battery erronous starting energy 50 -> 100
 * Fixed SC1 Lurker spines not being able to cross terrain features that pass over chasms
+* Fixed bug where SC1 Mutalisk weapon bounces were ignoring armor
 * Fixed Devourer Acid now detects cloaked units
 * Fixed various upgrade visuals appearing on units during their research
 * Fixed Vipers Abduct interrupting SC1 Tank sieging morphs
