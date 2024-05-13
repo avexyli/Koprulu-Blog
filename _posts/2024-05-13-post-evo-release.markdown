@@ -1,16 +1,20 @@
 ---
 layout: post
 title:  SC Evo Complete Extension 1.0 patch notes
-description: ADD DESCRIPTION
-date:   2024-05-12 15:01:35 +0000
+description: Several balance changes and new Models!
+date:   2024-05-13 00:01:35 +0000
 image:  '/images/EvoExtension0_28.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Release 0.28
+## Evo Complete Extension Release 1.0
 
-INTRO SPIEL
+Hey everyone, we've been working hard for a while along with our advisors to create this update which aims at closing the gap in balance between BW and SC2 races, this update most notable contains buffs to improve the game tempo of BW races as well as changes to Explosive and Concussive weapons to improve their performance, particularly in BW vs SC2 Scenarios.
+
+Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
+
+Finally from the Dev we'd like to wish the best to all the players participating in the Supermatch and GL HF, we'll be eagerly awaiting the event's date. Without further ado here are the patch notes.
 
 ***
 
@@ -38,7 +42,7 @@ INTRO SPIEL
 * Reduced Irradiate periodic tick delay 1.0 -> 0.5
 * Changed periodic damage from 7 -> 3.332, now deals total damage 248 -> 289.9
 * Fixed Irradiate not detecting cloaked units __(Core)__
-* Increased Defensive Matrix Shielding 250 -> 250
+* Increased Defensive Matrix Shielding 250 -> 300
 * Reduced EMP missile speed to match SC1 behaviour __(Core)__
 
 ***
