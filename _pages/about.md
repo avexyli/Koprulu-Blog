@@ -27,7 +27,7 @@ We'd like for people to join us in our journey as we work to deliver the Ultimat
 
 
 You can help us fund the Project's Models by Donating to our Paypal
-<a href="https://www.paypal.com/donate/?hosted_button_id=8FVGCCQ68F8A4"><img src="{{site.baseurl}}/images/blue.png" height="40"></a> 
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
 **_All the money received goes directly to the Modellers and Data Engineers._**
 
