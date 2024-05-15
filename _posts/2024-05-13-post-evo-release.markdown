@@ -15,7 +15,7 @@ Hey everyone, we've been working hard for a while along with our advisors to cre
 Along with this update we've also added several new models that the team has been working hard to get out the door. A series of minor updates to the core of the mods will be deployed to continue to make adjustments to the art as well as add new models eventually.
 
 If you want to support our continued development or help us fund new models you can do so by donating to our Paypal
-<a href="https://www.paypal.com/donate/?hosted_button_id=8FVGCCQ68F8A4"><img src="{{site.baseurl}}/images/blue.png" height="40"></a>
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" height="40"></a>
 
 **_All the money raised is going directly to our modellers and data engineers._**
 
