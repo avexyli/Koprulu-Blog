@@ -35,6 +35,7 @@ Finally from the Dev team we'd like to wish the best to all the players particip
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 * Increased Supply Depots erronous life amount 400 -> 500
 * Reduced Siege Tank build time 45 -> 40
+* Increased Siege Tank Siege Mode range 13 -> 14
 * Increased Medic Restoration range 2 -> 4
 * Increased Spider Mine Activation range 2 -> 3
 * Reduced Vulture Ion Thrusters research time 100 -> 75
