@@ -1,0 +1,65 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.3 patch notes
+description: Minor balance changes and new models!
+date:   2024-05-25 00:01:35 +0000
+image:  '/images/EvoExtension1_0.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Release 1.0
+
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+Multiplayer data is now separated from the extension mod so it can be easier to use by other modders. It can be found under "SCEvo_Multi" as an dependency mod
+This new dependency mod has no attributes added or Observer mod included.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+- Increased Vulture weapon period 1.6875 -> 1.875
+- Vulture now can shoot while moving keeping it's momentum between attacks if microed correctly (Thanks Bommes!)
+- Updated Irradiate visuals
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Reduced Scarab movement speed 9 -> 8 
+- Scarab explosion no longer flashbang's players
+- Updated Corsair attack visuals & sounds to match sc1
+- Mind Control can no longer be targeted on actively Neural Parasited units.
+- Fixed Mind Control not providing tech from the enemy player
+- Fixed Mind Control removing all behaviors from the targeted unit
+- Reduced High Templar model size by 20%
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- Increased Ultralisk unit radius 0.75 -> 0.8125 (building interaction size is not effected)
+- Increased Ultralisk model size slightly
+
+***
+
+### Bug fixes & changes
+- Fixed Machine Shop death model using wrong textures
+- Fixed Ghost Nuke not being able to be canceled 
+- Fixed Shield Battery warping missing a cancel button
+- Fixed Sunken Colony turret following killed targets with death motion
+- Fixed Scourges attack not causing unit under attack alert for the player
+- Fixed animation issues with Lair & Hive when morphing
+- Fixed Spore Colony missing target volumes
+- Added 'movement' sounds for Scout, Corsair & Valkyrie
+
+***
+
+Credits: 
+
+_Bommes for vulture moving shot_
