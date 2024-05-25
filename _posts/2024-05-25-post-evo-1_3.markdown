@@ -32,7 +32,7 @@ A reminder that you can help us fund development by donating, your donations go 
 
 Or in our newly launched Patreon!
 
-<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="151" height="50"></a> 
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
 ***
 
@@ -47,7 +47,7 @@ This new dependency mod has no attributes added or Observer mod included and con
 
 - Updated Irradiate visuals
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="211" height="70"> Vulture
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
 - Increased Vulture weapon period 1.6875 -> 1.875
 - Vulture now can shoot while moving keeping it's momentum between attacks if microed correctly (Thanks Bommes!)
