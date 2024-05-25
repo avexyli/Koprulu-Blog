@@ -1,23 +1,14 @@
 ---
 layout: post
 title:  SC Evo Complete Extension 1.3 patch notes
-<<<<<<< HEAD
 description: Minor balance changes and lots of bugfixes
 date:   2024-05-24 00:19:35 +0000
-=======
-description: Minor balance changes and bug fixes.
-date:   2024-05-25 00:01:35 +0000
->>>>>>> 935601586b93fde6157411bd4e0eb9635a8a9439
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
 featured: true
 ---
 
-<<<<<<< HEAD
 ## Evo Complete Extension Update 1.3
-=======
-## Evo Complete Extension Release 1.3
->>>>>>> 935601586b93fde6157411bd4e0eb9635a8a9439
 
 Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. Due to how close this update is to the upcoming tournament we decided to stall our balance update for a little while.
 
