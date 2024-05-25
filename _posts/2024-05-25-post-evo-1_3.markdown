@@ -32,7 +32,7 @@ A reminder that you can help us fund development by donating, your donations go 
 
 Or in our newly launched Patreon!
 
-<a href="https://www.patreon.com/TeamKopruluSC2"></a> 
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="151" height="50"></a> 
 
 ***
 
