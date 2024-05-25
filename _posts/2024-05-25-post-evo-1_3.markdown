@@ -93,14 +93,13 @@ This new dependency mod has no attributes added or Observer mod included and con
 - Corrected the amount of supply given by Hatcheries/Lairs/Hives from 2 -> 1
 
 ***
-
 Credits: 
 
 _Bommes for vulture moving shot_
+
 _Rosebudio for the Cover Image replay_
 
 ***
-
 Below we're detailing the notes from earlier hotfixes that did not receive a blogpost
 
 ## Evo Complete Extension Update 1.1
