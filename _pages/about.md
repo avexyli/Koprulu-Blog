@@ -26,8 +26,14 @@ We'd like for people to join us in our journey as we work to deliver the Ultimat
 
 
 
+You can join us at our discord channel to talk to the devs, report bugs and receive news on the project
+<a href="https://discord.gg/fDvwdnkDeB"><img src="{{site.baseurl}}/images/DiscordIcon.png" width="40" height="40"></a> 
+
 You can help us fund the Project's Models by Donating to our Paypal
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+or to our newly opened Patreon!
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
 **_All the money received goes directly to the Modellers and Data Engineers._**
 
