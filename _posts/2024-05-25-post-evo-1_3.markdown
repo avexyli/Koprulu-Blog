@@ -8,7 +8,7 @@ tags:   [Extension, Update]
 featured: true
 ---
 
-## Evo Complete Extension Release 1.0
+## Evo Complete Extension Release 1.3
 
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
