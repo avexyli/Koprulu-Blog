@@ -20,7 +20,6 @@ We're holding off from adding new models in the meantime to 100% finish some of 
   <div class="gallery">
     <img src="{{site.baseurl}}/images/teaser-queennest.png">
     <img src="{{site.baseurl}}/images/teaser-sciencevessel.png">
-    <img src="{{site.baseurl}}/images/teaser-shieldbattery.png">
   </div>
   <em>Upcoming Models for a future update</em>
 </div>
