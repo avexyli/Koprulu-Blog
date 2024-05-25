@@ -5,7 +5,6 @@ description: Several balance changes and new Models!
 date:   2024-05-13 00:01:35 +0000
 image:  '/images/EvoExtension1_0.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## Evo Complete Extension Release 1.0
