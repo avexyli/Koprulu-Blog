@@ -30,6 +30,10 @@ A reminder that you can help us fund development by donating, your donations go 
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
+Or in our newly launched Patreon!
+
+<a href="https://www.patreon.com/TeamKopruluSC2"></a> 
+
 ***
 
 ***This Update has been stalled in the Asia region due to how close it is to the Tasteless Showmatch, instead it's available under the PTR***
