@@ -1,0 +1,114 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.3,1 patch notes
+description: Minor Bugfixes and New Models!
+date:   2024-06-01 00:21:35 +0600
+image:  '/images/EvoExtension1_3_1.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.3.1
+
+Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. Due to how close this update is to the upcoming tournament we decided to stall our balance update for a little while.
+
+As for next update we'll be deploying a PTR to test some radical changes.
+
+We're holding off from adding new models in the meantime to 100% finish some of the new models added for 1.0 such as adding the full suite of death models, variations and animation adjustments across the board, in the meantime we have a little teaser of some of the upcoming content.
+
+
+We'll talk more about some upcoming content in a future blog post
+
+A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+Or in our newly launched Patreon!
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+***This Update has been stalled in the Asia region due to how close it is to the Tasteless Showmatch, instead it's available under the PTR***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+Multiplayer data is now separated from the extension mod so it can be easier to use by other modders. It can be found under "SCEvo_Multi" as an dependency mod
+This new dependency mod has no attributes added or Observer mod included and contains all SC: Evo Balance Data.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+- Updated Irradiate visuals
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+
+- Increased Vulture weapon period 1.6875 -> 1.875
+- Vulture now can shoot while moving keeping it's momentum between attacks if microed correctly (Thanks Bommes!)
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Updated Corsair attack visuals & sounds to match sc1
+- Reduced High Templar model size by 20%
+- Reduced Scarab movement speed 9 -> 8 
+- Scarab explosion no longer flashbang's players
+- Mind Control can no longer be targeted on actively Neural Parasited units.
+- Fixed Mind Control not providing tech from the enemy player
+- Fixed Mind Control removing all behaviors from the targeted unit
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- Increased Ultralisk unit radius 0.75 -> 0.8125 (building interaction size is not effected)
+- Increased Ultralisk model size slightly
+
+***
+
+### Bug fixes & changes
+- Fixed Machine Shop death model using wrong textures
+- Fixed Ghost Nuke not being able to be canceled 
+- Fixed Shield Battery warping missing a cancel button
+- Fixed Sunken Colony turret following killed targets with death motion
+- Fixed Scourges attack not causing unit under attack alert for the player
+- Fixed animation issues with Lair & Hive when morphing
+- Fixed Spore Colony missing target volumes
+- Fixed Sunken Colony missing Damage Refs
+- Added 'movement' sounds for Scout, Corsair & Valkyrie
+- Added new 'death' sounds for Zealot
+- Added Updated Hatchery 'death' model
+
+***
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+- Corrected the amount of supply given by Hatcheries/Lairs/Hives from 2 -> 1
+
+***
+Credits: 
+
+_Bommes for vulture moving shot_
+
+_Rosebudio for the Cover Image replay_
+
+***
+Below we're detailing the notes from earlier hotfixes that did not receive a blogpost
+
+## Evo Complete Extension Update 1.1
+
+- Updated zhCN locale
+- Updated koKR locale
+- Fixed missing APM meters on other locales
+
+## Evo Complete Extension Update 1.2
+
+- Fixed an issue causing Mutalisk's bounce damage to increase
+- Corrected an erroneous Valkyrie Range value
+- Updated Ultralisk Animations/Textures
+- Updated Scarab's Visuals
+- Updated Corsair Model
+- Updated Carrier Model/Textures
+- Added Bunker Model
+- Adjusted Irradiate low quality visuals
+- Updated Zerg Town Building Death Models
