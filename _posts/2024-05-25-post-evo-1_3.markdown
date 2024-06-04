@@ -5,7 +5,6 @@ description: Minor balance changes and lots of bugfixes
 date:   2024-05-24 00:21:35 +0600
 image:  '/images/EvoExtension1_3.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## Evo Complete Extension Update 1.3

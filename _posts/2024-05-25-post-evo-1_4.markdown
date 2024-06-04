@@ -40,7 +40,7 @@ Or in our newly launched Patreon!
 
 - Fixed an issue causing Valkyries to deal double damage to their main target
 
-*previously the Target unit would receive direct damage from the valkyrie plus the AoE damage*++++++++++++
+*previously the Target unit would receive direct damage from the valkyrie plus the AoE damage*
 
 
 ***
