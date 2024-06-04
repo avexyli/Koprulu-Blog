@@ -36,8 +36,6 @@ Or in our newly launched Patreon!
 
 ***
 
-***This Update has been stalled in the Asia region due to how close it is to the Tasteless Showmatch, instead it's available under the PTR***
-
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
 Multiplayer data is now separated from the extension mod so it can be easier to use by other modders. It can be found under "SCEvo_Multi" as an dependency mod
