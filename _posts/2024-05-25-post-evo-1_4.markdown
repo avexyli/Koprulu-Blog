@@ -1,0 +1,112 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.4 patch notes
+description: Minor Bugfixes and New Models!
+date:   2024-06-01 00:21:35 +0600
+image:  '/images/EvoExtension1_4.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.4
+
+Hey everyone we got a minor update to fix some bugs, visual issues as well as add some features and update some visuals. This update does not contain the balance patch coming from the PTR as it has been delayed since it's still undergoing testing, in the meantime this update will fix a couple bugs and adjust some interactions between BroodWar and StarCraft 2 Spells
+
+In this update we've added a couple of new models and effects funded by our Donors, special thanks to @CerberusSC2 for funding the Archon Model also thank you to our recent Donors for funding the new Defiler effects.
+
+*A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.*
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+Or in our newly launched Patreon!
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+
+- Parasitic Bomb can now be properly Restored by Medics
+
+*previously Parasitic Bomb would linger at the area where it was restored*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+
+- Corrected the 100% damage AoE radius from 0.3125 -> 0.375
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+
+- Fixed an issue causing Valkyries to deal double damage to their main target
+
+*previously the Target unit would receive direct damage from the valkyrie plus the AoE damage*++++++++++++
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+
+- Added new Shield Battery Model
+
+![]({{site.baseurl}}/images/modelpreview-battery.png)
+
+*Credits to Kailniris for the original model, animations and effects by: Team Koprulu*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-archon@scbw.png" width="50" height="50"> Archon
+
+- Added new Archon Model
+
+![]({{site.baseurl}}/images/modelpreview-archon.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+
+- Stasis field can now stop Phased Units
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+
+- Corrected units under the effects of Mind Control still costing supplies
+- Fixed an issue causing units affected by Maelstrom to still be picked up by Transports
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+
+- Added new Dark Swarm Effects
+
+![]({{site.baseurl}}/images/modelpreview-darkswarm.png)
+
+- Added new Plague 
+
+![]({{site.baseurl}}/images/modelpreview-plague.png)
+
+- Increased Consume Range 0.1 -> 0.5
+- Corrected Plague not being able to Reveal Cloaked units
+
+
+***
+
+### Bug fixes & changes
+
+- Removed an unintended additional player Decal from Zerg Town Buildings
+- Fixed an issue causing Drones affected by Neural Parasite to morph into an enemy building
+- Fixed an issue causing Scourge to not show in the Observer Production panel
+- Fixed several interactions between Reaper's KD8 Charges and BroodWar units
+- Fixed an issue on Bunker Death models causing them to look low poly
+- Updated Mutalisk Textures
+- Updated Bunker Textures
+- Added Overlord Death Model
+- Added Target Volumes to Scourge
+- Added Target Volumes to Stasis Field
+
+***
+Credits: 
+
+_Kailniris for vulture moving shot_
+
+***
