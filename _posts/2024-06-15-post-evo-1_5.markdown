@@ -84,7 +84,7 @@ featured: true
 - Reduced Scout Build time from 60 -> 50
 - Reduced Scout Mineral cost from 250 -> 200
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Scout
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 - Increased Stasis Energy cost 75 -> 100
 - Stasis now disables Terran cloak behaviors, allowing them to regenerate energy during stasis __(Core)__
 - Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
