@@ -22,37 +22,154 @@ featured: true
 
 ***
 
+**Global**
+
+- Reduced Acceleration rate for all SC1 Workers from 4.1875 -> 3.35
+- Added Classic Icons 'skin' for sc1 races that can be activated with '-ClassicIcons' chat command
+*In a future update we will add an interface where you can activate this and other skins*
+
+
+**Crowd Control Reduction Changes**
+- Maelstrom Duration 11 -> 9 (20% reduction)
+- Stasis Duration 65.5 -> 46 (30% reduction)
+- Lockdown Duration 65.5 -> 46 (30% reduction)
+- Ensnare Duration 37.5 -> 30 (20% reduction)
+- Devourer Debuff Duration 30 -> 21 (30% reduction)
+- Plague Duration 37.5 -> 30 (20% reduction)
+- Dark Swarm duration 56.25 -> 45 (20% reduction)
+
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 
-- Parasitic Bomb can now be properly Restored by Medics
+- Increased Medic Healing Range from 2 -> 3
+- Increased Medic Movement Speed from 2.25 -> 2.4492
+- Increased Medic's Restoration Range from 2 -> 6
+- Maelstrom can now be restored by Medics __(Core)__
 
+- Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
+- Reduced Wraith Build Time from 45 -> 42
+- Reduced Siege Mode Research time from 60 -> 55
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+- Reduced Siege Tank sieged weapon range 14 -> 13.5
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
+- Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
+- Reduced Irradiate Duration from 42 -> 37.9
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
-### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+- Adjusted Nexus Selection Circles __(Core)__
+- Fixed Dark Archon mind control being able to target allied units __(Core)__
 
-- Added new Shield Battery Model
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
+- Increased Zealot Leg Enhancement Bonus from 1.35 -> 1.4
+- Removed Attack Speed multiplier from Leg Enhancements
+- Reduced Zealot Shields from 70 -> 65
 
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
+- Removed Autocast from Create Scarab Ability
+- Increased Scarab movement speed 8 -> 9
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
+- Increased Corsair Weapon AoE from 3.125 -> 3.25
+- Increased Corsair Weapon Damage from 3.75 -> 4.5 (vs Armored 5 -> 6)
+- Reduced Corsair Separation Radius from 0.75 -> 0.5
+- Disruption web now mimics it's sc1 version __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout.png" width="50" height="50"> Scout
+- Reduced Scout Build time from 60 -> 50
+- Reduced Scout Mineral cost from 250 -> 200
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Scout
+- Increased Stasis Energy cost 75 -> 100
+- Stasis now disables Terran cloak behaviors, allowing them to regenerate energy during stasis __(Core)__
+- Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+- Dark Archon Mind control can no longer target allied targets
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
+- Upgraded Overlord speed 1.879 -> 2.38
+- SC1 Hatchery build no longer creates creep while it's constructing __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
+- Increased Mutalisk Life from 120 -> 130
+- Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
+- Reduced Guardian Morph time from 38 -> 34
+- Reduced Devourer Morph time from 40 -> 35
+
+
+- Reduced Hydralsik Grooved Spines Upgrade Research time from 170 -> 140
+- Sunken Colony Build time Reduced from 35 -> 18
+- Reduced Spore Colony Damage from 25 -> 20
+
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+- Increased Plague search area 2.0 -> 2.2
 
-- Added new Dark Swarm Effects
-
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
+- Increased Lurker Life from 125 -> 135
+- Increased Lurker weapon damage 20 -> 25
+- Removed Lurker weapon bonus to Light attribute
+- Reduced Lurker weapon range 8 -> 7.5 
 
 ***
 
 ### Bug fixes & changes
 
-- Removed an unintended additional player Decal from Zerg Town Buildings
+We've corrected a number of errors in the Core mod range values of these abilities, the Extension mod will remain unaffected but this change will apply to Legacy and Crossover
+- Corrected EMP Range from 10 -> 8 __(Core)__
+- Corrected Restoration Range from 2 -> 6 __(Core)__
+- Corrected Lockdown Range from 9 -> 8 __(Core)__
+
+
+We've corrected a number of errors in the Core mod for movement speeds
+- Corrected Zergling movement speed 3.0937 -> 3.125
+- Corrected Ultralisk movement speed 2.879 -> 3.0
+- Corrected Hydralisk movement speed 1.9687 -> 2.0625
+- Corrected Lurker movement speed   3.375 -> 2.25 __(Core Only)__
+- Corrected Guardian movement speed 1.4062 -> 1.4375 
+- Corrected Overlord movement speed 0.4687 -> 0.4375 __(Core Only)__
+- Corrected Reaver movement speed   0.879 -> 0.9375
+- Corrected Shuttle movement speed  2.4882 -> 2.5 
+- Corrected Dragoon movement speed  2.9531 -> 2.9375
+- Corrected Goliath movement speed  2.5312 -> 2.625
+- Corrected Battlecruiser movement speed 1.4062 -> 1.4375
+- Corrected Dropship movement speed 3.0742 -> 3.0625
+- Corrected Valkyrie movement speed 3.7148 -> 3.6875
+
+- Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
+- Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
+- Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
+- Plague & Irradiate buffs now gets paused when unit enters SC2 Nydus Network/Worm __(Core)__
+*There's hardcoded feature that units in player transports like Nydus Worm are immune to all damage*
+
+- Fixed SC1 Gateway being considered same tech as SC2 gateway __(Core)__
+- Fixed Changeling sc1 variants having different values as their unit counterparts
+- Fixed SC2 texts for Interference Matrix & Hurricane Thrusters missing their KR translations
+- Fixed Reavers being able to shoot Scarabs without building them first __(Core)__
+- Fixed Arbiter Stasis buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
+- Fixed Arbiter Stasis targeting highlighting SC2 Ultralisks during targeting
+- Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
+- Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
+- Fixed Disruption Web not disabling Cyclone Lock On ability & Widow Mines attack
+- Fixed Disruption Web disabling Reavers Scarab & Unburrowed Spider Mines weapons __(Core)__
+- Fixed Disruption Web causing units to flee from the caster __(Core)__
+- Fixed Overseer Contaminate not disabling SC1 Hatchery larva spawn
+- Fixed Cyclone Lock on targeting SC1 Larva Eggs, Larva & Interceptors
+- Fixed SC1 Terran Buildings being able to lift off while researching or training on an addon __(Core)__
+- Fixed Defensive Matrix and Immortal Shield Barrier interactions, Immortal shield now takes priority over Defensive Matrix
+- Fixed Plague damage not bypassing Defensive Matrix __(Core)__
+
+### Art Changes
+- Added new Scout model
+- Added new Pylon model
 
 ***
 Credits: 
