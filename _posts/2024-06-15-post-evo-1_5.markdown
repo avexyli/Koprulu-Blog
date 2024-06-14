@@ -1,0 +1,64 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.5 patch notes
+description: Tons of Balance changes and Bugfixes!
+date:   2024-06-16 00:21:35 +0600
+image:  '/images/EvoExtension1_5.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.5
+
+~Intro Spiel~
+
+*A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.*
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+*Or in our Patreon!*
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+
+- Parasitic Bomb can now be properly Restored by Medics
+
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+
+- Added new Shield Battery Model
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+
+- Added new Dark Swarm Effects
+
+
+***
+
+### Bug fixes & changes
+
+- Removed an unintended additional player Decal from Zerg Town Buildings
+
+***
+Credits: 
+
+_GhostNova for Pylon Kitbash_
+
+_Lawless for Pylon Animations/Effects_
+
+***
