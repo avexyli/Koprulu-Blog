@@ -28,7 +28,6 @@ featured: true
 - Added Classic Icons 'skin' for sc1 races that can be activated with '-ClassicIcons' chat command
 *In a future update we will add an interface where you can activate this and other skins*
 
-
 **Crowd Control Reduction Changes**
 - Maelstrom Duration 11 -> 9 (20% reduction)
 - Stasis Duration 65.5 -> 46 (30% reduction)
@@ -103,8 +102,10 @@ featured: true
 - Increased Mutalisk Life from 120 -> 130
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
 - Reduced Guardian Morph time from 38 -> 34
-- Reduced Devourer Morph time from 40 -> 35
 
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
+- Reduced Devourer Morph time from 40 -> 35
+- Increased Devourer weapon damage 18.75 -> 20.25 (vs armored 25 -> 27)
 
 - Reduced Hydralsik Grooved Spines Upgrade Research time from 170 -> 140
 - Sunken Colony Build time Reduced from 35 -> 18
