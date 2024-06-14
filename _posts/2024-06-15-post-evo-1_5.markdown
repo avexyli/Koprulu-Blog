@@ -39,16 +39,14 @@ featured: true
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+- Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
+- Reduced Wraith Build Time from 45 -> 42
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 - Increased Medic Healing Range from 2 -> 3
 - Increased Medic Movement Speed from 2.25 -> 2.4492
 - Increased Medic's Restoration Range from 2 -> 6
 - Maelstrom can now be restored by Medics __(Core)__
-
-- Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
-- Reduced Wraith Build Time from 45 -> 42
-
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
 - Reduced Siege Tank sieged weapon range 14 -> 13.5
@@ -97,6 +95,9 @@ featured: true
 
 - Upgraded Overlord speed 1.879 -> 2.38
 - SC1 Hatchery build no longer creates creep while it's constructing __(Core)__
+- Reduced Hydralsik Grooved Spines Upgrade Research time from 170 -> 140
+- Sunken Colony Build time Reduced from 35 -> 18
+- Reduced Spore Colony Damage from 25 -> 20
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
 - Increased Mutalisk Life from 120 -> 130
@@ -106,10 +107,6 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
 - Reduced Devourer Morph time from 40 -> 35
 - Increased Devourer weapon damage 18.75 -> 20.25 (vs armored 25 -> 27)
-
-- Reduced Hydralsik Grooved Spines Upgrade Research time from 170 -> 140
-- Sunken Colony Build time Reduced from 35 -> 18
-- Reduced Spore Colony Damage from 25 -> 20
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
 - Increased Plague search area 2.0 -> 2.2
@@ -144,6 +141,7 @@ We've corrected a number of errors in the Core mod for movement speeds
 - Corrected Battlecruiser movement speed 1.4062 -> 1.4375
 - Corrected Dropship movement speed 3.0742 -> 3.0625
 - Corrected Valkyrie movement speed 3.7148 -> 3.6875
+
 
 - Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
