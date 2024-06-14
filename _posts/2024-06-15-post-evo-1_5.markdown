@@ -48,10 +48,11 @@ featured: true
 
 - Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
 - Reduced Wraith Build Time from 45 -> 42
-- Reduced Siege Mode Research time from 60 -> 55
+
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
 - Reduced Siege Tank sieged weapon range 14 -> 13.5
+- Reduced Siege Mode Research time from 60 -> 55
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
@@ -62,7 +63,6 @@ featured: true
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 - Adjusted Nexus Selection Circles __(Core)__
-- Fixed Dark Archon mind control being able to target allied units __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
 - Increased Zealot Leg Enhancement Bonus from 1.35 -> 1.4
