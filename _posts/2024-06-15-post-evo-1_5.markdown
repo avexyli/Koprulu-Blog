@@ -154,7 +154,7 @@ We've corrected a number of errors in the Core mod for movement speeds
 - Fixed SC2 texts for Interference Matrix & Hurricane Thrusters missing their KR translations
 - Fixed Reavers being able to shoot Scarabs without building them first __(Core)__
 - Fixed Arbiter Stasis buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
-- Fixed Arbiter Stasis targeting highlighting SC2 Ultralisks during targeting
+- Fixed Arbiter Stasis highlighting SC2 Ultralisks during targeting
 - Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
 - Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
 - Fixed Disruption Web not disabling Cyclone Lock On ability & Widow Mines attack
