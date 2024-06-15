@@ -102,11 +102,15 @@ featured: true
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
 - Increased Mutalisk Life from 120 -> 130
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
-- Reduced Guardian Morph time from 38 -> 34
+
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
 - Reduced Devourer Morph time from 40 -> 35
 - Increased Devourer weapon damage 18.75 -> 20.25 (vs armored 25 -> 27)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-guardian@scbw.png" width="50" height="50"> Guardian
+- Increased Guardian weapon damage 20 -> 25
+- Reduced Guardian Morph time from 38 -> 34
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
 - Increased Plague search area 2.0 -> 2.2
