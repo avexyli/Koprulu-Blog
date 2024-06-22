@@ -182,7 +182,6 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### Bug fixes & changes
 
-
 - Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
@@ -206,6 +205,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Fixed Defensive Matrix and Immortal Shield Barrier interactions, Immortal shield now takes priority over Defensive Matrix
 - Fixed Plague damage not bypassing Defensive Matrix & Immortal Barrier __(Core)__
 - Fixed Charon Boosters being researchable without Armory __(Core)__
+- Fixed Wraith & Battlecruiser laser projectile speeds being too slow __(Core)__
 
 ### Art Changes
 - Added new Scout model
