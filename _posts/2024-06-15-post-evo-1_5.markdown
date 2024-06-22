@@ -43,18 +43,25 @@ featured: true
 - Reduced Wraith Build Time from 45 -> 42
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+
 - Increased Medic Healing Range from 2 -> 3
 - Increased Medic Movement Speed from 2.25 -> 2.4492
 - Increased Medic's Restoration Range from 2 -> 6
 - Maelstrom can now be restored by Medics __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+
 - Reduced Siege Tank sieged weapon range 14 -> 13.5
 - Reduced Siege Mode Research time from 60 -> 55
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
+
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
 - Reduced Irradiate Duration from 42 -> 37.9
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-ghost@scbw.png" width="50" height="50"> Ghost
+
+- Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
 
 ***
 
@@ -63,63 +70,83 @@ featured: true
 - Adjusted Nexus Selection Circles __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
+
 - Increased Zealot Leg Enhancement Bonus from 1.35 -> 1.4
 - Removed Attack Speed multiplier from Leg Enhancements
 - Reduced Zealot Shields from 70 -> 65
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
-- Removed Autocast from Create Scarab Ability
+
 - Increased Scarab movement speed 8 -> 9
+- Removed Autocast from Create Scarab Ability
+- Added a Button on the Shuttles allowing it to build Scarabs from inside
+
+*Initially the Autocast made Reavers too forgiving to play, we wanted to keep in line with the nature of the Original behavior but with some added Quality of Life features, so to that end Shuttles will now also have a  Button to allow players to build Scarabs from within the Shuttle.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
+
 - Increased Corsair Weapon AoE from 3.125 -> 3.25
-- Increased Corsair Weapon Damage from 3.75 -> 4.5 (vs Armored 5 -> 6)
 - Reduced Corsair Separation Radius from 0.75 -> 0.5
 - Disruption web now mimics it's sc1 version __(Core)__
 
+*Units inside the disruption web will no longer attempt to enter and leave the disruption web automatically, players must order them out of it manually, this behavior also affects the AI.*
+
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout.png" width="50" height="50"> Scout
+
 - Reduced Scout Build time from 60 -> 50
 - Reduced Scout Mineral cost from 250 -> 200
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+
 - Increased Stasis Energy cost 75 -> 100
-- Stasis now disables Terran cloak behaviors, allowing them to regenerate energy during stasis __(Core)__
+- Stasis now disables Terran cloak behaviors, allowing them to regenerate energy during Stasis __(Core)__
 - Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+
 - Dark Archon Mind control can no longer target allied targets
+- Reduced Maelstrom Research time from 110 -> 69
 
 ***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-- Upgraded Overlord speed 1.879 -> 2.38
 - SC1 Hatchery build no longer creates creep while it's constructing __(Core)__
-- Reduced Hydralsik Grooved Spines Upgrade Research time from 170 -> 140
-- Sunken Colony Build time Reduced from 35 -> 18
+- Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
+- Reduced Sunken Colony Build time Reduced from 35 -> 18
 - Reduced Spore Colony Damage from 25 -> 20
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
+
 - Increased Mutalisk Life from 120 -> 130
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
 
-
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
+
 - Reduced Devourer Morph time from 40 -> 35
 - Increased Devourer weapon damage 18.75 -> 20.25 (vs armored 25 -> 27)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-guardian@scbw.png" width="50" height="50"> Guardian
+
 - Increased Guardian weapon damage 20 -> 25
 - Reduced Guardian Morph time from 38 -> 34
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+
 - Increased Plague search area 2.0 -> 2.2
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
+
 - Increased Lurker Life from 125 -> 135
 - Increased Lurker weapon damage 20 -> 25
 - Removed Lurker weapon bonus to Light attribute
 - Reduced Lurker weapon range 8 -> 7.5 
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> Overlord
+
+- Upgraded Overlord speed 1.879 -> 2.38
+- Increase Antennae Research Sight Range from 2 -> 3
+- Increase Antennae Research Detection Range from 2 -> 3
 
 ***
 
@@ -132,7 +159,7 @@ We've corrected a number of errors in the Core mod range values of these abiliti
 
 
 We've corrected a number of errors in the Core mod for movement speeds
-- Corrected Zergling movement speed 3.0937 -> 3.125
+- Corrected Zergling movement speed 3.0937 -> 3.125 __(Core Only)__
 - Corrected Ultralisk movement speed 2.879 -> 3.0
 - Corrected Hydralisk movement speed 1.9687 -> 2.0625
 - Corrected Lurker movement speed   3.375 -> 2.25 __(Core Only)__
