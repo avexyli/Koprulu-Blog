@@ -32,10 +32,10 @@ featured: true
 - Maelstrom Duration 11 -> 9 (20% reduction)
 - Stasis Duration 65.5 -> 46 (30% reduction)
 - Lockdown Duration 65.5 -> 46 (30% reduction)
+- Defensive Matrix Duration 84 -> 58.8 (30% reduction)
 - Ensnare Duration 37.5 -> 30 (20% reduction)
 - Devourer Debuff Duration 30 -> 21 (30% reduction)
-- Plague Duration 37.5 -> 30 (20% reduction)
-- Dark Swarm duration 56.25 -> 45 (20% reduction)
+- Dark Swarm duration 56.25 -> 45 (20% reduction)   
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
@@ -70,8 +70,7 @@ featured: true
 - Adjusted Nexus Selection Circles __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
-
-- Increased Zealot Leg Enhancement Bonus from 1.35 -> 1.4
+- Increased Zealot Leg Enhancement Bonus multiplier from 1.35 -> 1.4
 - Removed Attack Speed multiplier from Leg Enhancements
 - Reduced Zealot Shields from 70 -> 65
 
@@ -152,6 +151,36 @@ featured: true
 
 ### Bug fixes & changes
 
+
+- Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
+- Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
+- Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
+- Spider Mines now unburrow instead of acquiring new target if their chased unit dies
+- Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets
+- Fixed Plague not damaging units inside Nydus Networks
+- Fixed Irradiate not damaging its main target inside Nydus Networks, other units loaded into the network will not take damage from this
+- Fixed SC1 Gateway being considered same tech as SC2 gateway __(Core)__
+- Fixed Changeling sc1 variants having different values as their unit counterparts
+- Fixed SC2 texts for Interference Matrix & Hurricane Thrusters missing their KR translations
+- Fixed Reavers being able to shoot Scarabs without building them first __(Core)__
+- Fixed Arbiter Stasis buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
+- Fixed Arbiter Stasis highlighting SC2 Ultralisks during targeting
+- Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
+- Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
+- Fixed Disruption Web not disabling Cyclone Lock On ability & Widow Mines attack
+- Fixed Disruption Web disabling Reavers Scarab & Unburrowed Spider Mines weapons __(Core)__
+- Fixed Disruption Web causing units to flee from the caster __(Core)__
+- Fixed Overseer Contaminate not disabling SC1 Hatchery larva spawn
+- Fixed Cyclone Lock on targeting SC1 Larva Eggs, Larva & Interceptors
+- Fixed SC1 Terran Buildings being able to lift off while researching or training on an addon __(Core)__
+- Fixed Defensive Matrix and Immortal Shield Barrier interactions, Immortal shield now takes priority over Defensive Matrix
+- Fixed Plague damage not bypassing Defensive Matrix & Immortal Barrier __(Core)__
+
+### Art Changes
+- Added new Scout model
+- Added new Pylon model
+
+### Legacy & Crossover
 We've corrected a number of errors in the Core mod range values of these abilities, the Extension mod will remain unaffected but this change will apply to Legacy and Crossover
 - Corrected EMP Range from 10 -> 8 __(Core)__
 - Corrected Restoration Range from 2 -> 6 __(Core)__
@@ -173,33 +202,14 @@ We've corrected a number of errors in the Core mod for movement speeds
 - Corrected Dropship movement speed 3.0742 -> 3.0625
 - Corrected Valkyrie movement speed 3.7148 -> 3.6875
 
+*** 
+### Legacy Extension
+- Siege Tank & Goliath no longer effected by Ensnare attack speed debuff _This is to mimic the behaviour seen in sc1_
+- Fixed Hatcheries not spawning with 3 larva at the start of the game
+- Removed autocast from Carrier interceptro build & Reaver scarab build
+- Workers no longer auto harvest at the start of the game
+- Bases no longer auto rally at the start of the game
 
-- Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
-- Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
-- Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
-- Plague & Irradiate buffs now gets paused when unit enters SC2 Nydus Network/Worm __(Core)__
-*There's hardcoded feature that units in player transports like Nydus Worm are immune to all damage*
-
-- Fixed SC1 Gateway being considered same tech as SC2 gateway __(Core)__
-- Fixed Changeling sc1 variants having different values as their unit counterparts
-- Fixed SC2 texts for Interference Matrix & Hurricane Thrusters missing their KR translations
-- Fixed Reavers being able to shoot Scarabs without building them first __(Core)__
-- Fixed Arbiter Stasis buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
-- Fixed Arbiter Stasis highlighting SC2 Ultralisks during targeting
-- Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
-- Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
-- Fixed Disruption Web not disabling Cyclone Lock On ability & Widow Mines attack
-- Fixed Disruption Web disabling Reavers Scarab & Unburrowed Spider Mines weapons __(Core)__
-- Fixed Disruption Web causing units to flee from the caster __(Core)__
-- Fixed Overseer Contaminate not disabling SC1 Hatchery larva spawn
-- Fixed Cyclone Lock on targeting SC1 Larva Eggs, Larva & Interceptors
-- Fixed SC1 Terran Buildings being able to lift off while researching or training on an addon __(Core)__
-- Fixed Defensive Matrix and Immortal Shield Barrier interactions, Immortal shield now takes priority over Defensive Matrix
-- Fixed Plague damage not bypassing Defensive Matrix __(Core)__
-
-### Art Changes
-- Added new Scout model
-- Added new Pylon model
 
 ***
 Credits: 
