@@ -43,13 +43,13 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Corrected Ultralisk movement speed 2.879 -> 3.0
 - Corrected Hydralisk movement speed 1.9687 -> 2.0625
 - Corrected Lurker movement speed   3.375 -> 2.25 __(Core Only)__
-- Corrected Guardian movement speed 1.4062 -> 1.4375 
+- Corrected Guardian movement speed 1.4062 -> 1.4375 __(Core Only)__ 
 - Corrected Overlord movement speed 0.4687 -> 0.4375 __(Core Only)__
-- Corrected Reaver movement speed   0.879 -> 0.9375
+- Corrected Reaver movement speed   0.879 -> 0.9375 __(Core Only)__
 - Corrected Shuttle movement speed  2.4882 -> 2.5 
 - Corrected Dragoon movement speed  2.9531 -> 2.9375
 - Corrected Goliath movement speed  2.5312 -> 2.625
-- Corrected Battlecruiser movement speed 1.4062 -> 1.4375
+- Corrected Battlecruiser movement speed 1.4062 -> 1.4375 __(Core Only)__
 - Corrected Dropship movement speed 3.0742 -> 3.0625
 - Corrected Valkyrie movement speed 3.7148 -> 3.6875
 
@@ -74,14 +74,20 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
 - Reduced Irradiate Duration from 42 -> 37.9
+- Reduced Irradiate AoE from 2.5 -> 1.875
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
 - Spider Mines now unburrow instead of acquiring new target if their chased target dies
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
+
 - Lockdown now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+
+- Increased Battlecruiser Speed from 1.875 -> 2
 
 ***
 
@@ -102,6 +108,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Added a Button on the Shuttles allowing it to build Scarabs from inside
 
 *Initially the Autocast made Reavers too forgiving to play, we wanted to keep in line with the nature of the Original behavior but with some added Quality of Life features, so to that end Shuttles will now also have a  Button to allow players to build Scarabs from within the Shuttle.*
+
+- Increased Reaver Speed from 0.879 -> 1.0703
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
 
@@ -142,6 +150,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
 - Increased Hydralisk Life 80 -> 85
+- Increased Hydralisk Inner Radius __(Core)__
+
+*With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
 
@@ -164,6 +175,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Increased Guardian weapon damage 20 -> 30
 - Reduced Guardian Morph time from 38 -> 34
+- Increaed Guardian Speed 1.438 -> 1.75
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
 
