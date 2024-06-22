@@ -123,6 +123,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Increased Scout Shields 100 -> 125
 - Increased Scout Life 150 -> 200
+- Reduced Apial Sensors upgrade costs 100 -> 50
+- Reduced Gravitic Thrusters upgrade costs 100 -> 50
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 
