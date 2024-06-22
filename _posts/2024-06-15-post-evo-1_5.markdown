@@ -10,7 +10,7 @@ featured: true
 
 ## Evo Complete Extension Update 1.5
 
-~Intro Spiel~
+Hey everyone, we'd like to start this out by thanking everyone who have been supporting us whether it be bug reports, an encouraging comment, a video or a donation, all the recent games and events have kept us going strong and this time we have a major balance update as well as tons of bugfixes coming to the game.
 
 *A reminder that you can help us fund development by donating, your donations go toward funding development as well as making new models at a much faster rate.*
 
@@ -35,7 +35,9 @@ featured: true
 - Defensive Matrix Duration 84 -> 58.8 (30% reduction)
 - Ensnare Duration 37.5 -> 30 (20% reduction)
 - Devourer Debuff Duration 30 -> 21 (30% reduction)
-- Dark Swarm duration 56.25 -> 45 (20% reduction)   
+- Dark Swarm duration 56.25 -> 45 (20% reduction)
+
+*Initially the BroodWar spells were used to bridge the balance gap between SC2 vs BW matchups but ever since several balance changes made to the units have made them more viable as support units
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
@@ -59,6 +61,10 @@ featured: true
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
 - Reduced Irradiate Duration from 42 -> 37.9
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-vulture@scbw.png" width="50" height="50"> Vulture
+
+- Spider Mines now unburrow instead of acquiring new target if their chased unit dies
+
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-ghost@scbw.png" width="50" height="50"> Ghost
 
 - Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
@@ -70,6 +76,7 @@ featured: true
 - Adjusted Nexus Selection Circles __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
+
 - Increased Zealot Leg Enhancement Bonus multiplier from 1.35 -> 1.4
 - Removed Attack Speed multiplier from Leg Enhancements
 - Reduced Zealot Shields from 70 -> 65
@@ -155,7 +162,6 @@ featured: true
 - Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
-- Spider Mines now unburrow instead of acquiring new target if their chased unit dies
 - Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets
 - Fixed Plague not damaging units inside Nydus Networks
 - Fixed Irradiate not damaging its main target inside Nydus Networks, other units loaded into the network will not take damage from this
@@ -182,12 +188,13 @@ featured: true
 
 ### Legacy & Crossover
 We've corrected a number of errors in the Core mod range values of these abilities, the Extension mod will remain unaffected but this change will apply to Legacy and Crossover
+
+**Range Corrections**
 - Corrected EMP Range from 10 -> 8 __(Core)__
 - Corrected Restoration Range from 2 -> 6 __(Core)__
 - Corrected Lockdown Range from 9 -> 8 __(Core)__
 
-
-We've corrected a number of errors in the Core mod for movement speeds
+**Movement Speed Corrections**
 - Corrected Zergling movement speed 3.0937 -> 3.125 __(Core Only)__
 - Corrected Ultralisk movement speed 2.879 -> 3.0
 - Corrected Hydralisk movement speed 1.9687 -> 2.0625
