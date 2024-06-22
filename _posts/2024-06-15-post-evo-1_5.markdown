@@ -239,4 +239,6 @@ _GhostNova for Pylon Kitbash_
 
 _Lawless for Pylon Animations/Effects_
 
+_Spectre/Stormrage for Dynamic Banks for extensions_
+
 ***
