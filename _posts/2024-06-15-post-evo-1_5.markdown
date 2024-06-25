@@ -84,6 +84,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Lockdown now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
+- Lockdown now Interrupts Disruptor's Purification Nova channel
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
 
@@ -131,6 +132,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Increased Stasis Energy cost 75 -> 100
 - Stasis now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
+- Stasis now interrupts Disruptor's Purification Nova channel
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
@@ -152,7 +154,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
 - Increased Hydralisk Life 80 -> 85
-- Increased Hydralisk Inner Radius __(Core)__
+- Corrected erroneous Hydralisk Inner Radius 0.3125 -> 0.375 __(Core)__
 
 *With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
 
@@ -209,6 +211,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Fixed Arbiter Stasis, Malestrom, Lockdown buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
 - Fixed Arbiter Stasis highlighting SC2 Ultralisks during targeting
 - Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
+- Fixed Adept Shade teleport not clearing Arbiter Stasis, Maelstrom & Lockdown
 - Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
 - Fixed Disruption Web not disabling Cyclone Lock On ability & Widow Mines attack
 - Fixed Disruption Web disabling Reavers Scarab & Unburrowed Spider Mines weapons __(Core)__
