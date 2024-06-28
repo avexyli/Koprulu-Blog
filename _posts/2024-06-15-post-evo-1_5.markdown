@@ -87,6 +87,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Lockdown now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
 - Lockdown now Interrupts Disruptor's Purification Nova channel
+- Lockdown can no longer target Tactical Jumping Battlecruisers
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
 
@@ -137,11 +138,13 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Stasis now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
 - Stasis now interrupts Disruptor's Purification Nova channel
+- Stasis can no longer target Tactical Jumping Battlecruisers
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
 - Increased Dark Archon Starting energy 50 -> 75
 - Mind control can no longer target allied targets
+- Mind control can no longer target Tactical Jumping Battlecruisers
 - Increased Mind Control range 8 -> 9
 - Reduced Maelstrom Research time from 110 -> 69
 - Maelstrom now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
@@ -231,6 +234,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Fixed Plague damage not bypassing Defensive Matrix & Immortal Barrier __(Core)__
 - Fixed Charon Boosters being researchable without Armory __(Core)__
 - Fixed Wraith & Battlecruiser laser projectile speeds being too slow __(Core)__
+- Fixed Mind Control not being able to target transport units holding cargo __(Core)__
 
 ### Art Changes
 - Added new Scout model
