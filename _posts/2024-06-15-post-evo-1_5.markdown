@@ -57,6 +57,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
 - Reduced Wraith Build Time from 45 -> 42
+- Increased Marine U-238 Shells upgrade mineral cost 50 -> 150
+
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 
@@ -95,6 +97,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 - Adjusted Nexus Selection Circles __(Core)__
+- Increased Dragoon Singularity Charge research time 100 -> 150
+- Reduced Fleet Beacon mineral cost 300 -> 250
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
 
@@ -136,7 +140,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
-- Dark Archon Mind control can no longer target allied targets
+- Increased Dark Archon Starting energy 50 -> 75
+- Mind control can no longer target allied targets
+- Increased Mind Control range 8 -> 9
 - Reduced Maelstrom Research time from 110 -> 69
 - Maelstrom now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Maelstrom now allows Move, Stop, Harvest commands to be issued __(Core)__
@@ -146,28 +152,31 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 - SC1 Hatchery build no longer creates creep while it's constructing __(Core)__
-
-- Reduced Sunken Colony Build time Reduced from 35 -> 18
+- Reduced Sunken Colony Build time from 35 -> 18
 - Reduced Spore Colony Damage from 25 -> 20
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
+- Increased Spawning Pool Build time 65 -> 72
+- Reduced Metabolic Boost upgrade research time 110 -> 103
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 
 - Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
 - Increased Hydralisk Life 80 -> 85
+- Reduced Hydralisk weapon period 1.0312 -> 0.9375
 - Corrected erroneous Hydralisk Inner Radius 0.3125 -> 0.375 __(Core)__
 
 *With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
 
-- Increased Lurker Life from 125 -> 135
 - Increased Lurker weapon damage 20 -> 25
 - Removed Lurker weapon bonus to Light attribute
 - Reduced Lurker weapon range 8 -> 7.5 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
 
-- Increased Mutalisk Life from 120 -> 130
+- Increased Mutalisk Life from 120 -> 125
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
