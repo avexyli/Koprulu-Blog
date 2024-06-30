@@ -80,7 +80,13 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
-- Spider Mines now unburrow instead of acquiring new target if their chased target dies
+- Placing Spider Mines now mimics it's SC1 Behavior without 'Smart Casting', all selected Vultures will attempt to place their mines in the target location
+*This is to prevent placing mines feeling like a chore with previously players forcing to use rapid fire to accomplish this*
+
+- Spider Mines will now only target units that were in its trigger radius during unburrowing
+- Spider Mines will now continue chase units that triggered it up to 9 pathing range
+- Spider Mines will now stop if their target teleports (Adept Shade & Stalker/DT blink)
+- Spider Mines no longer stop if the chased target cloaks
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
 
@@ -129,8 +135,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Increased Scout Shields 100 -> 125
 - Increased Scout Life 150 -> 200
-- Reduced Apial Sensors upgrade costs 100 -> 50
-- Reduced Gravitic Thrusters upgrade costs 100 -> 50
+- Reduced Apial Sensors upgrade costs 100/100 -> 50/50
+- Reduced Gravitic Thrusters upgrade costs 100/100 -> 50/50
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 
@@ -213,6 +219,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
 - Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets __(Core)__
+- Fixed Spider Mines acquiring new targets if their chased target became invalid
+- Fixed Spider Mines not activating on Changelings disguised as enemy players in team games
 - Fixed Plague not damaging units inside Nydus Networks __(Core)__
 - Fixed Irradiate not damaging its main target inside Nydus Networks (other units loaded into the network will not take damage from this) __(Core)__
 - Fixed SC1 Gateway being considered same tech as SC2 gateway __(Core)__
@@ -220,7 +228,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Fixed SC2 texts for Interference Matrix & Hurricane Thrusters missing their KR translations
 - Fixed Reavers being able to shoot Scarabs without building them first __(Core)__
 - Fixed Arbiter Stasis, Malestrom, Lockdown buffs not halting SC1 & SC2 SCV's building construction correctly __(Core)__
-- Fixed Arbiter Stasis highlighting SC2 Ultralisks during targeting
+- Fixed Arbiter Stasis & Dark Archon Maelstrom highlighting SC2 Ultralisks during targeting
 - Fixed Oracle Stasis Trap buff not halting SC1 SCV's building construction correctly
 - Fixed Adept Shade teleport not clearing Arbiter Stasis, Maelstrom & Lockdown
 - Fixed Lurkers being able to damage their main target if they were loaded into transports __(Core)__
