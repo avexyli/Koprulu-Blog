@@ -93,7 +93,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Lockdown now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Lockdown now allows Move, Stop, Harvest commands to be issued __(Core)__
 - Lockdown now Interrupts Disruptor's Purification Nova channel
-- Lockdown can no longer target Tactical Jumping Battlecruisers
+- Lockdown can no longer interrupt Battlecruisers Tactical Jump
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
 
@@ -144,7 +144,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Stasis now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Stasis now allows Move, Stop, Harvest commands to be issued __(Core)__
 - Stasis now interrupts Disruptor's Purification Nova channel
-- Stasis can no longer target Tactical Jumping Battlecruisers
+- Stasis can no longer interrupt Battlecruisers Tactical Jump
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
@@ -207,6 +207,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Upgraded Overlord speed 1.879 -> 2.38
 - Increase Antennae Research Sight Range from 2 -> 3
 - Increase Antennae Research Detection Range from 2 -> 3
+- Overlords can now use the /dance command __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Queen
 - Ensnare now effects Cyclone's Lock On ability
@@ -218,6 +219,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Nukes from Nuclear Silos & Ghost Academies can be launched interchangeably (dealing the damage based on the Ghost which launched it)
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
+- Workers can now use the spray ability 
 - Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets __(Core)__
 - Fixed Spider Mines acquiring new targets if their chased target became invalid
 - Fixed Spider Mines not activating on Changelings disguised as enemy players in team games
