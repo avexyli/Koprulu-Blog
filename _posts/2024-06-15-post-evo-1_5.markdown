@@ -195,7 +195,6 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 
 - Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
-- Increased Hydralisk Life 80 -> 85
 - Corrected erroneous Hydralisk Inner Radius 0.3125 -> 0.375 __(Core)__
 
 *With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
