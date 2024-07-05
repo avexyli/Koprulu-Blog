@@ -100,6 +100,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
+- Increased Vulture weapon period 1.875 -> 2.0
 - Placing Spider Mines now mimics it's SC1 Behavior without 'Smart Casting', all selected Vultures will attempt to place their mines in the target location
 *This is to prevent placing mines feeling like a chore with previously players forcing to use rapid fire to accomplish this*
 
