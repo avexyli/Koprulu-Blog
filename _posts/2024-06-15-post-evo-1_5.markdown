@@ -154,7 +154,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Increased Scout sight radius 9 -> 10
 - Increased Scout speed 2.8125 -> 3.375
 - Increased Scout movement speed upgrade multiplier 1.33 -> 1.25
-- Increased Scout Build time from to 50 -> 60
+- Reduced Scout Build time from 60 -> 50
 - Reduced Scout cost 275/125 -> 200/100
 - Reduced Scout Life armor 1 -> 0
 - Reduced Scout ground weapon range 5 -> 4
