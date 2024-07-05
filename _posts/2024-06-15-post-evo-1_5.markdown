@@ -175,7 +175,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Mind control can no longer target allied units
 - Mind control can no longer target Tactical Jumping Battlecruisers
 - Increased Mind Control range 8 -> 9
-- Reduced Maelstrom Research time from 110 -> 69
+- Reduced Maelstrom Research time from 110 -> 96
 - Maelstrom now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Maelstrom now allows Move, Stop, Harvest commands to be issued __(Core)__
 
