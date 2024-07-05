@@ -276,6 +276,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### Art Changes
 - Added new Scout model
 - Added new Pylon model
+- Added new Science Vessel model
+- Added burning visuals for damaged protoss buildings
 - Updated Dark Swarm visuals
 - Updated Reaver Scarab explosions visuals
 - Updated Spider Mine explosions visuals
