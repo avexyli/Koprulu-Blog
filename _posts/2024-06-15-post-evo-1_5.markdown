@@ -26,6 +26,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 - Reduced Acceleration rate for all SC1 Workers from 4.1875 -> 3.35
 - Added Classic Icons skin for sc1 races that can be activated in a new menu on the bottom right menu bar
+- Bonus damage to shields from explosive and concussive attacks reduced 100% -> 80%
+    - Explosive damage to shielded armored targets unchanged
+    - Concussive damage to shielded light targets unchanged
 
 **Crowd Control Reduction Changes**
 - Maelstrom Duration 11 -> 9 (20% reduction)
@@ -55,10 +58,14 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-- Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
 - Reduced Wraith Build Time from 45 -> 42
 - Increased Marine U-238 Shells upgrade mineral cost 50 -> 150
-
+- Reduced Dropship cost 100/100 -> 100/75
+- Increased Battlecruiser Speed from 1.875 -> 2
+- Increased Firebat Life 55 -> 60
+- Increased Barracks build time 65 -> 75
+- Reduced Academy build time 50 -> 40.5
+- Reduced Factory build time 60 -> 50.5
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 
@@ -67,10 +74,16 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Increased Medic's Restoration Range from 2 -> 6
 - Maelstrom can now be restored by Medics __(Core)__
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+
+- Reduced Goliath Build time 40 -> 34
+- Reduced Goliath's Charon Boosters Bonus range from 4 -> 3
+
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
 
 - Reduced Siege Tank sieged weapon range 14 -> 13.5
 - Reduced Siege Mode Research time from 60 -> 55
+- Reduced Siege Tank Build time 40 -> 34
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
 
@@ -95,17 +108,15 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Lockdown now Interrupts Disruptor's Purification Nova channel
 - Lockdown can no longer interrupt Battlecruisers Tactical Jump
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
-
-- Increased Battlecruiser Speed from 1.875 -> 2
-
 ***
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 - Adjusted Nexus Selection Circles __(Core)__
+- Removed initial cast time from High Templar psionic storm
 - Increased Dragoon Singularity Charge research time 100 -> 150
 - Reduced Fleet Beacon mineral cost 300 -> 250
+- Reduced Shuttle mineral cost 200 -> 175
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
 
@@ -133,8 +144,13 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout.png" width="50" height="50"> Scout
 
-- Increased Scout Shields 100 -> 125
-- Increased Scout Life 150 -> 200
+- Increased Scout sight radius 9 -> 10
+- Increased Scout speed 2.8125 -> 3.375
+- Increased Scout movement speed upgrade multiplier 1.33 -> 1.25
+- Reduced Scout cost 275/125 -> 200/100
+- Reduced Scout Build time 60 -> 50
+- Reduced Scout Life armor 1 -> 0
+- Reduced Scout ground weapon range 5 -> 4
 - Reduced Apial Sensors upgrade costs 100/100 -> 50/50
 - Reduced Gravitic Thrusters upgrade costs 100/100 -> 50/50
 
@@ -161,11 +177,12 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 - SC1 Hatchery build no longer creates creep while it's constructing __(Core)__
+- Increased Spawn Larva delay from 14 -> 15
 - Reduced Sunken Colony Build time from 35 -> 18
 - Reduced Spore Colony Damage from 25 -> 20
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
-- Increased Spawning Pool Build time 65 -> 72
+- Increased Spawning Pool Build time 65 -> 75
 - Reduced Metabolic Boost upgrade research time 110 -> 103
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
@@ -178,13 +195,10 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
 
-- Increased Lurker weapon damage 20 -> 25
-- Removed Lurker weapon bonus to Light attribute
-- Reduced Lurker weapon range 8 -> 7.5 
+- Reduced Lurker weapon range 8 -> 7
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-mutalisk@scbw.png" width="50" height="50"> Mutalisk
 
-- Increased Mutalisk Life from 120 -> 125
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
@@ -194,9 +208,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-guardian@scbw.png" width="50" height="50"> Guardian
 
-- Increased Guardian weapon damage 20 -> 30
+- Increased Guardian weapon damage 20 -> 25
 - Reduced Guardian Morph time from 38 -> 34
-- Increaed Guardian Speed 1.438 -> 1.75
+- Increaed Guardian Speed 1.438 -> 1.625
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
 
@@ -244,14 +258,19 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Fixed Plague damage not bypassing Defensive Matrix & Immortal Barrier __(Core)__
 - Fixed Charon Boosters being researchable without Armory __(Core)__
 - Fixed Wraith & Battlecruiser laser projectile speeds being too slow __(Core)__
-- Fixed Mind Control not being able to target transport units holding cargo __(Core)__
-
+- Fixed Mind Control not being able to target transport units holding cargo __(Core)__ 
+*All units in the transport will be gain the mind control buff*
+- Fixed Greater Spire morph having incorrect cost __(Core)__
+- Fixed SC1 Siege Tank not dealing splash damage on lowered depot
+- Fixed Carrier weapon tooltip displaying incorrect weapon period
+ 
 ### Art Changes
 - Added new Scout model
 - Added new Pylon model
 - Updated Dark Swarm visuals
 - Updated Reaver Scarab explosions visuals
 - Updated Spider Mine explosions visuals
+- Updated Irradiate visuals
 - Fixed shadow issues on the Archon model 
 
 ### Legacy & Crossover
