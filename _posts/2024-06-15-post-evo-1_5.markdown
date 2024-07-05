@@ -25,7 +25,14 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 **Global**
 
 - Reduced Acceleration rate for all SC1 Workers from 4.1875 -> 3.35
-- Added Classic Icons skin for sc1 races that can be activated in a new menu on the bottom right menu bar
+
+*The increased acceleration from workers resulted in a 12% increase in mining efficiency, we've lowered the acceleration rate now giving us a 9% in mining efficiency*
+
+- Added Classic Icons skin for SC1 Races
+- Added new Aiur Nexus skin for SC1 Protoss
+
+*These new skins can be activated in a newly added Menu on the Bottom Right Menu Bar. The skins system will continue to grow in the future!*
+
 - Bonus damage to shields from explosive and concussive attacks reduced 100% -> 80%
     - Explosive damage to shielded armored targets unaffected
     - Concussive damage to shielded light targets unaffected
@@ -147,12 +154,12 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Increased Scout sight radius 9 -> 10
 - Increased Scout speed 2.8125 -> 3.375
 - Increased Scout movement speed upgrade multiplier 1.33 -> 1.25
+- Increased Scout Build time from to 50 -> 60
 - Reduced Scout cost 275/125 -> 200/100
-- Reduced Scout Build time 60 -> 50
 - Reduced Scout Life armor 1 -> 0
 - Reduced Scout ground weapon range 5 -> 4
-- Reduced Apial Sensors upgrade costs 100/100 -> 50/50
-- Reduced Gravitic Thrusters upgrade costs 100/100 -> 50/50
+- Reduced Apial Sensors upgrade Mineral and Vespene costs 100/100 -> 50/50
+- Reduced Gravitic Thrusters upgrade  Mineral and Vespene costs 100/100 -> 50/50
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 
@@ -165,7 +172,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
 - Increased Dark Archon Starting energy 50 -> 75
-- Mind control can no longer target allied targets
+- Mind control can no longer target allied units
 - Mind control can no longer target Tactical Jumping Battlecruisers
 - Increased Mind Control range 8 -> 9
 - Reduced Maelstrom Research time from 110 -> 69
@@ -224,7 +231,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Overlords can now use the /dance command __(Core)__
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Queen
+
 - Ensnare now effects Cyclone's Lock On ability
+- Increased Broodling Cast range from 9 -> 10
 
 ***
 
