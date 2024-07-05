@@ -27,8 +27,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Reduced Acceleration rate for all SC1 Workers from 4.1875 -> 3.35
 - Added Classic Icons skin for sc1 races that can be activated in a new menu on the bottom right menu bar
 - Bonus damage to shields from explosive and concussive attacks reduced 100% -> 80%
-    - Explosive damage to shielded armored targets unchanged
-    - Concussive damage to shielded light targets unchanged
+    - Explosive damage to shielded armored targets unaffected
+    - Concussive damage to shielded light targets unaffected
 
 **Crowd Control Reduction Changes**
 - Maelstrom Duration 11 -> 9 (20% reduction)
