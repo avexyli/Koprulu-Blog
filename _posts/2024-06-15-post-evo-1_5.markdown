@@ -243,6 +243,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
 - Workers can now use the spray ability 
+- Scarabs no longer deal damage when they timeout __(Core)__
 - Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets __(Core)__
 - Fixed Spider Mines acquiring new targets if their chased target became invalid
 - Fixed Spider Mines not activating on Changelings disguised as enemy players in team games
