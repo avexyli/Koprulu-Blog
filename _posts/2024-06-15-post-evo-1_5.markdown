@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  SC Evo Complete Extension 1.5 patch notes
-description: Tons of Balance changes and Bugfixes!
+description: Massive Balance Update + Legacy Update 1.10
 date:   2024-06-16 00:21:35 +0600
 image:  '/images/EvoExtension1_5.png'
 tags:   [Extension, Update]
