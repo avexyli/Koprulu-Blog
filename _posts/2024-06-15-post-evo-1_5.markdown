@@ -99,6 +99,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
 
 - Added new Science Vessel Model
+- Updated Irradiate Effects
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
 - Reduced Irradiate Duration from 42 -> 37.9
 - Reduced Irradiate AoE from 2.5 -> 1.875
