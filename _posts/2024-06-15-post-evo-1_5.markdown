@@ -37,6 +37,10 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
     - Explosive damage to shielded armored targets unaffected
     - Concussive damage to shielded light targets unaffected
 
+- Added Protoss Buidling Fire Effects
+
+*This effect is purely visual and is a recreation of the original effect in SC1, the effect is being improved over time and will continue to see several iterations after release*
+
 **Crowd Control Reduction Changes**
 - Maelstrom Duration 11 -> 9 (20% reduction)
 - Stasis Duration 65.5 -> 46 (30% reduction)
@@ -92,8 +96,9 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Reduced Siege Mode Research time from 60 -> 55
 - Reduced Siege Tank Build time 40 -> 34
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel.png" width="50" height="50"> Science Vessel
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
 
+- Added new Science Vessel Model
 - Reduced Irradiate Delay between damage ticks from 0.5 -> 0.45
 - Reduced Irradiate Duration from 42 -> 37.9
 - Reduced Irradiate AoE from 2.5 -> 1.875
@@ -149,7 +154,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 *Units inside the disruption web will no longer attempt to enter and leave the disruption web automatically, players must order them out of it manually, this behavior also affects the AI.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout.png" width="50" height="50"> Scout
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
 
 - Increased Scout sight radius 9 -> 10
 - Increased Scout speed 2.8125 -> 3.375
