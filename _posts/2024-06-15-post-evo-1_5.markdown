@@ -230,7 +230,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> Overlord
 
-- Upgraded Overlord speed 1.879 -> 2.38
+- Increased Upgraded Overlord speed from 1.879 -> 2.38
 - Increase Antennae Research Sight Range from 2 -> 3
 - Increase Antennae Research Detection Range from 2 -> 3
 - Overlords can now use the /dance command __(Core)__
