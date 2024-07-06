@@ -144,7 +144,7 @@ Added new Skin System found by clicking this Button to open the new Skin Menu
 - Reduced Fleet Beacon mineral cost 300 -> 250
 - Reduced Shuttle mineral cost 200 -> 175
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot.png" width="50" height="50"> Zealot
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
 
 - Increased Zealot Leg Enhancement Bonus multiplier from 1.35 -> 1.4
 - Removed Attack Speed multiplier from Leg Enhancements
@@ -211,7 +211,7 @@ Added new Skin System found by clicking this Button to open the new Skin Menu
 - Reduced Sunken Colony Build time from 35 -> 18
 - Reduced Spore Colony Damage from 25 -> 20
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
 - Increased Spawning Pool Build time 65 -> 75
 - Reduced Metabolic Boost upgrade research time 110 -> 103
 
@@ -222,7 +222,7 @@ Added new Skin System found by clicking this Button to open the new Skin Menu
 
 *With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
 
 - Reduced Lurker weapon range 8 -> 7
 
@@ -230,7 +230,7 @@ Added new Skin System found by clicking this Button to open the new Skin Menu
 
 - Reduced Mutalisk Separation Radius from 0.6875 -> 0.4
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
 
 - Reduced Devourer Morph time from 40 -> 35
 - Increased Devourer weapon damage 18.75 -> 20.25 (vs armored 25 -> 27)
