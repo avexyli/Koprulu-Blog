@@ -105,6 +105,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
+- Increased Vulture weapon period 1.875 -> 2.0
 - Placing Spider Mines now mimics it's SC1 Behavior without 'Smart Casting', all selected Vultures will attempt to place their mines in the target location
 *This is to prevent placing mines feeling like a chore with previously players forcing to use rapid fire to accomplish this*
 
@@ -159,7 +160,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Increased Scout sight radius 9 -> 10
 - Increased Scout speed 2.8125 -> 3.375
 - Increased Scout movement speed upgrade multiplier 1.33 -> 1.25
-- Increased Scout Build time from to 50 -> 60
+- Reduced Scout Build time from 60 -> 50
 - Reduced Scout cost 275/125 -> 200/100
 - Reduced Scout Life armor 1 -> 0
 - Reduced Scout ground weapon range 5 -> 4
@@ -180,7 +181,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Mind control can no longer target allied units
 - Mind control can no longer target Tactical Jumping Battlecruisers
 - Increased Mind Control range 8 -> 9
-- Reduced Maelstrom Research time from 110 -> 69
+- Reduced Maelstrom Research time from 110 -> 96
 - Maelstrom now disables Terran cloak behaviors, allowing them to regenerate energy __(Core)__
 - Maelstrom now allows Move, Stop, Harvest commands to be issued __(Core)__
 
@@ -200,7 +201,6 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 
 - Reduced Hydralisk Grooved Spines Upgrade Research time from 170 -> 140
-- Increased Hydralisk Life 80 -> 85
 - Corrected erroneous Hydralisk Inner Radius 0.3125 -> 0.375 __(Core)__
 
 *With the recent patch this radius made it possible for hydras to walk between minerals, it has been corrected*
@@ -248,6 +248,7 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 - Dark Swarm now appears and dissapears into fog of war as a single object __(Core)__
 - Irradiate now plays the 'Acid' death for units when killed by it's damage __(Core)__
 - Workers can now use the spray ability 
+- Scarabs no longer deal damage when they timeout __(Core)__
 - Fixed Spider mines detonating instantly instead of using their weapon delay when chasing cloaked hidden targets __(Core)__
 - Fixed Spider Mines acquiring new targets if their chased target became invalid
 - Fixed Spider Mines not activating on Changelings disguised as enemy players in team games
@@ -281,6 +282,8 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 ### Art Changes
 - Added new Scout model
 - Added new Pylon model
+- Added new Science Vessel model
+- Added burning visuals for damaged protoss buildings
 - Updated Dark Swarm visuals
 - Updated Reaver Scarab explosions visuals
 - Updated Spider Mine explosions visuals
