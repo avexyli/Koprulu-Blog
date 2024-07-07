@@ -22,6 +22,21 @@ Hey everyone, we'd like to start this out by thanking everyone who have been sup
 
 ***
 
+**Hotfix 1.5.1**
+
+- Reduced Larvae spawn delay from 15 -> 14
+- Increased Lurker life from 125 -> 135
+- Increased Tank build time from 34 -> 38
+- Increased Science vessel Build time from 50 -> 60
+- Reduced Science vessel Movement speed from 2.8125 -> 2.75
+- Increased Stimpack research time from 75-> 110
+- Reduced Firebat armor from +1 -> 0
+- Reduced Spider Mine Activation range 3 -> 2.5
+- Reduced Dragoon build time from 42 -> 38
+- Reduced SC1 Worker acceleration from 4.1875 -> 3.375
+
+_The SCV change was reverted erroneously during the previous patch Deployment, it is now in effect _
+
 **Global**
 
 - Reduced Acceleration rate for all SC1 Workers from 4.1875 -> 3.35
