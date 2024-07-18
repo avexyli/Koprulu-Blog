@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  SC Evo Complete Extension 1.6 patch notes
-description: Minor Balance Patch and Features Adjustments
-date:   2024-07-17 00:21:35 +0600
+description: Minor Balance Patch and Legacy Update
+date:   2024-07-18 00:21:35 +0600
 image:  '/images/EvoExtension1_6.png'
 tags:   [Extension, Update]
 featured: true
@@ -12,7 +12,7 @@ featured: true
 
 Hey everyone, we got a minor update containing some balance changes, bugfixes and support for some upcoming features being deployed sometime soon.
 
-We are also working currently on a patch for Evo Legacy which is set to release soon, it aims to make our maps compatible with Legacy without requiring an additional map to be made.
+The New Legacy Update allows mapmakers to fine tune their maps for Legacy by adjusting mineral amounts to desired values, removing rich minerals and removing additional geysers properly. Full Notes below.
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
@@ -22,12 +22,14 @@ We are also working currently on a patch for Evo Legacy which is set to release 
 
 ***
 
-**Global Changes**
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
 - Skin System is now available on Evo Legacy
 - Added support for [GameHeart](https://ahli.github.io/Galaxy-Observer-UI/#/gameheart/v3/changelog) Observer UI
 
 ***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
 
 **Balance Changes**
 
@@ -40,6 +42,19 @@ We are also working currently on a patch for Evo Legacy which is set to release 
 - Machine Shop cost reduced 50/50 -> 50/25
 - Firebat armor increased from 0 -> 1
 - Spider Mine activation range increased from 2.5 -> 2.75
-- Fixed Spider mines activating on groups of changelings 
+- Fixed Spider mines activating on groups of changelings
+
+***
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+The following is for Updates 1.11 and 1.12
+
+- Workers are now able to use worker only paths added for SC2
+- Added new Legacy Map Compatibility Features
+
+- Corrected Command Center Supplies given from 11 -> 10
+- Corrected Nexus Supplies given from 10 - 9
+- Corrected Creep Growth Period from 0.75 -> 0.9375
 
 ***
