@@ -24,7 +24,7 @@ We are also working currently on a patch for Evo Legacy which is set to release 
 
 **Global Changes**
 
-- Skin System is now available across all versions of Evo
+- Skin System is now available on Evo Legacy
 - Added support for [GameHeart](https://ahli.github.io/Galaxy-Observer-UI/#/gameheart/v3/changelog) Observer UI
 
 ***
