@@ -35,5 +35,11 @@ Going forward
 
 **Balance Changes**
 
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
 
 ***
