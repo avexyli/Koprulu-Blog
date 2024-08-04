@@ -1,0 +1,39 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.7 patch notes
+description: Minor Balance Patch and Legacy Update
+date:   2024-07-18 00:21:35 +0600
+image:  '/images/EvoExtension1_7_PTR.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.6
+
+**Intro Spiel**
+
+Topics to adress:
+Balance Team is Korean former pros, Donors and discord members do not have a stake in balance changes.
+Why we took so long to update
+Art changes?
+Going forward
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+*Or in our Patreon!*
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**Balance Changes**
+
+
+***
