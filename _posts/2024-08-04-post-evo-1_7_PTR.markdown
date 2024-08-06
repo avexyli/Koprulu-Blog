@@ -44,88 +44,88 @@ Going forward
 
 *These changes bolster Terran's early-game defenses and compensate for a lack of Salvage, without making the Bunker overwhelming when used in rushes.*
 
-- Reduced Control Tower build time 21 -> 18
-- Reduced Control Tower cost 50/50 -> 50/25
-- Reduced Covert Ops build time 21 -> 18
-- Reduced Covert Ops cost 50/50 -> 50/25
+- Decreased Control Tower build time 21 -> 18
+- Decreased Control Tower cost 50/50 -> 50/25
+- Decreased Covert Ops build time 21 -> 18
+- Decreased Covert Ops cost 50/50 -> 50/25
 
 *These changes bring these add-ons in line with SC2 Terran's Tech Lab.*
 
-- Reduced Science Facility build time 46 -> 43
+- Decreased Science Facility build time 46 -> 43
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
 
-- Reduced Marine build time 18 -> 17
-- Reduced Stimpack research time 79 -> 57
-- Reduced U-238 Shells research cost 150/100 -> 100/100
+- Decreased Marine build time 18 -> 17
+- Decreased Stimpack research time 79 -> 57
+- Decreased U-238 Shells research cost 150/100 -> 100/100
 - Increased U-238 Shells research time 67 -> 79
 
 *These changes enable faster early-game bio-pushes, while delaying mid-game bio all-ins.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
 
-- Reduced Firebat build time 19 -> 17
+- Decreased Firebat build time 19 -> 17
 - Increased Firebat HP 60 -> 65
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> Medic
 
-- Reduced Medic build time 18 -> 17
-- Reduced Medic's attack target priority value
+- Decreased Medic build time 18 -> 17
+- Decreased Medic's attack target priority value
 
 *Medics frequently die first in engagements. Reducing their priority will enhance their survivability.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
-- Reduced Vulture build time 21 -> 19
+- Decreased Vulture build time 21 -> 19
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
 
 - Increased Siege Mode research cost 100/100 -> 50/50
-- Reduced Siege Tank Tank Mode attack period 1.65 -> 1.58
-- Reduced Siege Tank Siege Mode attack period 3.01 -> 2.70
+- Decreased Siege Tank Tank Mode attack period 1.65 -> 1.58
+- Decreased Siege Tank Siege Mode attack period 3.01 -> 2.70
 
 *These changes make the critically underwhelming Siege Tank more powerful.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
 
-- Redcued Goliath build time 24 -> 22
+- Decreased Goliath build time 24 -> 22
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-wraith@scbw.png" width="50" height="50"> Wraith
 
-- Reduced Wraith build time 30 -> 27
+- Decreased Wraith build time 30 -> 27
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
 
-- Reduced Dropship build time 30 -> 27
+- Decreased Dropship build time 30 -> 27
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
 
-- Reduced Valkyrie build time 36 -> 33
+- Decreased Valkyrie build time 36 -> 33
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
 
-- Reduced Science Vessel build time 43 -> 39
-- Reduced Science Vessel cost 100/225 -> 100/200
-- Reduced EMP research cost 200/200 -> 150/150
-- Reduced EMP research time 100 -> 79
-- Reduced Irradiate research cost 200/200 -> 150/150
+- Decreased Science Vessel build time 43 -> 39
+- Decreased Science Vessel cost 100/225 -> 100/200
+- Decreased EMP research cost 200/200 -> 150/150
+- Decreased EMP research time 100 -> 79
+- Decreased Irradiate research cost 200/200 -> 150/150
 
 *These buffs compensate for the nerfs to the Science Vessel last patch, and increase its utility against Protoss.*
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-- Reduced Evolution Chamber build time 25 -> 20
-- Reduced Creep Colony cost 75 -> 50
-- Reduced Spore Colony Cost 50 -> 25
+- Decreased Evolution Chamber build time 25 -> 20
+- Decreased Creep Colony cost 75 -> 50
+- Decreased Spore Colony Cost 50 -> 25
 - Increased Spore Colony attack range 8 -> 8.5
 - Increased Sunken Colony HP 300 -> 350
 - Increased Sunken Colony attack range 7 -> 7.5
 
 *Zerg's lacking early-game defenses have been a crippling weakness. These changes compensate for the Sunken and Spore Colony's immobility and make them more accessible.*
 
-- Reduced Spire cost 200/150 -> 150/100
-- Reduced Queen's Nest cost 150/100 -> 100/100
-- Reduced Greater Spire morph time 71 -> 57
+- Decreased Spire cost 200/150 -> 150/100
+- Decreased Queen's Nest cost 150/100 -> 100/100
+- Decreased Greater Spire morph time 71 -> 57
 
 *These changes ease Zerg's overall tech progression and allow them to more quickly diversify their army composition.*
 
@@ -135,48 +135,48 @@ Going forward
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
 
-- Reduced attack period 0.43 -> 0.41
-- Reduced Metabolic Boost research time 74 -> 71
+- Decreased attack period 0.43 -> 0.41
+- Decreased Metabolic Boost research time 74 -> 71
 
 *The Zergling is currently not an effective combat unit. Increasing its attack speed will remedy this. The Metabolic Boost research time reduction specifically targets their interaction against Reapers.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 
 - Increased attack range 4 -> 5
-- Reduced Grooved Spines range bonus +2 -> +1
+- Decreased Grooved Spines range bonus +2 -> +1
 
 *Granting the Hydralisk additional initial range enables it to better serve its early defensive role.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50">
 
 - Increased HP 135 -> 140
-- Reduced morph time 18 -> 15
-- Reduced Lurker Aspect research cost 200/200 -> 150/150
+- Decreased morph time 18 -> 15
+- Decreased Lurker Aspect research cost 200/200 -> 150/150
 
 *Lurkers are currently too expensive and ineffective. These changes make them a stronger bridge between the early-game and late-game.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
 
 - Increased HP 80 -> 90
-- Reduced Plague casting delay 0.04 -> 0
+- Decreased Plague casting delay 0.04 -> 0
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> Overlord
 
-- Reduced Ventral Sacs research time 93 -> 71
+- Decreased Ventral Sacs research time 93 -> 71
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
 
-- Reduced build time 27 -> 24
+- Decreased build time 27 -> 24
 
 *This change strengthens Protoss's early-game pressure.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> High Templar
 
-- Reduced Hallucination energy cost 75 -> 50
-- Reduced Hallucination research cost 100/100 -> 50/50
-- Reduced Hallucination research time 64 -> 57
+- Decreased Hallucination energy cost 75 -> 50
+- Decreased Hallucination research cost 100/100 -> 50/50
+- Decreased Hallucination research time 64 -> 57
 
 *Hallucination is currently a very underused spell, so these changes should help it see some use.*
 
@@ -184,30 +184,30 @@ Going forward
 
 - Increased shield HP 200 -> 225
 - Increased Maelstrom duration 9 -> 11
-- Reduced Maelstrom research time 69 -> 57
+- Decreased Maelstrom research time 69 -> 57
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> Shuttle
 
-- Reduced Gravitic Drive research cost 150/150 -> 100/100
+- Decreased Gravitic Drive research cost 150/150 -> 100/100
 
 *This change brings the Shuttle's movement speed upgrade in line with that of the Warp Prism.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver@scbw.png" width="50" height="50"> Reaver
 
-- Reduced Reaver build time 47 -> 39
-- Reduced Scarab Damage research cost 150/150 -> 125/125
-- Redcued Scarab Damage research time 100 -> 79
-- Reduced Reaver Increased Capacity research cost 150/150 -> 125/125
-- Reduced Reaver Increased Capacity research time 93 -> 57
+- Decreased Reaver build time 47 -> 39
+- Decreased Scarab Damage research cost 150/150 -> 125/125
+- Reduced Scarab Damage research time 100 -> 79
+- Decreased Reaver Increased Capacity research cost 150/150 -> 125/125
+- Decreased Reaver Increased Capacity research time 93 -> 57
 
 *These changes ensure that the Reaver is an effective unit in the mid-game. In particular, the Reaver Increased Capacity research was rarely used and was in dire need of a change.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
 
-- Reduced Interceptor launch period 0.58 -> 0.25
+- Decreased Interceptor launch period 0.58 -> 0.25
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> Arbiter
 
-- Reduced build time 75 -> 69
+- Decreased build time 75 -> 69
 
 ***
