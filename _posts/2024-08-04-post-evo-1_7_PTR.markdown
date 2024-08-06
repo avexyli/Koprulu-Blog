@@ -80,7 +80,7 @@ Going forward
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
 
-- Increased Siege Mode research cost 100/100 -> 50/50
+- Decreased Siege Mode research cost 100/100 -> 50/50
 - Decreased Siege Tank Tank Mode attack period 1.65 -> 1.58
 - Decreased Siege Tank Siege Mode attack period 3.01 -> 2.70
 
