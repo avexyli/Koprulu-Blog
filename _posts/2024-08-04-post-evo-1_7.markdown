@@ -96,8 +96,8 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 
+- Decreased Medic attack target priority 20 -> 18
 - Decreased Medic build time 18 -> 17
-- Decreased Medic's attack target priority value
 
 *Medics frequently die first in engagements. Reducing their priority will enhance their survivability.*
 
