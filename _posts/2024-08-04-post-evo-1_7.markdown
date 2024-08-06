@@ -94,7 +94,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 - Decreased Firebat build time 19 -> 17
 - Increased Firebat HP 60 -> 65
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic" width="50" height="50"> Medic
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 
 - Decreased Medic build time 18 -> 17
 - Decreased Medic's attack target priority value
@@ -207,7 +207,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 *Hallucination is currently a very underused spell, so these changes should help it see some use.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon@scbw.png" width="50" height="50"> Dark Archon
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
 - Increased shield HP 200 -> 225
 - Increased Maelstrom duration 9 -> 11
@@ -219,7 +219,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 *This change brings the Shuttle's movement speed upgrade in line with that of the Warp Prism.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver@scbw.png" width="50" height="50"> Reaver
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
 
 - Decreased Reaver build time 47 -> 39
 - Decreased Scarab Damage research cost 150/150 -> 125/125
