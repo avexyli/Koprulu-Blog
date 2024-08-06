@@ -19,6 +19,7 @@ Before we introduce the changes implemented in this patch, there are a number of
 - Many of you have expressed concern about the balance direction for SC: Evo Complete. We are working closely with a team of ex-professional Korean StarCraft II pro players, who we consult for advice on balance decisions. The opinions of donors and Discord members do not directly influence these decisions, although exceptional suggestions may potentially be shared with the balance team for evaluation.
 - 
 - The mapmaker team has been working on several new maps, including the recently released Sylphid and Fighting Spirit, to create a complete map pool for an upcoming update we will discuss below.
+- We are pleased to be able to share with you the [official SC: Evo Complete wiki](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
 
 *As always, thank you to all of our loyal fans. If you would like to go one step further in supporting us, you can do so by donating:*
 
