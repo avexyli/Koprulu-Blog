@@ -38,7 +38,7 @@ Going forward, we have several major undertakings in the works, one of which is 
 
 The Campaign is being developed by a new branch of the StarCraft Evolution team, who are responsible for designing a multitude of new assets and abilities. Due to the increased scope and production value, the Campaign team will need more time than first anticipated. 
 
-In the meantime, we have a faithful recreation of StarCraft: Loomings, featuring 1:1 remakes of the original maps with some minor visual improvements. We can produce these at a much faster pace, without slowing down development for the rest of our Campaign team. We'll share more details soon.
+In the meantime, we are also producing a faithful recreation of StarCraft: Loomings, featuring 1:1 remakes of the original maps with some minor visual improvements. We can produce these at a much faster pace, without slowing down development for the rest of our Campaign team. We'll share more details soon.
 
 Lastly, although we don't have much to share at the moment, an official competitive ladder mode is also under development.
 
