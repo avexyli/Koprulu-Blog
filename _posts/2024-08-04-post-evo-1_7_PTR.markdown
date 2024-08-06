@@ -10,13 +10,17 @@ featured: true
 
 ## Evo Complete Extension Update 1.7
 
-**Intro Spiel**
+Hello again, everyone,
 
-Topics to adress:
-Balance Team is Korean former pros, Donors and discord members do not have a stake in balance changes.
-Why we took so long to update
-Art changes?
-Going forward
+First of all, we'd like to apologize for the wait. We know many of you have been eagerly anticipating an update after the Chzzk tournament by MurlockKing, and although it has been a rough couple weeks for us at Team Koprulu, we have been working hard to bring you this major content update in time for the newly announced HyperStarLeague monthly open tournament, as well as many more events to come in the future.
+
+Before we introduce the changes implemented in this patch, there are a number of matters we would like to address:
+
+- Many of you have expressed concern about the balance direction for SC: Evo Complete. We are working closely with a team of ex-professional Korean StarCraft II pro players, who we consult for advice on balance decisions. The opinions of donors and Discord members do not directly influence these decisions, although exceptional suggestions may potentially be shared with the balance team for evaluation.
+- 
+- The mapmaker team has been working on several new maps, including the recently released Sylphid and Fighting Spirit, to create a complete map pool for an upcoming update we will discuss below.
+
+*As always, thank you to all of our loyal fans. If you would like to go one step further in supporting us, you can do so by donating:*
 
 <a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
 
@@ -24,10 +28,11 @@ Going forward
 
 <a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
+*All proceeds go towards funding development and making more models faster, enabling us to provide you a better SC: Evo Complete experience.*
+
 ***
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
-
 
 ***
 
