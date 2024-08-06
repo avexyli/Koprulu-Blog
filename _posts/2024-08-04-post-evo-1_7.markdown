@@ -174,7 +174,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 *Granting the Hydralisk additional initial range enables it to better serve its early defensive role.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50">
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
 
 - Increased HP 135 -> 140
 - Decreased morph time 18 -> 15
