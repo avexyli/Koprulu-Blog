@@ -37,17 +37,17 @@ Going forward
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
-*Terran has received blanket build time reductions across the board to mitigate their weakness in remaxing large armies.*
+*Terran has received build time reductions across the board to mitigate their weakness in remaxing large armies.*
 
 - Increased Bunker HP 350 -> 400
 - Increased Bunker build time 21 -> 29
 
 *These changes bolster Terran's early-game defenses and compensate for a lack of Salvage, without making the Bunker overwhelming when used in rushes.*
 
-- Reduced Control Tower cost 50/50 -> 50/25
 - Reduced Control Tower build time 21 -> 18
-- Reduced Covert Ops cost 50/50 -> 50/25
+- Reduced Control Tower cost 50/50 -> 50/25
 - Reduced Covert Ops build time 21 -> 18
+- Reduced Covert Ops cost 50/50 -> 50/25
 
 *These changes bring these add-ons in line with SC2 Terran's Tech Lab.*
 
@@ -57,10 +57,10 @@ Going forward
 
 - Reduced Marine build time 18 -> 17
 - Reduced Stimpack research time 79 -> 57
+- Reduced U-238 Shells research cost 150/100 -> 100/100
 - Increased U-238 Shells research time 67 -> 79
-- Reduced U-238 Shells cost 150/100 -> 100/100
 
-*These changes allow early-game bio-pushes to arrive faster, while delaying mid-game bio all-ins.*
+*These changes enable faster early-game bio-pushes, while delaying mid-game bio all-ins.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
 
@@ -72,7 +72,7 @@ Going forward
 - Reduced Medic build time 18 -> 17
 - Reduced Medic's attack target priority value
 
-*Medics frequently die first in engagements, especially without an autoattack, so reducing their priority will enhance their survivability.*
+*Medics frequently die first in engagements. Reducing their priority will enhance their survivability.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
 
@@ -116,12 +116,12 @@ Going forward
 
 - Reduced Evolution Chamber build time 25 -> 20
 - Reduced Creep Colony cost 75 -> 50
-- Increased Sunken Colony HP 300 -> 350
-- Increased Sunken Colony attack range 7 -> 7.5
 - Reduced Spore Colony Cost 50 -> 25
 - Increased Spore Colony attack range 8 -> 8.5
+- Increased Sunken Colony HP 300 -> 350
+- Increased Sunken Colony attack range 7 -> 7.5
 
-*Zerg's lacking early-game defenses have been a substantial contributor to their viability. These changes compensate for the Sunken and Spore Colony's immobility and make them more affordable.*
+*Zerg's lacking early-game defenses have been a crippling weakness. These changes compensate for the Sunken and Spore Colony's immobility and make them more accessible.*
 
 - Reduced Spire cost 200/150 -> 150/100
 - Reduced Queen's Nest cost 150/100 -> 100/100
@@ -131,7 +131,7 @@ Going forward
 
 - Adjusted default hotkeys for Overlord upgrades
 
-*We received many player complaints about these hotkey arrangements causing mistakes, so they were changed to be more spread-out over the keyboard.*
+*The default hotkey arrangement caused many player mistakes, so they were changed to be more spread-out over the keyboard.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
 
@@ -200,7 +200,7 @@ Going forward
 - Reduced Reaver Increased Capacity research cost 150/150 -> 125/125
 - Reduced Reaver Increased Capacity research time 93 -> 57
 
-*These changes ensure that the Reaver is an effective core unit in the mid-game. In particular, the Reaver Increased Capacity research was rarely used and was in dire need of a change.*
+*These changes ensure that the Reaver is an effective unit in the mid-game. In particular, the Reaver Increased Capacity research was rarely used and was in dire need of a change.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
 
