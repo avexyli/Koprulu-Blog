@@ -77,7 +77,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 - Decreased Firebat build time 19 -> 17
 - Increased Firebat HP 60 -> 65
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> Medic
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic" width="50" height="50"> Medic
 
 - Decreased Medic build time 18 -> 17
 - Decreased Medic's attack target priority value
@@ -143,7 +143,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 
 *The default hotkey arrangement caused many player mistakes, so they were changed to be more spread-out over the keyboard.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
 
 - Decreased attack period 0.43 -> 0.41
 - Decreased Metabolic Boost research time 74 -> 71
@@ -157,7 +157,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 
 *Granting the Hydralisk additional initial range enables it to better serve its early defensive role.*
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50">
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50">
 
 - Increased HP 135 -> 140
 - Decreased morph time 18 -> 15
@@ -196,7 +196,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 - Increased Maelstrom duration 9 -> 11
 - Decreased Maelstrom research time 69 -> 57
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-shuttle@scbw.png" width="50" height="50"> Shuttle
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
 
 - Decreased Gravitic Drive research cost 150/150 -> 100/100
 
@@ -216,7 +216,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 
 - Decreased Interceptor launch period 0.58 -> 0.25
 
-### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter@scbw.png" width="50" height="50"> Arbiter
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 
 - Decreased build time 75 -> 69
 
