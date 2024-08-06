@@ -16,13 +16,27 @@ First of all, we'd like to apologize for the wait. We know many of you have been
 
 Before we introduce the changes implemented in this patch, there are a number of matters we would like to address:
 
+### Multiplayer Balance
+
 Many of you have expressed concern about the balance direction for SC: Evo Complete. We are working closely with a team of ex-professional Korean StarCraft II pro players, who we consult for advice on balance decisions. The opinions of donors and Discord members do not directly influence these decisions, although exceptional suggestions may potentially be shared with the balance team for evaluation.
 
-The mapmaker team has been working on several new maps, including the recently released Sylphid and Fighting Spirit, to create a complete map pool for an upcoming update we will discuss below.
+### New Maps
+
+The mapmaker team has been working on several new maps, including the recently released **Sylphid** and **Fighting Spirit**, to create a complete map pool for an upcoming update we will discuss below.
+
+### New Models
 
 Although we haven't been able to add several new models as we wanted this update, we have been able to bring you the new Wraith! We are also able to share that the Queen's Nest, Defiler Mound, and Photon Cannon will all be receiving new models; the Marine model will also be receiving an overhaul. These models have been prioritized as determined by our donor and Patreon polls.
 
-We are pleased to be able to share with you the [official SC: Evo Complete wiki](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
+### Official SC: Evo Complete Wiki
+
+We are pleased to be able to share with you the [**official SC: Evo Complete wiki**](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). This wiki has been in development for a month now, and it should prove to be an invaluable resource for all SC: Evo Complete players. Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
+
+### Campaign Update
+
+Going forward, we have several projects in the works, one of which is the Campaign.
+
+The Campaign is being developed by a new branch of the StarCraft Evolution team, who are responsible for designing a multitude of new assets and abilities. Due to the increased scope and production value, the Campaign team will need more time than first anticipated. 
 
 *As always, thank you to all of our loyal fans, and to all of our supporters who have donated to our PayPal or subscribed on our Patreon! Your contributions make it possible to keep development going at its current pace.*
 
@@ -34,7 +48,7 @@ We are pleased to be able to share with you the [official SC: Evo Complete wiki]
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-- Added new Wriath Model
+- Added new Wraith Model
 
 ![]({{site.baseurl}}/images/modelpreview-wraith.png)
 
