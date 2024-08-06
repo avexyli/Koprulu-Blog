@@ -28,7 +28,7 @@ Before we introduce the changes implemented in this patch, there are a number of
 
 <a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
 
-*All proceeds go towards funding development and making more models faster, enabling us to provide you a better SC: Evo Complete experience.*
+*All proceeds go towards funding development and making more models faster, enabling us to provide you with a more immersive SC: Evo Complete experience.*
 
 ***
 
