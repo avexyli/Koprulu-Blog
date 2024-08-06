@@ -121,7 +121,7 @@ Going forward
 - Reduced Spore Colony Cost 50 -> 25
 - Increased Spore Colony attack range 8 -> 8.5
 
-*Zerg's lacking early-game defenses have been a substantial contributor to their viability. These changes compensate for the Sunken and Spore Colony's lack of mobility and make them more affordable.*
+*Zerg's lacking early-game defenses have been a substantial contributor to their viability. These changes compensate for the Sunken and Spore Colony's immobility and make them more affordable.*
 
 - Reduced Spire cost 200/150 -> 150/100
 - Reduced Queen's Nest cost 150/100 -> 100/100
