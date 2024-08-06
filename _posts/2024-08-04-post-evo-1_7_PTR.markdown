@@ -2,13 +2,13 @@
 layout: post
 title:  SC Evo Complete Extension 1.7 patch notes
 description: Minor Balance Patch and Legacy Update
-date:   2024-07-18 00:21:35 +0600
+date:   2024-08-05 06:47:35 +0600
 image:  '/images/EvoExtension1_7_PTR.png'
-tags:   [Extension, Update]
+tags:   [Extension, Legacy, Update]
 featured: true
 ---
 
-## Evo Complete Extension Update 1.6
+## Evo Complete Extension Update 1.7
 
 **Intro Spiel**
 
