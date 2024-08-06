@@ -3,7 +3,7 @@ layout: post
 title:  SC Evo Complete Extension 1.7 patch notes
 description: Balance Patch and Development News
 date:   2024-08-05 06:47:35 +0600
-image:  '/images/EvoExtension1_7_PTR.png'
+image:  'images/EvoExtension1_7.png'
 tags:   [Extension, Update]
 featured: true
 ---
@@ -27,6 +27,8 @@ The mapmaker team has been working on several new maps, including the recently r
 ### New Models
 
 Although we haven't been able to add several new models as we wanted this update, we have been able to bring you the new Wraith! We are also able to share that the Queen's Nest, Defiler Mound, and Photon Cannon will all be receiving new models; the Marine model will also be receiving an overhaul. These models have been prioritized as determined by our donor and Patreon polls.
+
+![]({{site.baseurl}}/images/modelpreview-wraith.png)
 
 ### Official Wiki
 
