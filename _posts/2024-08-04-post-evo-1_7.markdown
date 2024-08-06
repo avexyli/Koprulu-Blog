@@ -1,0 +1,240 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.7 patch notes
+description: Balance Patch and Development News
+date:   2024-08-06 11:13:35 +0600
+image:  'images/EvoExtension1_7.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.7
+
+Hello again, everyone,
+
+First of all, we'd like to apologize for the wait. We know many of you have been eagerly anticipating an update after the Chzzk tournament by MurlockKing, and although it has been a rough couple weeks for us at Team Koprulu, we have been working hard to bring you this major content update in time for the newly announced HyperStarLeague monthly open tournament, as well as many more events to come in the future.
+
+Before we introduce the changes implemented in this patch, there are a number of matters we would like to address:
+
+### Multiplayer Balance
+
+Many of you have expressed concern about the balance direction for SC: Evo Complete. We are working closely with a team of ex-professional Korean StarCraft II pro players, who we consult for advice on balance decisions. The opinions of donors and Discord members do not directly influence these decisions, although exceptional suggestions may potentially be shared with the balance team for evaluation.
+
+### New Maps
+
+The mapmaker team has been working on several new maps, including the recently released **Sylphid** and **Fighting Spirit**, to create a complete map pool for an upcoming update we will discuss below.
+
+### New Models
+
+Although we haven't been able to add several new models as we wanted this update, we have been able to bring you the new Wraith! We are also able to share that the Queen's Nest, Defiler Mound, and Photon Cannon will all be receiving new models; the Marine model will also be receiving an overhaul. These models have been prioritized as determined by our donor and Patreon polls.
+
+### Official Wiki
+
+We are pleased to be able to share with you the [**official SC: Evo Complete wiki**](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). This wiki has been in development for a month now, and it should prove to be an invaluable resource for all SC: Evo Complete players. Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
+
+### Future Updates
+
+Going forward, we have several major undertakings in the works, one of which is the Campaign.
+
+The Campaign is being developed by a new branch of the StarCraft Evolution team, who are responsible for designing a multitude of new assets and abilities. Due to the increased scope and production value, the Campaign team will need more time than first anticipated. 
+
+In the meantime, we are also producing a faithful recreation of StarCraft: Loomings, featuring 1:1 remakes of the original maps with some minor visual improvements. We can produce these at a much faster pace, without slowing down development for the rest of our Campaign team. We'll share more details soon.
+
+Lastly, although we don't have much to share at the moment, an official competitive ladder mode is also underway.
+
+*As always, thank you to all of our loyal fans, and to all of our supporters who have donated to our PayPal or subscribed on our Patreon! Your contributions make it possible to keep development going at its current pace.*
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Added new Wraith Model
+
+![]({{site.baseurl}}/images/modelpreview-wraith.png)
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**Balance Changes**
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+*Terran has received build time reductions across the board to mitigate their weakness in remaxing large armies.*
+
+- Increased Bunker HP 350 -> 400
+- Increased Bunker build time 21 -> 29
+
+*These changes bolster Terran's early-game defenses and compensate for a lack of Salvage, without making the Bunker overwhelming when used in rushes.*
+
+- Decreased Control Tower build time 21 -> 18
+- Decreased Control Tower cost 50/50 -> 50/25
+- Decreased Covert Ops build time 21 -> 18
+- Decreased Covert Ops cost 50/50 -> 50/25
+
+*These changes bring these add-ons in line with SC2 Terran's Tech Lab.*
+
+- Decreased Science Facility build time 46 -> 43
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
+
+- Decreased Marine build time 18 -> 17
+- Decreased Stimpack research time 79 -> 57
+- Decreased U-238 Shells research cost 150/100 -> 100/100
+- Increased U-238 Shells research time 67 -> 79
+
+*These changes enable faster early-game bio-pushes, while delaying mid-game bio all-ins.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
+
+- Decreased Firebat build time 19 -> 17
+- Increased Firebat HP 60 -> 65
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic" width="50" height="50"> Medic
+
+- Decreased Medic build time 18 -> 17
+- Decreased Medic's attack target priority value
+
+*Medics frequently die first in engagements. Reducing their priority will enhance their survivability.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+
+- Decreased Vulture build time 21 -> 19
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+
+- Decreased Siege Mode research cost 100/100 -> 50/50
+- Decreased Siege Tank Tank Mode attack period 1.65 -> 1.58
+- Decreased Siege Tank Siege Mode attack period 3.01 -> 2.70
+
+*These changes make the critically underwhelming Siege Tank more powerful.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+
+- Decreased Goliath build time 24 -> 22
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-wraith@scbw.png" width="50" height="50"> Wraith
+
+- Decreased Wraith build time 30 -> 27
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
+
+- Decreased Dropship build time 30 -> 27
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+
+- Decreased Valkyrie build time 36 -> 33
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
+
+- Decreased Science Vessel build time 43 -> 39
+- Decreased Science Vessel cost 100/225 -> 100/200
+- Decreased EMP research cost 200/200 -> 150/150
+- Decreased EMP research time 100 -> 79
+- Decreased Irradiate research cost 200/200 -> 150/150
+
+*These buffs compensate for the nerfs to the Science Vessel last patch, and increase its utility against Protoss.*
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- Decreased Evolution Chamber build time 25 -> 20
+- Decreased Creep Colony cost 75 -> 50
+- Decreased Spore Colony Cost 50 -> 25
+- Increased Spore Colony attack range 8 -> 8.5
+- Increased Sunken Colony HP 300 -> 350
+- Increased Sunken Colony attack range 7 -> 7.5
+
+*Zerg's lacking early-game defenses have been a crippling weakness. These changes compensate for the Sunken and Spore Colony's immobility and make them more accessible.*
+
+- Decreased Spire cost 200/150 -> 150/100
+- Decreased Queen's Nest cost 150/100 -> 100/100
+- Decreased Greater Spire morph time 71 -> 57
+
+*These changes ease Zerg's overall tech progression and allow them to more quickly diversify their army composition.*
+
+- Adjusted default hotkeys for Overlord upgrades
+
+*The default hotkey arrangement caused many player mistakes, so they were changed to be more spread-out over the keyboard.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
+
+- Decreased attack period 0.43 -> 0.41
+- Decreased Metabolic Boost research time 74 -> 71
+
+*The Zergling is currently not an effective combat unit. Increasing its attack speed will remedy this. The Metabolic Boost research time reduction specifically targets their interaction against Reapers.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
+
+- Increased attack range 4 -> 5
+- Decreased Grooved Spines range bonus +2 -> +1
+
+*Granting the Hydralisk additional initial range enables it to better serve its early defensive role.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50">
+
+- Increased HP 135 -> 140
+- Decreased morph time 18 -> 15
+- Decreased Lurker Aspect research cost 200/200 -> 150/150
+
+*Lurkers are currently too expensive and ineffective. These changes make them a stronger bridge between the early-game and late-game.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+
+- Increased HP 80 -> 90
+- Decreased Plague casting delay 0.04 -> 0
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-overlord@scbw.png" width="50" height="50"> Overlord
+
+- Decreased Ventral Sacs research time 93 -> 71
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+
+- Decreased build time 27 -> 24
+
+*This change strengthens Protoss's early-game pressure.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> High Templar
+
+- Decreased Hallucination energy cost 75 -> 50
+- Decreased Hallucination research cost 100/100 -> 50/50
+- Decreased Hallucination research time 64 -> 57
+
+*Hallucination is currently a very underused spell, so these changes should help it see some use.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon@scbw.png" width="50" height="50"> Dark Archon
+
+- Increased shield HP 200 -> 225
+- Increased Maelstrom duration 9 -> 11
+- Decreased Maelstrom research time 69 -> 57
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
+
+- Decreased Gravitic Drive research cost 150/150 -> 100/100
+
+*This change brings the Shuttle's movement speed upgrade in line with that of the Warp Prism.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver@scbw.png" width="50" height="50"> Reaver
+
+- Decreased Reaver build time 47 -> 39
+- Decreased Scarab Damage research cost 150/150 -> 125/125
+- Reduced Scarab Damage research time 100 -> 79
+- Decreased Reaver Increased Capacity research cost 150/150 -> 125/125
+- Decreased Reaver Increased Capacity research time 93 -> 57
+
+*These changes ensure that the Reaver is an effective unit in the mid-game. In particular, the Reaver Increased Capacity research was rarely used and was in dire need of a change.*
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
+
+- Decreased Interceptor launch period 0.58 -> 0.25
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+
+- Decreased build time 75 -> 69
+
+***
