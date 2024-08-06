@@ -231,7 +231,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
 
-- Decreased Interceptor launch period 0.58 -> 0.25
+- Decreased Interceptor launch period 0.41 -> 0.18
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
 
