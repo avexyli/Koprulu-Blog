@@ -73,7 +73,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 - Decreased Control Tower build time 21 -> 18
 - Decreased Control Tower cost 50/50 -> 50/25
-- Decreased Covert Ops build time 21 -> 18
+- Decreased Covert Ops build time 25 -> 18
 - Decreased Covert Ops cost 50/50 -> 50/25
 
 *These changes bring these add-ons in line with SC2 Terran's Tech Lab.*
