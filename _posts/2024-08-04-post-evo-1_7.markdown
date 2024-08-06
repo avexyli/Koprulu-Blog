@@ -32,11 +32,15 @@ Although we haven't been able to add several new models as we wanted this update
 
 We are pleased to be able to share with you the [**official SC: Evo Complete wiki**](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). This wiki has been in development for a month now, and it should prove to be an invaluable resource for all SC: Evo Complete players. Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
 
-### Campaign Update
+### Future Updates
 
-Going forward, we have several projects in the works, one of which is the Campaign.
+Going forward, we have several major undertakings in the works, one of which is the Campaign.
 
 The Campaign is being developed by a new branch of the StarCraft Evolution team, who are responsible for designing a multitude of new assets and abilities. Due to the increased scope and production value, the Campaign team will need more time than first anticipated. 
+
+In the meantime, we have a faithful recreation of StarCraft: Loomings, featuring 1:1 remakes of the original maps with some minor visual improvements. We can produce these at a much faster pace, without slowing down development for the rest of our Campaign team. We'll share more details soon.
+
+Lastly, although we don't have much to share at the moment, an official competitive ladder mode is also under development.
 
 *As always, thank you to all of our loyal fans, and to all of our supporters who have donated to our PayPal or subscribed on our Patreon! Your contributions make it possible to keep development going at its current pace.*
 
