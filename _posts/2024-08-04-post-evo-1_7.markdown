@@ -210,7 +210,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
 
 - Increased shield HP 200 -> 225
-- Increased Maelstrom duration 9 -> 11
+- Increased Maelstrom duration 6.43 -> 7.86
 - Decreased Maelstrom research time 69 -> 57
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
