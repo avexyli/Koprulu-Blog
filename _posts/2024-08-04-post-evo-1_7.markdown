@@ -28,7 +28,7 @@ The mapmaker team has been working on several new maps, including the recently r
 
 Although we haven't been able to add several new models as we wanted this update, we have been able to bring you the new Wraith! We are also able to share that the Queen's Nest, Defiler Mound, and Photon Cannon will all be receiving new models; the Marine model will also be receiving an overhaul. These models have been prioritized as determined by our donor and Patreon polls.
 
-### Official SC: Evo Complete Wiki
+### Official Wiki
 
 We are pleased to be able to share with you the [**official SC: Evo Complete wiki**](https://liquipedia.net/starcraft2/User:SCEvo/Main_Page). This wiki has been in development for a month now, and it should prove to be an invaluable resource for all SC: Evo Complete players. Although it is lacking some finishing touches, you can find plenty of useful gameplay information about the mod, as well as about official and community maps, tournaments, and more.
 
