@@ -87,7 +87,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 - Decreased U-238 Shells research cost 150/100 -> 100/100
 - Increased U-238 Shells research time 67 -> 79
 
-*These changes enable faster early-game bio-pushes, while delaying mid-game bio all-ins.*
+*These changes enable faster early-game bio pressure, while delaying mid-game bio all-ins.*
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
 
@@ -143,7 +143,7 @@ Lastly, although we don't have much to share at the moment, an official competit
 
 - Decreased Evolution Chamber build time 25 -> 20
 - Decreased Creep Colony cost 75 -> 50
-- Decreased Spore Colony Cost 50 -> 25
+- Decreased Spore Colony cost 50 -> 25
 - Increased Spore Colony attack range 8 -> 8.5
 - Increased Sunken Colony HP 300 -> 350
 - Increased Sunken Colony attack range 7 -> 7.5
