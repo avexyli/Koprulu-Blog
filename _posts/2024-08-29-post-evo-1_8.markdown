@@ -61,7 +61,7 @@ As always thank you to all our Patreons and Donors for all their help in funding
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
 
 - Reduced Goliath Range Upgrade Bonus 3 -> 2
-- Reduced Goliath Weapon Cooldown 1.375 -> 1.2375
+- Reduced Goliath Ground Weapon Cooldown 1.375 -> 1.2375
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
 
