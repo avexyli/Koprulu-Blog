@@ -1,0 +1,123 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.8 patch notes
+description: Balance and Legacy Patches
+date:   2024-08-29 11:13:35 +0600
+image:  '/images/EvoExtension1_8.png'
+tags:   [Extension, Legacy, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.8
+
+Hello again, everyone,
+
+Everyone in the team has been quite busy working on several parts of the project and we're excited to show you all the new things we've got going for the upcoming Update 2.0, there is no complete list of everything upcoming but we're working on the Ranked Gamemode as well as the Legacy Campaign, so look out in the future for more news on these projects as we approach their release window.
+
+In the meantime however we have a balance update out of many more to come.
+
+We'd like everyone to know about the StarCraft Evolution League (SEL) an open tournament for anyone who wants to join featuring SC: Evo, we hope for this tournament to help us continue to make balance changes not to mention the potential to see all these amazing games and new interesting strategies being used by participants, as we continue to make new maps they will be added to the SEL map pool as well as the Ranked Mode for SC: Evo.
+
+As always thank you to all our Patreons and Donors for all their help in funding this project, we hope to continue to make more amazing things and deliver the best remake we can deliver.
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Reduced Archon & Dark Archon Radius 1.0 -> 0.75
+- Reduced Reaver Radius 0.8125 -> 0.75
+- Increased Lurker Egg Radius 0.5 -> 0.625
+- Reduced Lurker Radius 0.75 -> 0.625
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**Balance Changes**
+
+***All Time values are in Normal Speed***
+
+- Increased Starting Energy bonus across all energy Upgrades from 12 -> 25
+- Ranged weapons now display "Pierce" type if they bypass Dark Swarm
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+
+- Reduced Barracks Build Time 71 -> 67
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
+
+- Reduced Marine HP 45 -> 40
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+
+- Reduced Vulture Weapon Cooldown 2 -> 1.9
+- Increased Spider Mine HP 20 -> 25
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+
+- Reduced Goliath Range Upgrade Bonus 3 -> 2
+- Reduced Goliath Weapon Cooldown 1.375 -> 1.2375
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+
+- Reduced the delay between Valkyrie Missile launches
+- Increased Valkyrie Missile speed
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-building-zerg-nydusnetwork.png" width="50" height="50"> Nydus Canal
+
+- Nydus Canal Mineral Cost 200 -> 100
+- Nydus Canal Build Time 35 -> 28
+- Nydus Canal Exit Build Time 20 -> 15
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-scourge.png" width="50" height="50"> Scourge
+
+- Increased Scourge HP 25 -> 30
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
+
+- Reduced Hydralisk Weapon Cooldown 1.0312 -> 0.938
+- Reduced Hydralisk Range 5 -> 4
+- Reduced Hydralisk Damage point 0.208 -> 0.08
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Reduced Fleet Beacon  Build Time 60 -> 50
+- Reduced Arbiter Tribunal Build Time 56 -> 50
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
+
+- Reduced Shuttle Build Time 50 -> 46
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
+
+- Disruption Web Research Time 90 -> 80
+- Disruption Web Cost 100/150 -> 50/50
+- Increased Corsair Starting Energy 50 -> 75
+
+### Bug fixes & changes
+- Fixed Reaver & Dark Archon not being able to path through forcefields
+- Fixed MULE missing Hover & Robotic attributes
+- Fixed Cyclone Lock On activating on Lurker spines
+- Fixed Corsair splash targeting missiles __(Core)__
+- Fixed Medics being able to target Air units with Heal __(Core)__
+- Fixed Siege Tank's attack physics not activating correctly __(Core)__
+- Fixed Defilers model missing hit test volumes for targeting __(Core)__
+- Fixed Defilers Acid & Fire deaths not playing sounds correctly __(Core)__
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+- Units attacking from high ground & shrubs now reveal small area around them
+- Eggs, Lurker Eggs & Cocoons no longer regen health
+- Mutalisk weapon no longer bounces if the initial attack missed, weapon bounces now penetrate Dark Swarm if the weapon didn't Miss
+- Fixed Siege Tank missing offsetting wrongly on various unit sizes dealing incorrect damage.
+
+***
+
