@@ -1,0 +1,140 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.9 patch notes
+description: Balance Patch and New Model
+date:   2024-10-05 11:13:35 +0600
+image:  '/images/EvoExtension1_9.png'
+tags:   [Extension, Legacy, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.9
+
+Hey everyone the team has been hard at work on the Campaign for Update 2.0, the Miss Chance feature we've been testing requires some adjustments and won't be in this update but it will be available again in the PTR once we've made the appropriate adjustments.
+
+We got a bit of a surprise for you guys this time as we've finished our Queen's Nest Model complete with a Death Model, several other art adjustments are being made to all our custom Zerg units that will come either with 2.0 or as part of upcoming hotfixes.
+
+With the Upcoming SEL the balance team has decided to push out the PTR changes to live while we continue to work on 2.0, we hope to have more news in the future or you can join us in Patreon or as a Donor to receive exclusive updates.
+
+As always thank you to all our Patreons and Donors for all their help in funding this project, we hope to continue to make more amazing things and deliver the best remake we possibly can.
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a> 
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Added New Queen's Nest Model
+
+![]({{site.baseurl}}/images/modelpreview-queensnest.png)
+
+- Nukes now deal 500 damage or 2/3rd's of the targets life whichever is greater
+- Merging Archons & Dark Archons morphs now keep some buffs from both source units, (ie. Negative buffs like Parasite will now be transfered to the merged archon)
+
+Reaver now more closely mimics it's SC1 version
+- Structure & Resource footprints are no longer considered when checking for weapon range
+- Reavers no longer auto-acquire targets it can't walk to (ie. it wont automatically shoot at target behind a building wall, but it can be ordered to do it manually by a player)
+- Fixed Reaver being capable having multiple Scarabs out at the same time
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**Balance Changes**
+
+- Reduced Acceleration of StarCraft 1 Workers to 2.688
+*This change effectively reduces the gathering bonus down to 5% over StarCraft 2 Races*
+
+***All Time values are in Normal Speed***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
+- Reduced Stimpack Research Time from 110 -> 84
+- Reduced U-238 Rounds Research Time from 110 -> 100
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+- Reduced Medic Target Priority
+- Increased Movement Speed from 2.4492 -> 2.8125
+- Increased Health from 60 -> 65
+
+### <img src="{{site.baseurl}}/images/btn-building-terran-comsatstation@scbw.png" width="50" height="50"> Comsat Station
+- Reduced Build Time from 30 - 25
+- Reduced Costs from 50/50 -> 50/25
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw" width="50" height="50"> Ghost
+- Increased Health from 55 -> 60
+- Increased Movement Speed from 2.25 -> 2.8125
+
+### <img src="{{site.baseurl}}/images/btn-building-terran-techlab.png" width="50" height="50"> Physics Lab
+- Reduced Build Time from 35 -> 25
+- Reduced Costs from 50/50 -> 50/25
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+- Reduced Charon Boosters Research Time from 110 -> 100
+
+### <img src="{{site.baseurl}}/images/btn-building-terran-armory.png" width="50" height="50"> Armory
+- Reduced Build Time from 65 -> 55
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
+- Reduced Build Time from 54 -> 48
+- Reduced Titan Reactor Research Costs from 150/150 -> 100/100
+- Reduced Irradiate Research Time from 110 -> 83
+
+### <img src="{{site.baseurl}}/images/btn-building-terran-sciencefacility@scbw.png" width="50" height="50"> Science Facility
+- Reduced Build Time from 60 -> 54
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- Reduced Defiler Inner Radius 0.4375 -> 0.375 __(Core)__
+- Reduced Burrowed Defiler Inner Radius 0.5 -> 0.375 __(Core)__
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
+- Reduced Zergling Attack Cooldown from 0.57 -> 0.55
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Lurker
+- Increased Weapon Range from 7 -> 7.5
+- Increased Health from 140 -> 145
+- Increased Inner Radius 0.375 -> 0.4375 __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-scourge.png" width="50" height="50"> Scourge
+- Scourge will no longer be automatically targeted by enemy ground units if there are other valid ground targets __(Core)__
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-guardian@scbw.png" width="50" height="50"> Guardian
+- Adjusted weapon damage point 0.2 -> 0.167 __(Core)__
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+- Reduced Weapon Cooldown from 1.375 -> 1.25
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> High Templar
+- Reduced Psionic Storm Research Costs from 175/175 -> 150/150
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-darkarchon.png" width="50" height="50"> Dark Archon
+- Reduced Mind Control Research Costs from 200/200 -> 150/150
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
+- Reduced Shuttle Build Costs from 175 -> 150
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+- Arbiter Stasis can't target Heroic targets (Mothership)
+
+### Bug fixes & changes
+- Fixed bug with SC1 Ghost 'flail' animation __(Core)__
+- SC1 Ghost can now use the '/dance' command __(Core)__
+- SC1 Marine '/cheer' emote now uses correct weapon sound __(Core)__
+- Fixed Protoss Rich Assimilators not receiving shield armor upgrades __(Core)__
+- Observer Mod now uses localized short names for upgrades when applicable (ie. 'Terran Infantry Weapons Level 1' -> 'Infantry Weapons Level 1)
+- Fixed an Issue with Zerg AI Players evolving more overlords than required
+- Fixed an Issues with Zerg AI Players constructing more Creep Colonies than required
+- Added the ability for AI players to clear Mineral Walls
+
+***
+
