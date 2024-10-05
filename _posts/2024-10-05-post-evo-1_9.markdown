@@ -64,7 +64,7 @@ Reaver now more closely mimics it's SC1 version
 - Reduced Build Time from 30 - 25
 - Reduced Costs from 50/50 -> 50/25
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw" width="50" height="50"> Ghost
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
 - Increased Health from 55 -> 60
 - Increased Movement Speed from 2.25 -> 2.8125
 
@@ -86,8 +86,6 @@ Reaver now more closely mimics it's SC1 version
 ### <img src="{{site.baseurl}}/images/btn-building-terran-sciencefacility@scbw.png" width="50" height="50"> Science Facility
 - Reduced Build Time from 60 -> 54
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
-
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
 - Reduced Defiler Inner Radius 0.4375 -> 0.375 __(Core)__
@@ -97,7 +95,7 @@ Reaver now more closely mimics it's SC1 version
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
 - Reduced Zergling Attack Cooldown from 0.57 -> 0.55
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Lurker
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
 - Increased Weapon Range from 7 -> 7.5
 - Increased Health from 140 -> 145
 - Increased Inner Radius 0.375 -> 0.4375 __(Core)__
