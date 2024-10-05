@@ -93,7 +93,8 @@ Reaver now more closely mimics it's SC1 version
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
-- Reduced Zergling Attack Cooldown from 0.57 -> 0.55
+- Increased Zergling Attack Period 0.57 -> 0.58
+- Reduced Adrenal Glands Attack Period Reduction 45% -> 40%
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
 - Increased Weapon Range from 7 -> 7.5
