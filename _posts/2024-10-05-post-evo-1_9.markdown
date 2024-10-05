@@ -52,7 +52,7 @@ Reaver now more closely mimics it's SC1 version
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
-- Reduced Stimpack Research Time from 110 -> 84
+- Reduced Stimpack Research Time from 80 -> 76
 - Reduced U-238 Rounds Research Time from 110 -> 100
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
