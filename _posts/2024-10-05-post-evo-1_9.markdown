@@ -1,12 +1,27 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.9 patch notes
-description: Balance Patch and New Model
+title:  SC Evo Complete Extension 1.9.3 patch notes
+description: Balance Patch and New Models
 date:   2024-10-05 11:13:35 +0600
 image:  '/images/EvoExtension1_9.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Update 1.9.3
+
+- Added Photon Cannon Model
+
+![]({{site.baseurl}}/images/modelpreview-photoncannon.png)
+
+## Hotfix 1.9.2
+
+- Burrowed Lurker's HP no longer changes while Burrowed
+
+## Hotfix 1.9.1
+
+- Fixed an issue allowing reavers to attack immediately after being unloaded __(Core)__
+
 
 ## Evo Complete Extension Update 1.9
 
