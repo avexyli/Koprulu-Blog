@@ -67,7 +67,7 @@ Reaver now more closely mimics it's SC1 version
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
-- Reduced Stimpack Research Time from 110 -> 84
+- Reduced Stimpack Research Time from 80 -> 76
 - Reduced U-238 Rounds Research Time from 110 -> 100
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
@@ -108,7 +108,8 @@ Reaver now more closely mimics it's SC1 version
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
-- Reduced Zergling Attack Cooldown from 0.57 -> 0.55
+- Increased Zergling Attack Period 0.57 -> 0.58
+- Reduced Adrenal Glands Attack Period Reduction 45% -> 40%
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
 - Increased Weapon Range from 7 -> 7.5
