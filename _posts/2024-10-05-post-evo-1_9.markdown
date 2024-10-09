@@ -16,7 +16,7 @@ featured: true
 
 ## Hotfix 1.9.2
 
-- Burrowed Lurker's HP no longer changes while Burrowed
+- Lurker's HP no longer changes while Burrowed
 
 ## Hotfix 1.9.1
 
