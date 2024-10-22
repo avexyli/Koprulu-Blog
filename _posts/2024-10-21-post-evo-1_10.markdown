@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete Extension 1.10 patch notes
 description: Art Update and Balance Changes
-date:   2024-10-05 11:13:35 +0600
+date:   2024-10-22 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 featured: true
