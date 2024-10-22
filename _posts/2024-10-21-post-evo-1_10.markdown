@@ -1,0 +1,90 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.10 patch notes
+description: Art Update and Balance Changes
+date:   2024-10-05 11:13:35 +0600
+image:  '/images/EvoExtension1_10.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.10
+
+Hey everyone we have a Minor patch to address some balance concerns as well as some much needed buffs to some units, this update also addresses some model issues that we previously had specifically with the Siege Tank.
+
+We have a larger balance patch in the works but it needs more time for all the data to be reviewed.
+
+As always thank you to all our Patreons and Donors for all their help in funding this project, we hope to continue to make more amazing things and deliver the best remake we possibly can.
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Updated Siege Tank Models
+
+![]({{site.baseurl}}/images/modelpreview-newsiegetank.png)
+
+***Our previous model had some scaling issues causing a plethora of visual bugs under certain conditions, we've also added new improved Explosion Effects as well as Added Ragdoll Models.***
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+**Balance Changes**
+
+- Increased Acceleration of StarCraft 1 Workers to 2.688
+*This change effectively increases the gathering bonus from 5% -> 6% over StarCraft 2 Races*
+
+***All Time values are in Normal Speed***
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
+- Decreased Lockdown Duration from 46 -> 41.4 (10% Reduction)
+
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
+- Hydrlisk's Weapon is now a Hitscan __(Core)__
+
+***This means that their attacks no longer have a travel time and will hit units instantly**
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
+- Reduced Weapon Range from 7.5 -> 7.0
+- Reduced Health from 145 -> 140
+
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
+- Increased Shuttle Unload Range from 1 -> 2.5
+- Decreased Shuttle Unload Cooldown from 1 -> 0.9
+
+### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
+- Recharge Shields is now Autocast at a rate of 20 shields per second
+
+***We will be monitoring this change in the coming days to decide if the heal value and energy costs need to be adjusted.***
+***In the previous iteration Batteries would recharge at a rate of 112 shields per second***
+
+
+### Bug fixes & changes
+- Fixed an issue that would cause Ensnare to not properly negate the effects of Stimpack
+- Updated Scout's Death Animations
+- Updated Siege Tank's Animations/Models
+
+Finally i'd like to end today's post with a little surprise for an upcoming update
+
+![]({{site.baseurl}}/gifs/2020-21-10-teaser-lurker.gif)
+
+This Model was chosen by our Patrons.
+
+***
+
