@@ -36,7 +36,7 @@ As always thank you to all our Patreons and Donors for all their help in funding
 
 **Balance Changes**
 
-- Increased Acceleration of StarCraft 1 Workers to 2.688
+- Increased Acceleration of StarCraft 1 Workers to 2.9375
 *This change effectively increases the gathering bonus from 5% -> 6% over StarCraft 2 Races*
 
 ***All Time values are in Normal Speed***
