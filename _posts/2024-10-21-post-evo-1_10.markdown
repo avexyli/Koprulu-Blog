@@ -65,7 +65,7 @@ As always thank you to all our Patreons and Donors for all their help in funding
 
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-ShuttleSCBW.png" width="50" height="50"> Shuttle
-- Increased Shuttle Unload Range from 1 -> 2.5
+- Increased Shuttle Pickup Range from 1 -> 2.5
 - Decreased Shuttle Unload Cooldown from 1 -> 0.9
 
 ### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
