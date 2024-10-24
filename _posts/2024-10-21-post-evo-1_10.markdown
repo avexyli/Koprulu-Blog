@@ -77,7 +77,6 @@ As always thank you to all our Patreons and Donors for all their help in funding
   - Restore heals 28 shields per second, instead of 112 shields per second.
 
 ***We will be monitoring this change in the coming days to decide if the heal value and energy costs need to be adjusted.***
-***In the previous iteration Batteries would recharge at a rate of 112 shields per second***
 
 
 ### Bug fixes & changes
