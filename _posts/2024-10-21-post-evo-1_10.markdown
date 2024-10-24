@@ -75,6 +75,7 @@ As always thank you to all our Patreons and Donors for all their help in funding
   - Restore does not stun its target.
   - Restore heals 3 shields per Energy, instead of 2 shields per Energy.
   - Restore heals 28 shields per second, instead of 112 shields per second.
+  - Restore, like Recharge Shields, cannot target structures.
 
 ***We will be monitoring this change in the coming days to decide if the heal value and energy costs need to be adjusted.***
 
