@@ -1,12 +1,29 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.10 patch notes
+title:  SC Evo Complete Extension 1.10.1 patch notes
 description: Art Update and Balance Changes
-date:   2024-10-22 11:13:35 +0600
+date:   2024-10-30 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Evo Complete Extension Update 1.10.1
+
+Minor patch brining in a new model addition, this model was chosen by our Patrons, we've also adjusted some of our models and fixed some interactiosn with Ragdolls.
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Added new Lurker Model
+*This model comes complete with a full set of Animations, 4 Death Variants, Acid and Fire Deaths as well as Ragdolls. More to come soon!.*
+
+![]({{site.baseurl}}/images/modelpreview-lurker.png)
+
+- Added new Siege Tank Ragdoll Variants
+- Adjusted Siege Tank Ragdoll particle effects
+- Adjusted Zerg Death Sounds
+- Ragdoll objects now properly play their impact sounds
+- Several other minor Data adjustments
 
 ## Evo Complete Extension Update 1.10
 
