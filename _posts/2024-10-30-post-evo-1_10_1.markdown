@@ -86,10 +86,15 @@ As always thank you to all our Patreons and Donors for all their help in funding
 - Decreased Shuttle Unload Cooldown from 1 -> 0.9
 
 ### <img src="{{site.baseurl}}/images/btn-building-protoss-shieldbattery@scbw.png" width="50" height="50"> Shield Battery
-- Recharge Shields is now Autocast at a rate of 20 shields per second
+- Recharge Shields ability removed.
+- Restore ability added:
+  - Restore heals shields automatically.
+  - Restore does not stun its target.
+  - Restore heals 3 shields per Energy, instead of 2 shields per Energy.
+  - Restore heals 28 shields per second, instead of 112 shields per second.
+  - Restore, like Recharge Shields, cannot target structures.
 
 ***We will be monitoring this change in the coming days to decide if the heal value and energy costs need to be adjusted.***
-***In the previous iteration Batteries would recharge at a rate of 112 shields per second***
 
 
 ### Bug fixes & changes
