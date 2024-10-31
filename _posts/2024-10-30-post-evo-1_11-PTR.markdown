@@ -1,0 +1,100 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.10 patch notes
+description: Art Update and Balance Changes
+date:   2024-10-30 11:13:35 +0600
+image:  '/images/EvoExtension1_10.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.11 PTR
+
+Hello to all SC: Evo Complete fans,
+
+We have a small but ambitious patch to alleviate some balance concerns and diversify the options of the Brood War races.
+
+This update is planned to be finalized and made official ahead of the upcoming $1,100 SEL Fall Championship 2024.
+
+As this is a PTR, many of these changes are experimental. Please reach out to use in the **#extension-feedback** channel on the Project Koprulu Discord server to share your thoughts on the balance of the changes, as well as whether or not they achieve the goals described herein.
+
+Before we proceed with the changes, we once again would like thank our generous sponsors to enabling our work here. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+*Please note: All time values are in Normal Speed*
+
+**Goals for this patch:**
+- Improve BW Terran's defense against SC2 Protoss Stargate builds, especially against very forward proxy Stargates
+- Improve the strength of BW Terran Biological play against SC2 Zerg
+- Alleviate the impotence of lategame BW Zerg armies
+- Generally, make the Stargate a more viable alternative or secondary opening tech option in all matchups
+- Specifically, address numerous BW Protoss weaknesses against SC2 Protoss by enabling the Stargate to be useful through each phase of the game
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+- Decreased Engineering Bay build time: 35 -> 30
+- Decreased Armory build time: 55 -> 50
+
+This is expected to slightly ease defending against Stargate builds by hastening access to Missile Turrets and Goliaths.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
+- Decreased cost: 100/75 -> 100/25
+
+Currently, BW Terran Biological armies are reliant on large numbers of Siege Tanks to defend against almost any SC2 Zerg ground force, especially masses of Roaches. The sheer cost of such forces, as well as the expensive transition into Science Vessels, spare little Vespene gas to be used elsewhere.
+
+This buff aims to utilize spare Starport production time, allowing BW Terran to generate additional threats on the map. This should be the most impactful against SC2 Zerg, as they typically have little need to defend against early-midgame drops and multi-prong aggression otherwise. The mere possibility of Dropship play should be enough to force the production of a few Spore Crawlers when they would otherwise be ommitted.
+
+Although the new Dropship costs practically no Vespene gas, it is still a rather sluggish unit, and large armies trapped in Dropships are prone to camping units underneath and being shot out of the sky outright. Moreover, BW Terran must eventually transition into Science Vessels in this matchup. Therefore, as mass Dropship play is highly committal, we expect no more than 1-2 to be used at a time in most games.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourer@scbw.png" width="50" height="50"> Devourer
+- Increased armor: 2 -> 3
+- Increased base damage: 20.25 {+1.5/upgrade} -> 22.5 {+2.25/upgrade}
+    - Damage vs Armored: 27 {+2/upgrade} -> 30 {+3/upgrade}
+- Increased HP: 250 -> 275
+
+Lategame BW Zerg armies are somewhat impotent. The combination of Guardians, Queens, Defilers, and Lurkers is sufficient against ground forces, but Devourers are pitifully underwhelming for leading the charge against airborne adversaries.
+
+These buffs are intended to improve the Devourer's effectiveness, without affecting its identity as a medium-speed, debuffer-tank support unit. In particular, it is now able to survive 2 uses of the SC2 Ghost's Steady Targeting.
+
+Its new damage per hit also aids it in hit-and-run maneuvers; these changes mean that 10 Devourers, just 1 more than is needed to apply the maximum level of Acid Spores in one attack, are now able to kill a Tempest in one attack, down from 12 (assuming Level 2 upgrades all around).
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Decreased Stargate cost: 150/150 -> 150/100
+- Decreased Fleet Beacon cost: 250/200 -> 200/150
+- Increased Arbiter Tribunal cost: 200/150 -> 250/200
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
+- Increased Scout anti-ground damage: 9 {+1/upgrade} -> 9 {+1/upgrade} (+5 vs Light)
+
+### <img src="{{site.baseurl}}/images/btn-building-protoss-carrier@scbw.png" width="50" height="50"> Carrier
+- Increased Carrier Capacity research cost: 100/100 -> 250/250
+
+Currently, BW Protoss has a few problems in the SC2 Protoss matchup:
+
+- BW Protoss lacks a good way to deal with Warp Prisms.
+    - It is too difficult to know if a Warp Prism is empty or full, since reliable scouting info can only be acquired from the Observer. However, Robotics Facility production time is at a premium, and the Observatory is an inconvenient prerequisite, however cheap it is.
+    - A couple Dragoons are insufficient to fight a single Warp Prism with full cargo, but a hasty rotation of more Dragoons can be brutally punished by Force Fields.
+- SC2 Protoss has better scouting and worker harassment options.
+    - BW Protoss can respond with Reaver drops, but they are often too important for defense, and a lack of Recall makes such harassment highly committal.
+- After enduring earlygame aggression, BW Protoss needs tools to take better engagements after SC2 Protoss.
+
+These sweeping changes are intended to improve the overall viability of Stargate play, and particularly address the above weaknesses:
+
+- The new Scout is now able to kill Probes in 3 hits, rather than 5. This should be enough to force the production of Shield Batteries on the side of SC2 Protoss where they were previously not needed. It can also be used to hunt down Warp Prisms.
+- The cheaper Fleet Beacon enables easier access to Disruption Web research, allowing Corsairs to come into play in the midgame.
+    - Disruption Web is ideal for use against SC2 Protoss armies, which are more sensitive to losing their concaves than their Terran and Zerg counterparts. Stalkers which blink forward to avoid Disruption Webs are susceptible to being annihilated by Dragoons and Reavers.
+- The cost increases to the Arbiter Tribunal and the Carrier Capacity upgrade compensate for cheaper Stargates to ensure Arbiter and Carrier transitions are not significantly less expensive.
+
+***
+
