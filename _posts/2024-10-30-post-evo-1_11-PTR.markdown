@@ -87,7 +87,7 @@ Currently, BW Protoss has a few problems in the SC2 Protoss matchup:
     - A couple Dragoons are insufficient to fight a single Warp Prism with full cargo, but a hasty rotation of more Dragoons can be brutally punished by Force Fields.
 - SC2 Protoss has better scouting and worker harassment options.
     - BW Protoss can respond with Reaver drops, but they are often too important for defense, and a lack of Recall makes such harassment highly committal.
-- After enduring earlygame aggression, BW Protoss needs tools to take better engagements after SC2 Protoss.
+- After enduring earlygame aggression, BW Protoss needs tools to take better engagements against SC2 Protoss.
 
 These sweeping changes are intended to improve the overall viability of Stargate play, and particularly address the above weaknesses:
 
