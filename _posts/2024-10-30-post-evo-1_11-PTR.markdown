@@ -45,7 +45,7 @@ Before we proceed with the changes, we once again would like thank our generous 
 
 This is expected to slightly ease defending against Stargate builds by hastening access to Missile Turrets and Goliaths.
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> Medic
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
 - Decreased Caduceus Reactor research cost: 100/100 -> 50/50
 - Increased Heal HP per energy: 2 -> 2.5
 - Increased Heal range: 3 -> 4
