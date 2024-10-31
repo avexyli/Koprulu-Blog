@@ -64,7 +64,7 @@ Although the new Dropship costs practically no Vespene gas, it is still a rather
 
 Lategame BW Zerg armies are somewhat impotent. The combination of Guardians, Queens, Defilers, and Lurkers is sufficient against ground forces, but Devourers are pitifully underwhelming for leading the charge against airborne adversaries.
 
-These buffs are intended to improve the Devourer's effectiveness, without affecting its identity as a medium-speed, debuffer-tank support unit. In particular, it is now able to survive 2 uses of the SC2 Ghost's Steady Targeting.
+These buffs are intended to improve the Devourer's effectiveness, without altering its identity as a medium-speed, debuffer-tank support unit. In particular, it is now able to survive 2 uses of the SC2 Ghost's Steady Targeting.
 
 Its new damage per hit also aids it in hit-and-run maneuvers; these changes mean that 10 Devourers, just 1 more than is needed to apply the maximum level of Acid Spores in one attack, are now able to kill a Tempest in one attack, down from 12 (assuming Level 2 upgrades all around).
 
