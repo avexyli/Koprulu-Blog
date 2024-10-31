@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.10 patch notes
+title:  SC Evo Complete PTR 1.11 patch notes
 description: Art Update and Balance Changes
 date:   2024-10-30 11:13:35 +0600
-image:  '/images/EvoExtension1_10.png'
+image:  '/images/EvoPTR1_11.png'
 tags:   [Extension, Update]
 featured: true
 ---
