@@ -81,7 +81,7 @@ layout: default
         <img class="post__nav-image lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{site.baseurl}}{{page.previous.title}}">
         <div class="post__nav-box">
           <div class="post__nav post__nav__prev"><i class="ion ion-md-arrow-round-back"></i> Previous Post</div>
-          <h4 class="post__nav__title">{{site.baseurl}}{{page.previous.title}}</h4>
+          <h4 class="post__nav__title">{{page.previous.title}}</h4>
         </div>
       </a>
       {% endif %}
@@ -90,7 +90,7 @@ layout: default
         <img class="post__nav-image lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{site.baseurl}}{{page.next.title}}">
         <div class="post__nav-box">
           <div class="post__nav post__nav__next">Next Post <i class="ion ion-md-arrow-forward"></i></div>
-          <h4 class="post__nav__title">{{site.baseurl}}{{page.next.title}}</h4>
+          <h4 class="post__nav__title">{{page.next.title}}</h4>
         </div>
       </a>
       {% endif %}
