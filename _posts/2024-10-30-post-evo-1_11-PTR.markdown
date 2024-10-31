@@ -93,7 +93,7 @@ These sweeping changes are intended to improve the overall viability of Stargate
 
 - The new Scout is now able to kill Probes in 3 hits, rather than 5. This should be enough to force the production of Shield Batteries on the side of SC2 Protoss where they were previously not needed. It can also be used to hunt down Warp Prisms.
 - The cheaper Fleet Beacon enables easier access to Disruption Web research, allowing Corsairs to come into play in the midgame.
-    - Disruption Web is ideal for use against SC2 Protoss armies, which are more sensitive to losing their concaves than their Terran and Zerg counterparts. Stalkers which blink forward to avoid Disruption Webs are susceptible to being annihilated by Dragoons and Reavers.
+    - Disruption Web is ideal for use against SC2 Protoss armies, which are more sensitive to losing their concaves than their Terran and Zerg counterparts. Stalkers which Blink forward to avoid Disruption Webs are susceptible to being annihilated by Dragoons and Reavers.
 - The cost increases to the Arbiter Tribunal and the Carrier Capacity upgrade compensate for cheaper Stargates to ensure Arbiter and Carrier transitions are not significantly less expensive.
 
 ***
