@@ -77,20 +77,20 @@ layout: default
 
     <div class="post__navigation">
       {% if page.previous.url %}
-      <a class="prev" href="{{page.previous.url}}">
-        <img class="post__nav-image lazy" data-src="{{page.previous.image}}" alt="{{page.previous.title}}">
+      <a class="prev" href="{{site.baseurl}}{{page.previous.url}}">
+        <img class="post__nav-image lazy" data-src="{{site.baseurl}}{{page.previous.image}}" alt="{{site.baseurl}}{{page.previous.title}}">
         <div class="post__nav-box">
           <div class="post__nav post__nav__prev"><i class="ion ion-md-arrow-round-back"></i> Previous Post</div>
-          <h4 class="post__nav__title">{{page.previous.title}}</h4>
+          <h4 class="post__nav__title">{{site.baseurl}}{{page.previous.title}}</h4>
         </div>
       </a>
       {% endif %}
       {% if page.next.url %}
-      <a class="next" href="{{page.next.url}}">
-        <img class="post__nav-image lazy" data-src="{{page.next.image}}" alt="{{page.next.title}}">
+      <a class="next" href="{{site.baseurl}}{{page.next.url}}">
+        <img class="post__nav-image lazy" data-src="{{site.baseurl}}{{page.next.image}}" alt="{{site.baseurl}}{{page.next.title}}">
         <div class="post__nav-box">
           <div class="post__nav post__nav__next">Next Post <i class="ion ion-md-arrow-forward"></i></div>
-          <h4 class="post__nav__title">{{page.next.title}}</h4>
+          <h4 class="post__nav__title">{{site.baseurl}}{{page.next.title}}</h4>
         </div>
       </a>
       {% endif %}
