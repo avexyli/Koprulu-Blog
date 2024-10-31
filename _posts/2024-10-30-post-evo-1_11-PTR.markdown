@@ -45,6 +45,17 @@ Before we proceed with the changes, we once again would like thank our generous 
 
 This is expected to slightly ease defending against Stargate builds by hastening access to Missile Turrets and Goliaths.
 
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic@scbw.png" width="50" height="50"> Medic
+- Decreased Caduceus Reactor research cost: 100/100 -> 50/50
+- Increased Heal HP per energy: 2 -> 2.5
+- Increased Heal range: 3 -> 4
+
+We noticed that BW Terran Biological armies tend to require a very large number of Medics, not only to fight but also to safely retreat.
+
+These changes are aimed at ensuring Biological armies deplete their healing more slowly. Alternatively, one opt to produce fewer Medics and more Marines. This is especially useful for timing attacks.
+
+Increased Heal range further increases the forgiveness of using Medics; in niche circumstances, Medics can help bodyblock against Roaches while staying in range to heal Marines.
+
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
 - Decreased cost: 100/75 -> 100/25
 
