@@ -75,7 +75,8 @@ Its new damage per hit also aids it in hit-and-run maneuvers; these changes mean
 - Increased Arbiter Tribunal cost: 200/150 -> 250/200
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
-- Increased Scout anti-ground damage: 9 {+1/upgrade} -> 9 {+1/upgrade} (+5 vs Light)
+- Increased Scout anti-ground attack period: 1.6875 -> 1.875
+- Increased Scout anti-ground damage: 9 {+1/upgrade} -> 10 {+1/upgrade} (+5 vs Shields)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
 - Increased Carrier Capacity research cost: 100/100 -> 250/250
@@ -91,7 +92,8 @@ Currently, BW Protoss has a few problems in the SC2 Protoss matchup:
 
 These sweeping changes are intended to improve the overall viability of Stargate play, and particularly address the above weaknesses:
 
-- The new Scout is now able to kill Probes in 3 hits, rather than 5. This should be enough to force the production of Shield Batteries on the side of SC2 Protoss where they were previously not needed. It can also be used to hunt down Warp Prisms.
+- The new Scout is now able to kill Probes in 3 hits, rather than 5. This should be enough to force the production of Shield Batteries on the side of SC2 Protoss where they were previously not needed.
+    - The Scout can be used to hunt down Warp Prisms. It is also a bit stronger against the ground forces which could be dropped by a Warp Prism.
 - The cheaper Fleet Beacon enables easier access to Disruption Web research, allowing Corsairs to come into play in the midgame.
     - Disruption Web is ideal for use against SC2 Protoss armies, which are more sensitive to losing their concaves than their Terran and Zerg counterparts. Stalkers which Blink forward to avoid Disruption Webs are susceptible to being annihilated by Dragoons and Reavers.
 - The cost increases to the Arbiter Tribunal and the Carrier Capacity upgrade compensate for cheaper Stargates to ensure Arbiter and Carrier transitions are not significantly less expensive.
