@@ -28,9 +28,6 @@ Before we proceed with the changes, we once again would like thank our generous 
 
 ***
 
-{: .tip }
-The updated PTR notes begin here.
-
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
 ### Balance Changes - Part 2 (Nov 3, 2024)
@@ -41,8 +38,7 @@ The updated PTR notes begin here.
 - Revert changes from previous patches to the overtuned Hydralisk
 - Further alleviate BW Protoss weakness against SC2 Protoss
 
-#### Please note: these changes are IN ADDITION TO the changes from the first part of the 1.11 PTR.
-##### Wherever applicable, initial values for the listed changes are from the first part of the 1.11 PTR.
+**Please note: these changes are IN ADDITION TO the changes from the first part of the 1.11 PTR. Except where stated otherwise, none of those changes have been reverted.**
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
@@ -61,9 +57,9 @@ Unlike the SC2 Battlecruiser, the BW Battlecruiser is more effective against hig
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-- Sunken Colony attack period: 2 -> 2.125
-- Sunken Colony HP: 350 -> 325
-- Spore Colony attack range: 8.5 -> 8
+- Increased Sunken Colony attack period: 2 -> 2.125
+- Decreased Sunken Colony HP: 350 -> 325
+- Decreased Spore Colony attack range: 8.5 -> 8
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 - Decreased Hydralisk attack period: 0.938 -> 1.0312
@@ -80,7 +76,7 @@ These changes will also limit the Hydralisk's aggressive potential. We are aware
 
 ### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
 - Reaver attack damage: 100 -> 105 (+50 vs Shields)
-- Scarab Damage upgrade damage bonus: 25 -> 25 (+30 vs Shields)
+- Scarab Damage upgrade damage bonus: 25 -> 20 (+35 vs Shields)
 
 While we think that the Stargate changes previously implemented in this PTR cycle were woefully needed, we also think they are not enough to fix the matchup on their own. Overall, a lack of mobility forces BW Protoss to play passively against SC2 Protoss, biding time in the midgame while amassing a powerful lategame army. However, being relegated to defense is tough for them, because losing or retreating from a single large fight near an expansion almost assuredly means losing the expansion. Therefore, they need more power in frontal engagements.
 
@@ -88,7 +84,7 @@ The new Reaver damage is intended to be much more effective against SC2 Protoss 
 - Before Scarab Damage research, most SC2 Gateway units will die in 1 direct hit and Stalkers can be finished off by an attack from any other combat unit.
 - After Scarab Damage research, Stalkers and Disruptors will die in 1 direct hit, Archons (and Immortals with Barrier on cooldown) will die in 2 direct hits, and Immortals and Colossi will die in 3 direct hits (assuming the Immortal's Barrier absorbs the first hit).
 
-The Reaver's base damage was also slightly increased to help overcome base armor on SC2 Protoss units. This ensures that the Reaver maintains the same number of attacks to kill SC2 Protoss units throughout the game, even after Level 3 Ground Armor and Shields research. The additional 5 base damage should not meaningfully affect damage the number of hits to kill units in other matchups.
+The Reaver's base damage was also slightly increased to help overcome base armor on SC2 Protoss units. This ensures that the Reaver maintains the same number of attacks to kill SC2 Protoss units throughout the game, even after Level 3 Ground Armor and Shields research. The additional 5 base damage should not meaningfully affect damage the number of hits to kill units in other matchups, and this amount was subtracted from the Scarab Damage base damage bonus to avoid one-shotting units like unstimmed Marauders.
 
 ***
 
