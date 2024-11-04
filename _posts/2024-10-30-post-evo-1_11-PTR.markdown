@@ -8,6 +8,8 @@ tags:   [Extension, Update]
 featured: true
 ---
 
+### Note: As of Nov 3, 2024, there are further updates to the 1.11 PTR. They will be tested through the coming weekend, and be pushed to the official live version before the SEL Fall Championship. Please see just below the introductory paragraph for the latest changes.
+
 ## Evo Complete Extension Update 1.11 PTR
 
 Hello to all SC: Evo Complete fans,
@@ -26,9 +28,75 @@ Before we proceed with the changes, we once again would like thank our generous 
 
 ***
 
+{: .tip }
+The updated PTR notes begin here.
+
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-### Balance Changes
+### Balance Changes - Part 2 (Nov 3, 2024)
+
+**Additional goals for this patch:**
+- Adjust the Medic buffs from the first part of 1.11 PTR
+- Slightly tone down the Battlecruiser
+- Revert changes from previous patches to the overtuned Hydralisk
+- Further alleviate BW Protoss weakness against SC2 Protoss
+
+#### Please note: these changes are IN ADDITION TO the changes from the first part of the 1.11 PTR.
+##### Wherever applicable, initial values for the listed changes are from the first part of the 1.11 PTR.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+- Decreased Medic Heal range: 4 -> 3
+- Decreased Caduceus Reactor research time: 80 -> 65
+
+The Medic changes appear to have had the intended effect, but perhaps overly so. Stimpack timings became too easy to execute with the new Heal range. However, we still think BW Terran Biological armies need some help.
+
+To fix this, we are reverting the Heal range increase. We are also trying to introduce more possibilities surrounding Energy management by hastening the Caduceus Reactor upgrade.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser.png" width="50" height="50"> Battlecruiser
+- Increased Battlecruiser attack period: 1.125 -> 1.175
+
+Unlike the SC2 Battlecruiser, the BW Battlecruiser is more effective against high-armor units like the Corruptor and the Ultralisk due to its higher damage per hit. This appears to be a little too strong, so we would like to compensate by slightly reducing the Battlecruiser's attack speed.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk.png" width="50" height="50"> Hydralisk
+- Decreased Hydralisk attack period: 0.938 -> 1.0312
+- Sunken Colony attack period: 2 -> 2.125
+- Sunken Colony HP: 350 -> 325
+- Spore Colony attack range: 8.5 -> 8
+
+In previous patches, BW Zerg received numerous buffs to shore up its earlygame defenses. We think that these changes were highly successful. Even recently, the Hydralisk received a QoL/design rework in the form of a hitscan attack more closely resembling its original counterpart. 
+
+Unfortunately, we think these changes were too effective in hindsight. In particular, they turned the Hydralisk into an overwhelming generalist that is too strong and too easy to use in almost any situation.
+
+BW Zerg earlygame optimization and midgame tech (namely, Spire and Lurkers) have come a long way since the days of the Chzzk Cup. Therefore, we think these changes are warranted to help reintroduce some weakness into the BW Zerg earlygame. In particular, this will also limit the Hydralisk's push potential.
+
+We are aware that the Hydralisk will likely remain one of the most versatile units in the game, and will continue to keep an eye on it as we also look for ways to adjust BW Zerg elsewhere.
+
+{: .note }
+In particular, we chose to nerf the attack period and HP of the Sunken Colony because its damage-per-hit and range are essential to defending against Banelings and cannon rushes, respectively.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
+- Reaver attack damage: 100 -> 105 (+50 vs Shields)
+- Scarab Damage upgrade damage bonus: 25 -> 25 (+30 vs Shields)
+
+While we think that the Stargate changes previously implemented in this PTR cycle were woefully needed, we also think they are not enough to fix the matchup on their own. Overall, a lack of mobility forces BW Protoss to play passively against SC2 Protoss, biding time in the midgame while amassing a powerful lategame army. However, being relegated to defense is tough for them, because losing or retreating from a single large fight near an expansion almost assuredly means losing the expansion. Therefore, they need more power in frontal engagements.
+
+The new Reaver damage is intended to be much more effective against SC2 Protoss against all stages of the game.
+- Before Scarab Damage research, most SC2 Gateway units will die in 1 direct hit and Stalkers can be finished off by an attack from any other combat unit.
+- After Scarab Damage research, Stalkers and Disruptors will die in 1 direct hit, Archons (and Immortals with Barrier on cooldown) will die in 2 direct hits, and Immortals and Colossi will die in 3 direct hits (assuming the Immortal's Barrier absorbs the first hit).
+
+The Reaver's base damage was also slightly increased to help overcome base armor on SC2 Protoss units. This ensures that the Reaver maintains the same number of attacks to kill SC2 Protoss units throughout the game, even after Level 3 Ground Armor and Shields research. The additional 5 base damage should not meaningfully affect damage interactions in other matchups.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes - Part 1 (Oct 30, 2024)
 *Please note: All time values are in Normal Speed*
 
 **Goals for this patch:**
@@ -77,7 +145,7 @@ Lategame BW Zerg armies are somewhat impotent. The combination of Guardians, Que
 
 These buffs are intended to improve the Devourer's effectiveness, without altering its identity as a medium-speed, debuffer-tank support unit. In particular, it is now able to survive 2 uses of the SC2 Ghost's Steady Targeting.
 
-Its new damage per hit also aids it in hit-and-run maneuvers; these changes mean that 10 Devourers, just 1 more than is needed to apply the maximum level of Acid Spores in one attack, are now able to kill a Tempest in one attack, down from 12 (assuming Level 2 upgrades all around).
+Its new damage-per-hit also aids it in hit-and-run maneuvers; these changes mean that 10 Devourers, just 1 more than is needed to apply the maximum level of Acid Spores in one attack, are now able to kill a Tempest in one attack, down from 12 (assuming Level 2 upgrades all around).
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
@@ -110,4 +178,3 @@ These sweeping changes are intended to improve the overall viability of Stargate
 - The cost increases to the Arbiter Tribunal and the Carrier Capacity upgrade compensate for cheaper Stargates to ensure Arbiter and Carrier transitions are not significantly less expensive.
 
 ***
-
