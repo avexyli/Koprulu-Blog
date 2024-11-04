@@ -61,11 +61,12 @@ Unlike the SC2 Battlecruiser, the BW Battlecruiser is more effective against hig
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk.png" width="50" height="50"> Hydralisk
-- Decreased Hydralisk attack period: 0.938 -> 1.0312
 - Sunken Colony attack period: 2 -> 2.125
 - Sunken Colony HP: 350 -> 325
 - Spore Colony attack range: 8.5 -> 8
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk.png" width="50" height="50"> Hydralisk
+- Decreased Hydralisk attack period: 0.938 -> 1.0312
 
 In previous patches, BW Zerg received numerous buffs to shore up its earlygame defenses. We think that these changes were highly successful. Even recently, the Hydralisk received a QoL/design rework in the form of a hitscan attack more closely resembling its original counterpart. 
 
