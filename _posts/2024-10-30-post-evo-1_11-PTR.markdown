@@ -52,7 +52,7 @@ The updated PTR notes begin here.
 
 The Medic changes appear to have had the intended effect, but perhaps overly so. Stimpack timings became too easy to execute with the new Heal range. However, we still think BW Terran Biological armies need some help.
 
-To fix this, we are reverting the Heal range increase. We are also trying to introduce more possibilities surrounding Energy management by hastening the Caduceus Reactor upgrade.
+To fix this, we are reverting the Heal range increase. We are also trying to introduce more opening variety by hastening the Caduceus Reactor upgrade.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser.png" width="50" height="50"> Battlecruiser
 - Increased Battlecruiser attack period: 1.125 -> 1.175
