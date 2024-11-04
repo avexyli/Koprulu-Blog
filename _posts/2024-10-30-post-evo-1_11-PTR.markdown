@@ -54,7 +54,7 @@ The Medic changes appear to have had the intended effect, but perhaps overly so.
 
 To fix this, we are reverting the Heal range increase. We are also trying to introduce more opening variety by hastening the Caduceus Reactor upgrade.
 
-### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser.png" width="50" height="50"> Battlecruiser
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
 - Increased Battlecruiser attack period: 1.125 -> 1.175
 
 Unlike the SC2 Battlecruiser, the BW Battlecruiser is more effective against high-armor units like the Corruptor and the Ultralisk due to its higher damage per hit. This appears to be a little too strong, so we would like to compensate by slightly reducing the Battlecruiser's attack speed.
@@ -65,19 +65,16 @@ Unlike the SC2 Battlecruiser, the BW Battlecruiser is more effective against hig
 - Sunken Colony HP: 350 -> 325
 - Spore Colony attack range: 8.5 -> 8
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk.png" width="50" height="50"> Hydralisk
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 - Decreased Hydralisk attack period: 0.938 -> 1.0312
 
-In previous patches, BW Zerg received numerous buffs to shore up its earlygame defenses. We think that these changes were highly successful. Even recently, the Hydralisk received a QoL/design rework in the form of a hitscan attack more closely resembling its original counterpart. 
+In previous patches, BW Zerg received numerous buffs to shore up its earlygame defense, which included combat buffs to the Hydralisk, Sunken Colony, and Spore Colony. We think that these changes were highly successful. Even recently, the Hydralisk received a QoL/design rework in the form of a hitscan attack more closely resembling its original counterpart. 
 
-Unfortunately, we think these changes were too effective in hindsight. In particular, they turned the Hydralisk into an overwhelming generalist that is too strong and too easy to use in almost any situation.
+Unfortunately, these changes were too effective in hindsight. In particular, they turned the Hydralisk into an overwhelming generalist that is too strong and too easy to use in almost any situation.
 
-BW Zerg earlygame optimization and midgame tech (namely, Spire and Lurkers) have come a long way since the days of the Chzzk Cup. Therefore, we think these changes are warranted to help reintroduce some weakness into the BW Zerg earlygame. In particular, this will also limit the Hydralisk's push potential.
+BW Zerg earlygame optimization and midgame tech (namely, Spire and Lurkers) have come a long way since the days of the Chzzk Cup. Therefore, we think these changes are warranted to help reintroduce some weakness into the BW Zerg earlygame. (In particular, we chose to nerf the attack period and HP of the Sunken Colony because its damage-per-hit and range are essential to defending against Banelings and cannon rushes, respectively.)
 
-We are aware that the Hydralisk will likely remain one of the most versatile units in the game, and will continue to keep an eye on it as we also look for ways to adjust BW Zerg elsewhere.
-
-{: .note }
-In particular, we chose to nerf the attack period and HP of the Sunken Colony because its damage-per-hit and range are essential to defending against Banelings and cannon rushes, respectively.
+These changes will also limit the Hydralisk's aggressive potential. We are aware that the Hydralisk will likely remain one of the most versatile units in the game, and will continue to keep an eye on it as we also look for ways to adjust BW Zerg elsewhere.
 
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
@@ -91,7 +88,7 @@ The new Reaver damage is intended to be much more effective against SC2 Protoss 
 - Before Scarab Damage research, most SC2 Gateway units will die in 1 direct hit and Stalkers can be finished off by an attack from any other combat unit.
 - After Scarab Damage research, Stalkers and Disruptors will die in 1 direct hit, Archons (and Immortals with Barrier on cooldown) will die in 2 direct hits, and Immortals and Colossi will die in 3 direct hits (assuming the Immortal's Barrier absorbs the first hit).
 
-The Reaver's base damage was also slightly increased to help overcome base armor on SC2 Protoss units. This ensures that the Reaver maintains the same number of attacks to kill SC2 Protoss units throughout the game, even after Level 3 Ground Armor and Shields research. The additional 5 base damage should not meaningfully affect damage interactions in other matchups.
+The Reaver's base damage was also slightly increased to help overcome base armor on SC2 Protoss units. This ensures that the Reaver maintains the same number of attacks to kill SC2 Protoss units throughout the game, even after Level 3 Ground Armor and Shields research. The additional 5 base damage should not meaningfully affect damage the number of hits to kill units in other matchups.
 
 ***
 
