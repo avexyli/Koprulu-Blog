@@ -25,7 +25,7 @@ We have another minor patch that fixes some visual bugs, a minor valkyrie rework
 - Fixed Valkyries having instant deceleration
 
 - Fixed Rich refineries not creating burning visuals
-- Fixed Reaver Scarabs not clearing its targeting on teleports 
+- Fixed Reaver Scarabs not clearing its targeting teleport effects (Blinks, Adept Shade)
 - Reaver Scarabs now have separate sound for duds
 
 - Goliath Air weapon now has visual indicator for the range upgrade
