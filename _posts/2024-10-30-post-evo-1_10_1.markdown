@@ -1,12 +1,36 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.10.1 patch notes
+title:  SC Evo Complete Extension 1.10.2 patch notes
 description: Art Update and Balance Changes
 date:   2024-10-30 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Evo Complete Extension Update 1.10.2
+
+We have another minor patch that fixes some visual bugs, a valkyrie rework to make them more accurate to BroodWar and some other minor improvements.
+
+*This update also affects the current PTR*
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-valkyrie@scbw.png" width="50" height="50"> Valkyrie
+
+- Valkyries are now immobile during their attacks
+- Valkyrie weapon damage point 0.167 -> 0.0625
+- Valkyrie weapon backswing 0.25 -> 1.4
+- Increased Valkyries missile size
+- Fixed Valkyries having instant deceleration
+
+- Fixed Rich refineries not creating burning visuals
+- Fixed Reaver Scarabs not clearing its targeting on teleports 
+- Reaver Scarabs now have separate sound for duds
+
+- Goliath Air weapon now has visual indicator for the range upgrade
+
+- Fixed Dropship thrusters not emitting particles on low quality effects 
 
 ## Evo Complete Extension Update 1.10.1
 
