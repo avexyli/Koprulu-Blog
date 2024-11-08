@@ -14,7 +14,7 @@ Hello, everyone,
 
 This update follows an unusually in-depth PTR cycle where we investigated multiple issues, especially the state of BW Protoss vs SC2 Protoss. Overall, we are satisfied with our findings and changes here, and look forward to the next PTR cycle. We are confident that these changes will help to portray the current balance climate in a better light ahead of the $1,100 SEL Fall Championship 2024.
 
-**Since the initial rationale for many of these changes has already been discussed in the 1.11 PTR announcement posts, we will only describe them briefly here, as well our findings during testing and any adjustments based on them.** *Only changes introduced in the transition from PTR to live release will be described in detail.*
+**Since the initial rationale for many of these changes has already been discussed in the <a href="https://teamkoprulu.github.io/Koprulu-Blog/2024/10/30/post-evo-1_11-PTR/">PTR 1.11 announcement post</a>, we will only describe them briefly here, as well our findings during testing and any adjustments based on them.** *Only changes introduced in the transition from PTR to live release will be described in detail.*
 
 Once again, we would like thank all of the generous sponsors who make our work possible. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
 
@@ -47,7 +47,7 @@ We experimented with several changes to the Medic during the PTR, and found that
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
 - Decreased Lockdown duration: 41.4 -> 37.8 (Faster: 30 -> 27)
 
-During playtesting, we continued to find that BW Terran tends to have an especially forgiving window after using Lockdown to finish off the immobilized units. This was especially noticeable against SC2 Protoss, which tends to amass large numbers of high-supply units such as Colossi, Disruptors, Tempests, and Carriers. This change looks to further optimize the window in which BW Terran can punish disabled forces.
+During playtesting, we continued to find that BW Terran tends to have an especially forgiving window after using Lockdown to finish off immobilized units. This was especially noticeable against SC2 Protoss, which tends to amass large numbers of high-supply units such as Colossi, Disruptors, Tempests, and Carriers. This change looks to further optimize the window in which BW Terran can punish disabled forces.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
 - Decreased cost: 100/75 -> 100/25
@@ -57,7 +57,7 @@ This change makes drop play more accessible and helps to force a dedicated anti-
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
 - Increased Battlecruiser attack period: 1.125 -> 1.175 (Faster: 0.8 -> 0.84)
 
-This change tunes the effectiveness of Battlecruisers against high-armored foes, particularly Ultralisks and Corruptors.
+This change tunes the effectiveness of Battlecruisers against high-armor foes, particularly Ultralisks and Corruptors.
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
@@ -68,7 +68,7 @@ This change tunes the effectiveness of Battlecruisers against high-armored foes,
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
 - Increased Hydralisk attack period: 0.938 -> 1.0312 (Faster: 0.67 -> 0.74)
 
-These changes revert the overbuffing of Zerg earlygame defense from previous patches and scale down the previously unchecked aggressive potential of the Hydralisk.
+These changes mitigate the overbuffing of Zerg earlygame defense from previous patches and scale down the previously unchecked aggressive potential of the Hydralisk.
 
 ### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
 - Increased armor: 2 -> 3
@@ -81,7 +81,7 @@ These changes address BW Zerg's lack of answers to air-heavy lategame deathballs
 ![]({{site.baseurl}}/images/Divider_Protoss.png)
 
 - Increased Restore Plasma Shields regeneration speed: 14 -> 28 (Faster: 20 -> 39)
-    - *Note: This value was misreported in a previous blogpost as 20 (Faster: 28). The initial value of 14 here reflects the correct and actual value in 1.10.2.*
+    - *Note: This value was misreported in a previous blogpost as 20 (Faster: 28). The initial value of 14 (Faster: 20) here reflects the correct and actual value in 1.10.2.*
 - Decreased Observeratory build time: 28 -> 21 (Faster: 20 -> 15)
 - Increased Observatory HP: 200 -> 250
 - Increased Observatory Plasma Shields: 200 -> 250
@@ -112,15 +112,15 @@ These changes aim to make the Corsair and the Scout more viable options and over
 
 In our analysis, we also noticed a general trend, not just against SC2 Protoss but against all SC2 races: BW Protoss lacks reliable scouting information outside of committed aggression (particularly Reaver drops). Observers could help to remedy this problem, but Robotics Facility production time is greatly constrained as BW Protoss has difficulty trading efficiently without Reavers, and Shuttles are nigh-mandatory to transport them. In the earlygame, especially against SC2 Protoss, there is little time to spare for Observer production.
 
-Respecting the original design of BW Protoss, we decided not to trivialize the acquisition of Observer tech through cost decreases (for example, by making the Observatory only cost 25/25), but rather shorten the build time of the Observer and its prerequisite Observatory. We also decreased the research cost of the expensive Observer upgrades, and increased the Observatory's vitals to prevent its destruction by a single Dark Templar while warping in. We recognize that this will not be as impactful as removing the Observatory as a prerequisite, and will continue to particularly monitor the state of BW Protoss scouting and map vision.
+Respecting the original design of BW Protoss, we decided not to trivialize the acquisition of Observer tech through cost decreases (for example, by making the Observatory only cost 25/25), but rather shorten the build time of the Observer and its prerequisite Observatory. We also decreased the research cost of the expensive Observer upgrades, and increased the Observatory's vitals to prevent its destruction by a single Dark Templar while warping in. We recognize that, from a balance perspective, this will not be as impactful as removing the Observatory as a prerequisite outright, and we will continue to particularly monitor the state of BW Protoss scouting and map vision.
 
 Lastly, the healing rate of the Shield Battery's Restore ability was increased to provide adequate defense against a single Oracle, while differentiating it from the SC2 Shield Battery by maintaining a lower healing rate.
 
 ### Bug fixes & changes
 - Made slight adjustments to Scarab movement
 - Interceptors now retreat to their parent Carriers when they are affected by Stasis Field or Lockdown
-- Lockdown now plays an additional sound when the projectile is launched (similar to BW)
+- Lockdown now plays an additional sound when the projectile is launched (similar to how they do in Brood War)
 - Dark Templar no longer create an attack sound when missing their attacks
-- Fixed an issue where Cyclones would not target BW defensive structures using Lock On
+- Fixed an issue where Cyclones would not target Brood War defensive structures using Lock On
 
 ***
