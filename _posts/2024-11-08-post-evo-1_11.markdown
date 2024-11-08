@@ -1,0 +1,126 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.11 patch notes
+description: Balance Changes and Bug Fixes
+date:   2024-11-08 00:55:00 +0600
+image:  '/images/EvoExtension1_11.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+## Evo Complete Extension Update 1.11
+
+Hello, everyone,
+
+This update follows an unusually in-depth PTR cycle where we investigated multiple issues, especially the state of BW Protoss vs SC2 Protoss. Overall, we are satisfied with our findings and changes here, and look forward to the next PTR cycle. We are confident that these changes will help to portray the current balance climate in a better light ahead of the $1,100 SEL Fall Championship 2024.
+
+**Since the initial rationale for many of these changes has already been discussed in the 1.11 PTR announcement posts, we will only describe them briefly here, as well our findings during testing and any adjustments based on them.** *Only changes introduced in the transition from PTR to live release will be described in detail.*
+
+Once again, we would like thank all of the generous sponsors who make our work possible. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+
+*For the first time, all time-related changes are provided in both exact Normal and approximate Faster values. Rejoice!*
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+- Decreased Engineering Bay build time: 35 -> 30 (Faster: 25 -> 21)
+- Decreased Armory build time: 55 -> 50 (Faster: 39 -> 36)
+
+These changes speed up the prerequisites for the Missile Turret and the Goliath, respectively, to aid in defending proxy Stargate play.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+- Decreased Caduceus Reactor research cost: 100/100 -> 50/50
+- Decreased Caduceus Reactor research time: 80 -> 65 (Faster: 57 -> 46)
+- Increased Heal HP per energy: 2 -> 2.5
+
+We experimented with several changes to the Medic during the PTR, and found that some of them made Biological play too one-dimensionally strong. We believe these changes will add more opportunities for BW Terran players to extract value from their forces through careful control and build order selection.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
+- Decreased Lockdown duration: 41.4 -> 37.8 (Faster: 30 -> 27)
+
+During playtesting, we continued to find that BW Terran tends to have an especially forgiving window after using Lockdown to finish off the immobilized units. This was especially noticeable against SC2 Protoss, which tends to amass large numbers of high-supply units such as Colossi, Disruptors, Tempests, and Carriers. This change looks to further optimize the window in which BW Terran can punish disabled forces.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-dropship@scbw.png" width="50" height="50"> Dropship
+- Decreased cost: 100/75 -> 100/25
+
+This change makes drop play more accessible and helps to force a dedicated anti-drop response, especially from SC2 Zerg, while maintaining the poor movement stats of the Dropship to discourage mass drop styles, in keeping with the original design of BW Terran.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+- Increased Battlecruiser attack period: 1.125 -> 1.175 (Faster: 0.8 -> 0.84)
+
+This change tunes the effectiveness of Battlecruisers against high-armored foes, particularly Ultralisks and Corruptors.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+- Increased Sunken Colony attack period: 2 -> 2.125 (Faster: 1.43 -> 1.52)
+- Decreased Sunken Colony HP: 350 -> 325
+- Decreased Spore Colony attack range: 8.5 -> 8
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-hydralisk@scbw.png" width="50" height="50"> Hydralisk
+- Increased Hydralisk attack period: 0.938 -> 1.0312 (Faster: 0.67 -> 0.74)
+
+These changes revert the overbuffing of Zerg earlygame defense from previous patches and scale down the previously unchecked aggressive potential of the Hydralisk.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
+- Increased armor: 2 -> 3
+- Increased base damage: 20.25 {+1.5/upgrade} -> 22.5 {+2.25/upgrade}
+    - Damage vs Armored: 27 {+2/upgrade} -> 30 {+3/upgrade}
+- Increased HP: 250 -> 275
+
+These changes address BW Zerg's lack of answers to air-heavy lategame deathballs by making the Devourer more durable, as well as more effective in hit-and-run maneuvers.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Increased Restore Plasma Shields regeneration speed: 14 -> 28 (Faster: 20 -> 39)
+    - *Note: This value was misreported in a previous blogpost as 20 (Faster: 28). The initial value of 14 here reflects the correct and actual value in 1.10.2.*
+- Decreased Observeratory build time: 28 -> 21 (Faster: 20 -> 15)
+- Increased Observatory HP: 200 -> 250
+- Increased Observatory Plasma Shields: 200 -> 250
+- Decreased Stargate cost: 150/150 -> 150/100
+- Decreased Fleet Beacon cost: 250/200 -> 200/150
+- Increased Arbiter Tribunal cost: 200/150 -> 250/200
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
+- Reaver attack damage: 100 -> 105 (+50 vs Shields)
+- Scarab Damage upgrade damage bonus: 25 -> 20 (+35 vs Shields)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-observer.png" width="50" height="50"> Observer
+- Decreased Observer build time: 14 -> 10 (Normal Speed: 20 -> 14)
+- Decreased Gravitic Booster research cost: 100/100 -> 50/50
+- Decreased Sensor Array research cost: 100/100 -> 50/50
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
+- Increased Scout anti-ground attack period: 1.6875 -> 1.875 (Faster: 1.21 -> 1.34)
+- Increased Scout anti-ground damage: 9 {+1/upgrade} -> 10 {+1/upgrade} (+5 vs Shields)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
+- Increased Carrier Capacity research cost: 100/100 -> 200/200
+- Increased Carrier Capacity research time: 80 -> 90 (Faster: 57 -> 64)
+
+Protoss players in the StarCraft Evolution League biweeklies have been much less likely than their Terran and Zerg counterparts to select Brood War over StarCraft 2, especially in a mirror match against a Protoss opponent. Due to this striking disparity, we focused our efforts on investigating the state of BW Protoss matchups in this PTR cycle.
+
+These changes aim to make the Corsair and the Scout more viable options and overall promote the use of Stargate technology (especially against SC2 Protoss), while maintaining the same difficulty of transitioning into Carriers and Arbiters. They also turn the Reaver into an effective backbone unit against enemies with Plasma Shields, drastically improving the frontal fighting power of BW Protoss against SC2 Protoss. As per user feedback, the compensating increase in cost to Carrier Capacity research was partially mitigated with an increase in research time instead.
+
+In our analysis, we also noticed a general trend, not just against SC2 Protoss but against all SC2 races: BW Protoss lacks reliable scouting information outside of committed aggression (particularly Reaver drops). Observers could help to remedy this problem, but Robotics Facility production time is greatly constrained as BW Protoss has difficulty trading efficiently without Reavers, and Shuttles are nigh-mandatory to transport them. In the earlygame, especially against SC2 Protoss, there is little time to spare for Observer production.
+
+Respecting the original design of BW Protoss, we decided not to trivialize the acquisition of Observer tech through cost decreases (for example, by making the Observatory only cost 25/25), but rather shorten the build time of the Observer and its prerequisite Observatory. We also decreased the research cost of the expensive Observer upgrades, and increased the Observatory's vitals to prevent its destruction by a single Dark Templar while warping in. We recognize that this will not be as impactful as removing the Observatory as a prerequisite, and will continue to particularly monitor the state of BW Protoss scouting and map vision.
+
+Lastly, the healing rate of the Shield Battery's Restore ability was increased to provide adequate defense against a single Oracle, while differentiating it from the SC2 Shield Battery by maintaining a lower healing rate.
+
+### Bug fixes & changes
+- Made slight adjustments to Scarab movement
+- Interceptors now retreat to their parent Carriers when they are affected by Stasis Field or Lockdown
+- Lockdown now plays an additional sound when the projectile is launched (similar to BW)
+- Dark Templar no longer create an attack sound when missing their attacks
+- Fixed an issue where Cyclones would not target BW defensive structures using Lock On
+
+***

@@ -5,7 +5,6 @@ description: Art Update and Balance Changes
 date:   2024-11-05 11:13:35 +0600
 image:  '/images/EvoExtension1_10.png'
 tags:   [Extension, Update]
-featured: true
 ---
 
 ## Evo Complete Extension Update 1.10.2
