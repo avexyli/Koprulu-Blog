@@ -1,12 +1,21 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.11 patch notes
+title:  SC Evo Complete Extension 1.11.1 patch notes
 description: Balance Changes and Bug Fixes
 date:   2024-11-08 00:55:00 +0600
 image:  '/images/EvoExtension1_11.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Evo Complete Extension Update 1.11.1
+
+We have another minor update to addres some erroneous interactions between spells as well as added some new visual indicators for Disruption Web.
+
+- Hallucinated Reavers can now launch fake scarabs
+- Disruption Web affected targets now gain visual indicator on their weapons
+- Fixed Scarab targeting not clearing on recall teleports
+- Fixed Recall & Disruption web visuals being visible behind line of sight blockers
 
 ## Evo Complete Extension Update 1.11
 
