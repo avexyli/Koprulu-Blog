@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.11.1 patch notes
+title:  SC Evo Complete Extension 1.11.2 patch notes
 description: Balance Changes and Bug Fixes
 date:   2024-11-08 00:55:00 +0600
 image:  '/images/EvoExtension1_11.png'
