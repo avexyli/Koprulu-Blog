@@ -8,6 +8,39 @@ tags:   [Extension, Update]
 featured: true
 ---
 
+## Evo Complete Extension Update 1.11.2
+
+This update contains a few changes to address the ease of controlling BW Protoss' basic units. In particular, we hope that they will have an outsized effect at lower levels of play. We are aware of the possibility of further changes, but they will be reserved for the next PTR cycle.
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+
+- Decreased Plasma Shields: 70 -> 60
+
+Early Zealot pressure tends to be very strong and easy to execute, and this has only become more true with their recent attack period buff. We would like to tune this down by making the Zealot slightly less durable.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50"> Dragoon
+
+- Increased Singularity Charge research time: 150 -> 175 (Faster: 107 -> 125)
+
+One of the key interactions in the early game between BW Protoss and SC2 Terran is when Dragoons begin attacking the Terran's natural Bunker. When Singularity Charge completes, the Bunker will inevitably fall, unless Marauders or Siege Tanks are present. In practice, only Siege Tanks are a viable response as Terran cannot afford the infrastructure for enough Marauders.
+
+The window in which Terran must complete a Siege Tank or forfeit their Bunker (and consequently, their natural base) offers little time to use early Factory production time to inflict counterdamage. For something which essentially entails no risk from the BW Protoss player, we feel that this interaction is quite lopsided. Giving Terran some additional time to generate threats across the map should help to even out the earlygame.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-hightemplar@scbw.png" width="50" height="50"> High Templar
+
+- Psionic Storm initial delay: 0.1875 -> 0.42 (Faster: 0.13 -> 0.3)
+    - This is the delay between the beginning of the Psionic Storm animation and the first instance of damage.
+
+One of the most exciting parts of BW Protoss, according to both players and viewers of the gamemode, is the Psionic Storm animation. Unfortunately, it is also one of the more frustrating parts for those who face it. In contrast to SC2's Psionic Storm, the BW Psionic Storm lacks strong audiovisual cues, delaying response time. Combined with slightly faster and significant stronger damage ticks, this makes the BW Psionic Storm unnaturally difficult to play against. We feel that increasing the initial delay will improve counterplay against Psionic Storm in zoning situations, while not hurting its efficacy in large-scale confrontations.
+
+***
+
 ## Evo Complete Extension Update 1.11.1
 
 We have another minor update to addres some erroneous interactions between spells as well as added some new visual indicators for Disruption Web.
@@ -16,6 +49,8 @@ We have another minor update to addres some erroneous interactions between spell
 - Disruption Web affected targets now gain visual indicator on their weapons
 - Fixed Scarab targeting not clearing on recall teleports
 - Fixed Recall & Disruption web visuals being visible behind line of sight blockers
+
+***
 
 ## Evo Complete Extension Update 1.11
 
