@@ -1,12 +1,70 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.11.2 patch notes
-description: Balance Changes and Bug Fixes
-date:   2024-11-08 00:55:00 +0600
-image:  '/images/EvoExtension1_11.png'
+title:  SC Evo Complete Extension 1.11.3 patch notes
+description: Balance Changes and New Models
+date:   2024-11-15 00:55:00 +0600
+image:  '/images/EvoExtension1_11_3.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Evo Complete Extension Update 1.11.3
+
+This update implements a few more changes to check the strength of early aggression, ahead of the SEL Fall Championship.
+
+Sadly due to issues with Blizzard's Servers in the reigon of South Korea we were unable to deploy the update, as soon as they're back online we will continue attempting to deploy the update.
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Classic StarCraft 1 Skins are now disabled while playing as BroodWar Races
+
+*Previously we had issues with this feature and is now fully working*
+
+- Added New Marine Model
+- Added New Shuttle Model
+- Added New Dark Archon Model
+- Added new Zergling Model
+
+![]({{site.baseurl}}/images/modelpreview-largedrop.png)
+
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-marine@scbw.png" width="50" height="50"> Marine
+
+- Increased production time: 24 -> 25 (Faster: 17 -> 18)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-firebat@scbw.png" width="50" height="50"> Firebat
+
+- Increased production time: 24 -> 25 (Faster: 17 -> 18)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+
+- Increased production time: 24 -> 25 (Faster: 17 -> 18)
+
+In previous patches, the build time of the Barracks and other infantry-related technology was sped up. In particular, this impacted proxy aggression. Therefore, we are tuning this back by slightly decreasing the production time of the basic Biological units.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-collection-drone-remastered.png" width="50" height="50"> Drone
+
+- Increased attack period: 1.5 -> 1.6 (Faster: 1.07 -> 1.14)
+
+BW Zerg has a very strong 12 Pool Drone pull against SC2 Protoss, which is difficult to hold even when scouted. Considering the strength of BW Zerglings, we are adjusting the DPS of Drones to compensate.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+
+- Increase Plasma Shields: 60 -> 65
+
+We previously nerfed reduced the Plasma Shields of the Zealot from 70 to 60. We are partly reverting this change to match the relative severity of the other nerfs, as well as mitigate the detriment to BW Protoss in macro games.
+
+***
 
 ## Evo Complete Extension Update 1.11.2
 
