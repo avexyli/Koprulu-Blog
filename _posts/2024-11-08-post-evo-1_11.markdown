@@ -16,9 +16,7 @@ Sadly due to issues with Blizzard's Servers in the reigon of South Korea we were
 
 ![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
-- Classic StarCraft 1 Skins are now disabled while playing as BroodWar Races
-
-*Previously we had issues with this feature and is now fully working*
+- Classic StarCraft 1 Skins are now disabled while playing as StarCraft 2 Races
 
 - Added New Marine Model
 - Added New Shuttle Model
