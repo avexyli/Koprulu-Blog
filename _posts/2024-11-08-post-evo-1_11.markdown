@@ -1,12 +1,48 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.11.3 patch notes
-description: Balance Changes and New Models
-date:   2024-11-15 00:55:00 +0600
+title:  SC Evo Complete Extension 1.11.4 patch notes
+description: New Defiler Mound Model!
+date:   2024-11-23 00:55:00 +0600
 image:  '/images/EvoExtension1_11_3.png'
 tags:   [Extension, Update]
 featured: true
 ---
+
+## Evo Complete Extension Update 1.11.4
+
+Hey everyone while players are duking it out in the amazing Group Stage for the SEL we've continued work on several fronts but mostly we wanted to release our new Defiler Mound model as well as fixing several bugs.
+
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
+
+- Added New Defiler Mound Model
+
+*This one has been a long time coming and we'd like to thank TOP for sponsoring the creation of this model and its animations*
+
+![]({{site.baseurl}}/images/modelpreview-defilermound.png)
+
+### Bug fixes & changes
+
+- StarCraft 1 Soundtrack will now properly play while watching as an Observer
+- SC1 Ghost Nuclear launch no longer plays an extra sound at the target location for enemy players __(Multi)__
+- Updated Reaver Weapon Tooltips
+- Updated Marine Ragdoll Death Models
+- Updated Marine Attack Animations
+- Added New Marine Animation State while U-238 Upgrade is active
+- Updated Citadel of Adun Placement and WarpIn Models
+- Updated Observatory Placement and WarpIn Models
+- Updated Arbiter Tribunal Placement and WarpIn Models
+- Updated Dark Archon icons
+- Updated Shield Battery rotation to match SC1
+- Fixed Ghost Weapons Free ability removing all buffs & debuffs from the unit
+- Fixed Zealots not being able to re-target correctly during their weapon swing.
+- Fixed Valkyries being able to keep firing at grounded targets. (Landed Vikings, Phoenix Lift, Landed Locusts)
+- Fixed Lockdown visual sometimes appearing through fog of war
+- Fixed Spider Mine detonation not always correctly killing other nearby spider mines __(Multi)__
+- Fixed issue with Zergling death particles
+- Fixed Widow Mines being able to target Larva __(Multi)__
+- Fixed Widow Mines auto targeting on Larva Eggs __(Multi)__
+
+***
 
 ## Evo Complete Extension Update 1.11.3
 
@@ -21,7 +57,7 @@ Sadly due to issues with Blizzard's Servers in the reigon of South Korea we were
 - Added New Marine Model
 - Added New Shuttle Model
 - Added New Dark Archon Model
-- Added new Zergling Model
+- Added New Zergling Model
 
 ![]({{site.baseurl}}/images/modelpreview-largedrop.png)
 
