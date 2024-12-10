@@ -64,7 +64,7 @@ Spirit's games in the SEL Fall Championship demonstrated that the Goliath is str
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
 - Increased attack period: 0.58 -> 0.60 [0.41 -> 0.43]
 
 Back when Patch 1.7 was released after the Chzzk Cup, the BW races were still overall weak, and they received some massive buffs to their basic core units in order to keep up with their SC2 adversaries. Now, the BW races are in a good spot, and we can fully revert some of these changes. One of the affected units is the Zergling, which we think is a bit too strong and whose attack period we are fully reverting to its pre-1.7 value.

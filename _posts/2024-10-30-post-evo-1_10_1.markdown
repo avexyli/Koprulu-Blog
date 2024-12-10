@@ -96,7 +96,7 @@ As always thank you to all our Patreons and Donors for all their help in funding
 
 ***This means that their attacks no longer have a travel time and will hit units instantly**
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker.png" width="50" height="50"> Lurker
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-lurker@scbw.png" width="50" height="50"> Lurker
 - Reduced Weapon Range from 7.5 -> 7.0
 - Reduced Health from 145 -> 140
 
