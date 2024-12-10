@@ -1,0 +1,178 @@
+---
+layout: post
+title:  SC Evo Complete PTR 1.12 patch notes
+description: Balance Update
+date:   2024-12-03 22:00:00 +0600
+image:  '/images/EvoPTR1_12.png'
+tags:   [Extension, Update]
+featured: true
+---
+
+Hello to all SC: Evo Complete fans,
+
+Today, we mark the beginning of another PTR cycle with a new set of balance changes.
+
+The 5.0.14 SC2 patch has introduced numerous disruptive changes to each of the SC2 races, and we are dedicated to adjusting the BW races accordingly. In particular, we are interested in the effects of Energy Recharge on the earlygame and the Ghost supply nerf on the lategame. 
+
+We discussed many possible changes to the BW races internally, but not every one of them made it to this update, and their later inclusion may depend our findings from this PTR cycle. As such, please be aware that the changes are not final, and we may add or remove changes as well as adjust existing ones.
+
+Although the SEL is currently on hiatus, we hope you will continue to help us improve multiplayer balance by testing the changes and providing your feedback in the **#ptr-feedback** channel on the Project Koprulu Discord server.
+
+Before we proceed with the changes, we once again would like thank our generous sponsors to enabling our work here. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+*Please note: All time values are provided in Normal Speed [Faster Speed]*
+
+**Goals for this patch:**
+- Continue adjusting the design of unit interactions in each matchup
+- Tone down the strength of Terran and Zerg, who appear to be overperforming in tournaments
+- Address the lack of opener variety for Protoss
+    - (We believe Terran and Zerg are currently not starved for openers)
+
+**A few notes:**
+As a celebration of over two decades of StarCraft's rich history and strategic depth, SC: Evo Complete is designed for competitive play on a varied map pool, including not only modern StarCraft II maps and the more standard 4-spawn Brood War maps, but also less orthodox maps from both titles as well. While we consider a wide spectrum of maps when creating patches, balance on any one particular map is not guaranteed. As such, you may find that your favorite maps are not well-balanced in certain matchups.
+
+Moreover, please rememeber that SC: Evo Complete is not balanced for BW vs BW matchups; it is only balanced for BW vs SC2 matchups. All the BW races have received significant buffs from their original iterations in order to properly compete with SC2 races, and some of these changes break certain fundamental interactions between the BW races.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
+- Cloak Ghost now requires research at the **Covert Ops** to be unlocked
+    - Resarch cost: 100/100
+    - Research time: 49 seconds [35 seconds]
+- Decreased Lockdown range: 10 -> 9
+
+For the last few patches, the Ghost has been a definitive lategame unit against SC2 Terran and SC2 Protoss. Increases in HP and movement speed on top of the massive Lockdown range have allowed it to all but outright avoid prolonged interaction with enemy forces. We think that using Lockdown should entail more risk, and that there is some more room for BW Terran players to diversify their army compositions against SC2 Terran and Protoss opponents, so we are reducing the range of Lockdown. In addition, we are requiring Cloak to be researched in order to better align the unit with its original BW counterpart and further hinder its power.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+- Increased movement acceleration: 6.25 -> 9.25 [8.75 -> 12.95]
+
+Even with good control, the Vulture is a sluggish unit. This change should allow players to properly extract value from it.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+- Increased anti-ground weapon attack period: 1.2375 -> 1.3125 [0.88 -> 0.94]
+
+Spirit's games in the SEL Fall Championship demonstrated that the Goliath is strong even when massed on its own. We are reducing its anti-ground capabilities to affirm its role as an anti-air unit and encourage more diverse army compositions.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ZerglingSCBW.png" width="50" height="50"> Zergling
+- Increased attack period: 0.58 -> 0.60 [0.41 -> 0.43]
+
+Back when Patch 1.7 was released after the Chzzk Cup, the BW races were still overall weak, and they received some massive buffs to their basic core units in order to keep up with their SC2 adversaries. Now, the BW races are in a good spot, and we can fully revert some of these changes. One of the affected units is the Zergling, which we think is a bit too strong and whose attack period we are fully reverting to its pre-1.7 value.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk-remastered.png" width="50" height="50"> Ultralisk
+- Decreased cost: 200/200 -> 175/175
+- Increased model size
+- Increased unit radius: 0.8125 -> 0.875
+- Increased allied push priority: 0 -> 1
+
+The Ultralisk is a seldom-used unit. We feel that it is prohibitively expensive, so we are reducing its cost. The Ultralisk is also receiving an increased model size and push priority to match its SC2 counterpart.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Queen
+- Ensnare now requires research at the **Queen's Nest** to be unlocked
+    - Research cost: 100/100
+    - Research time: 49 seconds [35 seconds]
+
+Queen timings mark a massive power spike for BW Zerg heading into the lategame, particularly due to Ensnare not having any prerequisites. This is especially impactful in ZvZ, where Hydralisk-Ensnare is practically unanswerable. This change aims to delay the timing at which Ensnare comes online, while not delaying the availability of Hive tech.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
+- Decreased Devourer HP: 275 -> 250
+
+The Devourer's HP was increased to 275 in a previous patch specifically to allow it to survive two uses of Steady Targeting. As the SC2 Ghost's supply was increased from 2 to 3, we no longer feel the increased HP is necessary.
+
+(We are open to the possibility of adjusting the HP of other Zerg units based on a similar rationale.)
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Universal shield regeneration rate: 0.4375 -> 0.711 [0.6125 -> 0.9954]
+
+BW Protoss units that lose their Plasma Shields tend to be crippled beyond usefulness. Although we are aware it could become overwhelming, we would like to create opportunities to make decisions about whether or not to retreat from fights by allowing more effective shield regeneration out-of-combat.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+- Decreased attack uninterruptible duration: 0.3125 -> 0.28 [0.22 -> 0.20]
+    - The Zealot cannot move for this duration, after beginning its attack.
+
+This change is intended to help the Zealot miss fewer attacks.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50"> Dragoon
+- Increased HP: 100 -> 110
+- Decreased Plasma Shields: 80 -> 70
+- Decreased Singularity Charge research time: 175 -> 150 [125 -> 107]
+
+This adjustment to HP and Plasma Shields maintains the same total vitals on the Dragoon while allowing it to survive one use of the Disruptor's Disruption Nova. We are also reverting the increase of Singularity Charge research time from last patch, as the side effects were more severe than anticipated. We will continue looking for other ways to improve the design of SC2 Terran interactions against BW Protoss.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
+- Increased HP: 100 -> 110
+- Decreased Plasma Shields: 80 -> 70
+- Decreased attack damage: 105 (+50 vs Shields) -> 100 (+55 vs Shields)
+- Increased Scarab Damage attack damage bonus: 20 (+35 vs Shields) -> 25 (+30 vs Shields)
+- Increased damage point: 0 -> 0.0625 [0 -> 0.04] (Core)
+- Decreased Scarab movement speed: 9 -> 8 [12.6 -> 11.2]
+
+Like the Dragoon, this adjustment to HP and Plasma Shields maintains the same total vitals on the Reaver while allowing it to survive one use of the Disruptor's Disruption Nova. The decreased Scarab movement speed is a design change intended to give opponents more time to react to them. Lastly, the Reaver's base damage was reduced to avoid adversely affecting certain unit interactions, particularly against SC2 Terran, and this amount was moved back to the Scarab Damage upgrade.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
+- Decreased Scout anti-ground weapon attack damage: 10 (+1) -> 9 (+1) 
+- Increased Scout anti-ground weapon attack damage bonus: +5 vs Shields -> +6 vs Light
+- Decreased Scout anti-ground weapon attack period: 1.875 -> 1.6875 [1.34 -> 1.21]
+
+Given the current state of BW Protoss vs SC2 Protoss, the removal of Battery Overcharge, and the changes to the Disruptor accompanied by the Dragoon and Reaver vitals changes, we no longer feel that the Scout needs anti-Shield bonus damage on its anti-ground weapon. Instead, we would like to have it fill a different niche.
+
+Dragoons perform decently against tagless and Armored units, but they struggle against Light units, especially Zerglings. As such, simply taking a 3rd base against SC2 Zerg or rotating to defend Marine drops against SC2 Terran are sore points for them. Allowing the Scout to kill Light ground units more easily should enable opening with the Stargate, especially against SC2 Zerg, where Scouts can hunt Overlords, kill Drones, and provide defense against Zerglings.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+- Decreased Stasis Field duration: 46 -> 28 [33 -> 20]
+- Decreased Stasis Field range: 9 -> 8
+
+Stasis Field currently has an unreasonably long duration. Its effect is already inherently strong, even for it being gated behind an expensive lategame unit, so we are making counterplay options more feasible by reducing its range as well.
+
+### Bug Fixes and Changes
+- Miss-chance feature is now enabled for all ranged BW and SC2 weapons
+    - Ranged attacks from low-ground units targeting high-ground units have a 53.125% chance of missing
+    - Ranged attacks from units outside a shrub to 
+    - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
+    - Splash effects will be offset if the weapon misses
+    - Weapons marked with 'Pierce' type will never miss
+- Workers will now show their festive spirit!
+- Updated the visuals of all Mineral Fields
+- Updated BW SCV's construction fidget timings to match 5.0.14 SC2 SCV's values
+- Workers no longer count as Idle while waiting on constructing Gas Geysers.
+- Main structures now auto-rally to closest mineral field
+- Main structures now auto rally to closest mineral field
+- Cyclone Lock On ability is now considered a Spell, and can target and hit units inside Dark Swarm.
+- Disruption Web no longer disables Cyclone Lock On
+- Ensnare no longer affects Cyclone Lock On cooldown
+- Burrowed units will no longer be excluded from Splash damage middle and outer search areas
+- Ensnare, Maelstrom and Stasis can now target burrowed units
+- Lowered Observer Subgroup priority.
+- Lowered Ultralisk Subgroup priority.
+- Improved visual feedback for Nydus Canal to display where the Nydus Canal is connected to.
+- Scarabs now display in the observer production & units panel.
+- Reavers can now cancel launched scarabs with stop command if no other orders are issued.
+- Reduced the distance Reavers chase their targets when attack moving.
+- Dark Archon Mind Control default hotkey: R -> C 
+- Ghost Lockdown default hotkey: W -> E 
+- Ghost & Wraith Cloak hotkeys are now separated from SC2 Cloak hotkeys.
+- SC1 Burrow hotkeys are now separated from SC2 Burrow hotkeys.
+- Added Passive command card buttons for units to indicate possible upgrades.
+- Reorganized some Command Card layouts to match SC2, this change is mainly for Grid Hotkey layout to have similiar experience playing with SC2 & SC1 races.
+- Fixed armor caluclations being incorrect for Explosive and Concussive splash area effects.
+- Fixed Rich Assimilators, Refineries, Extractors displaying separate icons for observer panels
+- Fixed Nydus Canal being able to unload at wrong location if multiple Nydus Canals were in use.
+- Fixed bug where Nydus Canal entrance would not get killed if Exit location died during construction
+- Fixed Reaver not being able to target and kill certain destructible units in some maps.
+- Fixed Reaver sharing its hotkey with Colossus.
+- Fixed some unit & upgrade score values not matching their costs.
+- Fixed bug where SC1 Hydralisk Den provided tech for SC2 race.
+- Fixed burrowed Defilers not gaining energy upgrade.
+
+***
