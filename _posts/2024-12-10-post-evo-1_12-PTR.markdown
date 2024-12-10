@@ -147,7 +147,6 @@ Stasis Field currently has an unreasonably long duration. Its effect is already 
 - Updated BW SCV's construction fidget timings to match 5.0.14 SC2 SCV's values
 - Workers no longer count as Idle while waiting on constructing Gas Geysers.
 - Main structures now auto-rally to closest mineral field
-- Main structures now auto rally to closest mineral field
 - Cyclone Lock On ability is now considered a Spell, and can target and hit units inside Dark Swarm.
 - Disruption Web no longer disables Cyclone Lock On
 - Ensnare no longer affects Cyclone Lock On cooldown
