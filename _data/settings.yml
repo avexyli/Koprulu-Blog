@@ -33,7 +33,7 @@ hero:
 #-------------------------------
 # Contact Settings
 contact:
-  email: # Add your email for contact form
+  email: koprulukat@gmail.com # Add your email for contact form
   description: Norlin comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
@@ -43,14 +43,8 @@ contact:
 #-------------------------------
 # Footer section
 social:
-#- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-#- {icon: "fa-brands fa-facebook-f", name: "Facebook", link: "https://facebook.com"}
-#- {icon: "fa-brands fa-dribbble", name: "Dribbble", link: "https://dribbble.com"}
-#- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
-#- {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/@StarCraftEvo"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/TeamKoprulu/SCEvoComplete""}
-#- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com/"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/TeamKoprulu/SCEvoComplete"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social/"}
 # Other icons can be found at https://fontawesome.com/icons
