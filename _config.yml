@@ -66,7 +66,7 @@ mailchimp-identifier: # Add your MailChimp form identifier. For example - blogen
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: /:title
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -88,7 +88,6 @@ include:
 # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
-tag_permalink_style:  pretty
 
 sass:
   sass_dir: _sass
