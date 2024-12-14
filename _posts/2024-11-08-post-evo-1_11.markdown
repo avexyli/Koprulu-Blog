@@ -4,7 +4,7 @@ title:  SC Evo Complete Extension 1.11.4 patch notes
 description: New Defiler Mound Model!
 date:   2024-11-23 00:55:00 +0600
 image:  '/images/EvoExtension1_11_3.png'
-tags:   [Extension, Update]
+tags:   [Extension, New Model, Balance, Bugfixes]
 ---
 
 ## Evo Complete Extension Update 1.11.4

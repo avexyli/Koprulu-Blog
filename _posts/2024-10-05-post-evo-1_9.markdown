@@ -4,7 +4,7 @@ title:  SC Evo Complete Extension 1.9.3 patch notes
 description: Balance Patch and New Models
 date:   2024-10-05 11:13:35 +0600
 image:  '/images/EvoExtension1_9.png'
-tags:   [Extension, Update]
+tags:   [Extension, New Model, Balance, Bugfixes]
 ---
 
 ## Update 1.9.3

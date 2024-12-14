@@ -4,7 +4,7 @@ title:  SC Evo Complete Extension 1.4 patch notes
 description: Minor Bugfixes and New Models!
 date:   2024-06-01 00:21:35 +0600
 image:  '/images/EvoExtension1_4.png'
-tags:   [Extension, Update]
+tags:   [Extension, New Model, Balance, Bugfixes]
 ---
 
 ## Evo Complete Extension Update 1.4

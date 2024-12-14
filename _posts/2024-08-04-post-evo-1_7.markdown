@@ -4,7 +4,7 @@ title:  SC Evo Complete Extension 1.7 patch notes
 description: Balance Patch and Development News
 date:   2024-08-06 11:13:35 +0600
 image:  '/images/EvoExtension1_7.png'
-tags:   [Extension, Update]
+tags:   [Developer Update, Extension, New Model, Balance]
 ---
 
 ## Evo Complete Extension Update 1.7

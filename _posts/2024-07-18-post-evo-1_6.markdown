@@ -4,7 +4,7 @@ title:  SC Evo Complete Extension 1.6 patch notes
 description: Minor Balance Patch and Legacy Update
 date:   2024-07-18 00:21:35 +0600
 image:  '/images/EvoExtension1_6.png'
-tags:   [Extension, Legacy, Update]
+tags:   [Extension, Legacy, Bugfixes, Balance]
 ---
 
 ## Evo Complete Extension Update 1.6

@@ -4,7 +4,7 @@ title:  SC Evo Complete PTR 1.11 patch notes
 description: Art Update and Balance Changes
 date:   2024-10-30 11:13:35 +0600
 image:  '/images/EvoPTR1_11.png'
-tags:   [Extension, Update]
+tags:   [PTR, Extension, Balance, Bugfixes]
 ---
 
 ### Note: As of Nov 3, 2024, there are further updates to the 1.11 PTR. They will be tested through the coming weekend, and be pushed to the official live version before the SEL Fall Championship. Please see just below the introductory paragraph for the latest changes.
