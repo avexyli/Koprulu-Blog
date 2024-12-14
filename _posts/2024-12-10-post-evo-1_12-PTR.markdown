@@ -2,11 +2,15 @@
 layout: post
 title:  SC Evo Complete PTR 1.12 patch notes
 description: Balance Update
-date:   2024-12-10 04:00:00 +0600
+date:   2024-12-14 04:00:00 +0600
 image:  '/images/EvoPTR1_12.png'
 tags:   [PTR, Extension, Seasonal Event, New Model, Balance, Bugfixes]
 featured: true
 ---
+
+### Note: As of December 14, 2024, there are further updates to the 1.12 PTR. Please see just below the introductory paragraph for the latest changes.
+
+## SC Evo Complete PTR 1.12 patch notes
 
 Hello to all SC: Evo Complete fans,
 
@@ -26,9 +30,61 @@ Before we proceed with the changes, we once again would like thank our generous 
 
 ***
 
+{: .tip }
+The updated PTR notes begin here.
+
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
-### Balance Changes
+### Balance Changes - Part 2 (December 14, 2024)
+*Please note: All time values are provided in Normal Speed [Faster Speed]*
+
+**Goals for this patch:**
+In addition to our previous goals, we also remain dedicated to giving players new tools to explore and optimize, even when we feel their race is overall in need of nerfs.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-wraith@scbw.png" width="50" height="50"> Wraith
+- Decreased Cloaking Field research time: 110 -> 80 [79 -> 57]
+- Decreased Apollo Reactor research cost: 150/150 -> 50/50
+
+While the Wraith is not an entirely irrelevant unit, we believe there is room for it to see more play. Allowing the full potential of the Wraith's cloaking power to be unlocked sooner should help with this.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+- Decreased cost: 400/300 -> 325/225
+- Increased movement speed: 2 -> 2.25 [2.8 -> 3.15]
+- Decreased Yamato Gun energy cost: 125 -> 100
+
+The Battlecruiser is possibly the least used unit in the game; in addition to being a lategame unit for a race which strives to defeat its opponents sooner rather than later, it is simply too expensive to be a worthwhile investment. Unlike with other previously underutilized units, such as the Scout, the relative lack of BW Terran lategame replays to study leaves us somewhat unsure about the right niche for the Battlecruiser in the various matchups, but nevertheless we think a few things can be done for it.
+
+First, its prohibitively high cost has been reduced. The Battlecruiser is poor in direct engagements except with Yamato Gun charges on standby, and even then, there are numerous options for counterplay.
+
+Second, its movement speed has been increased. Since the Battlecruiser lacks the Tactical Jump of its SC2 counterpart, it is prone to being caught in bad situations with no good options to retreat. This particular value for movement speed at least allows it to outrun other large ships, and enhances its utility for skirmishing and runbys.
+
+Third, Yamato Gun has had its energy cost reduced. This allows Battlecruiser fleets to more quickly obtain the Yamato Gun charges they need to eventually be a threat in direct confrontations.
+
+We realize that these changes to the Battlecruiser are quite substantial, and it is likely they will not make it to the official v1.12 unchanged. However, this PTR cycle gives us an opportunity to explore their effects, and we hope to once again use this time to glean critical insight.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
+- Increased attack range: 5 -> 6
+- Increased attack AoE damage radii:
+    - 100% zone: 0.17 -> 1.0834 (~1/3 radius of 25% zone)
+    - 50% zone: 1.65 -> 2.1667 (~2/3 radius of 25% zone)
+- Increased base damage: 3.75 {+0.75/upgrade} -> 4.5 {+0.75/upgrade}
+    - Damage vs Armored: 5 {+1/upgrade} -> 6 {+1/upgrade}
+
+Recently, MC's community games day with the Latin American community gave us a crucial opportunity to see the new Scout in action, and it thoroughly impressed us. Now, we would like to give the Corsair a makeover as well.
+
+The Corsair has long been the first responder to Mutalisks in Brood War, but not only are SC2 Mutalisks faster, but they quickly heal off any damage they receive. Likewise, the overall power and versatility of SC2 air units has long left the Corsair in a difficult spot, too weak to fill their early defensive role or pose an threat out on the map without committing to excessively large numbers of them.
+
+Not only is the Corsair receiving a direct damage buff, but widened AoE damage zones will allow it to deal more damage to several targets at once. Lastly, rather than directly enhance the Corsair's mobility to fight Mutalisks (a change that would make the Corsair oppressively mobile in large numbers), we have enhanced its range to better suit its defensive role.
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes - Part 1 (December 10, 2024)
 *Please note: All time values are provided in Normal Speed [Faster Speed]*
 
 **Goals for this patch:**
