@@ -36,9 +36,13 @@ Updates over the past year for multiplayer include:
 
 - Art updates
 This year alone we added over 25 New Models, 17 of which were brand new Sculpted models from scratch, not including the huge number of changes we made to existing models.
+
+![]({{site.baseurl}}/images/Units_2024.png)
  
 - Competitive map pool updates
 Classic maps that have accompanied us for over the last two decades have been faithfully recreated. To achieve this, custom textures, models, and other assets are developed. As of now, we have released 14 competitive maps. Additionally, many enthusiastic community authors have created numerous high-quality custom maps. A heartfelt thank you to them! These maps, prefixed with “[SC:EVO Official],” are available for players to experience in custom games.
+
+![]({{site.baseurl}}/images/Map_Pool.png)
  
 - New skin system
 We have introduced experimental skin settings, including classic Brood War style buttons and the Daelaam Protoss Nexus. We're working to expand this system with new skins as well as a revamped UI for skin viewing and selection.
@@ -49,9 +53,9 @@ Planned updates for Multiplayer include:
 
 Although we have iterated on models and textures multiple times over the past year, there is still some distance to our goal. In future updates, we will accelerate the pace of art updates, bringing you a full suite of StarCraft 1 building, unit, and effect models.
 
-![](/images/modelpreview-wipreaver.png)
-![](/images/modelpreview-wipassimilator.png)
-![](/images/modelpreview-wipevochamber.png)
+![]({{site.baseurl}}/images/modelpreview-wipreaver.png)
+![]({{site.baseurl}}/images/modelpreview-wipassimilator.png)
+![]({{site.baseurl}}/images/modelpreview-wipevochamber.png)
 
 - Ranking system
 
@@ -63,7 +67,7 @@ Do not however that this Ranking System will only be made available via an Arcad
 
 To enhance the competitive experience and highlight the unique features of the SC:EVO project, we plan to adjust the game lobby interface. This update is part of the user interface changes mentioned under the “ranking system” section. Currently, we have only a rough concept sketch to share. If you have better ideas, feel free to let us know!
 
-![](/images/LadderMockup.png)
+![]({{site.baseurl}}/images/LadderMockup.png)
 *1v1 UI Mockup*
  
 - More competitive maps
@@ -73,7 +77,7 @@ Although the development of competitive maps started late, the map creators have
 
 ## Campaign 
 
-![](/images/Mission5Showcase.png)
+![]({{site.baseurl}}/images/Mission5Showcase.png)
 *Mission 5 Showcase Images*
 
 Design Philosophy
