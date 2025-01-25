@@ -25,7 +25,9 @@ As always thank you to all our generous sponsors for allowing us to continue to 
 ### Introduction to Ladder Mode
 
 For a while now, we've wanted to offer competitive players something to work toward and showcase their knowledge and skill of the game. So to that end, we've been working on the SC: Evo Ladder mode which acts as a replacement to custom game lobbies; allowing players to play against each other to earn MMR and increase their rank.
+
 Within the SC: Evo Ranked Ladder Arcade Map, players looking to start and continue their journey on the ladder will join an Arcade Lobby from which they may select their game type from a Ranked Match or an Unranked practice match. 
+
 We will soon be releasing the SC: Evo Ranked Ladder for Beta Testing, where we will be looking for players to try out the Unranked Game Mode as well as to stress test our UI Systems. At a later date, we will begin the Closed Ranked Beta Test, where a select group of people will be chosen to host, play, and stream the Ranked 1v1 Gamemode. 
 For both Beta Tests, more details of the map can be found below, and given time and funding, we'll be looking to expand the available gamemodes once we finish testing several other aspects of the game.
 
@@ -54,7 +56,7 @@ Within the Unranked Gamemode, two players will be able to play one-on-one practi
 
 Finally, once both players are ready to start; they can ready up. Before going into a match, both players will get to see which race was picked as well as the map picked by the system.
 
-![]({{site.baseurl}}/images/gamepreview-ladder-Readyscreen)
+![]({{site.baseurl}}/images/gamepreview-ladder-Readyscreen.png)
 
 Upon completing the game, both players can choose to return to the Evo Menu in which they can play another match. Upon either player leaving the game, both players will return to the StarCraft II Main Menu.
 
@@ -94,6 +96,10 @@ In the future as we draw closer to completing the remaining models in SC: Evo's 
 
 ***
 
-And this is it for now, we're wrapping up Development on the first public technical test of the new SC: Evo Ranked Ladder Arcade Map launcher, **please remember that Ranked mode will not initially be available**. We hope to gather as much feedback as possible and squash any bugs with the help of our players, so we can have a smooth release for the Ranked 1v1 Game Mode at a later date.
+And this is it for now, we're wrapping up Development on the first public technical test of the new SC: Evo Ranked Ladder Arcade Map launcher, **please remember that Ranked mode will not initially be available**. 
+
+We hope to gather as much feedback as possible and squash any bugs with the help of our players, so we can have a smooth release for the Ranked 1v1 Game Mode at a later date.
+
 The Technical Test map for the SC: Evo Ranked Ladder will be made available soon on the Battle.net Arcade for everyone to try out.
-If you find any issues while playing please send them to us on our discord or at KopruluKat@gmail.com
+
+*If you find any issues while playing please send them to us on our discord or at KopruluKat@gmail.com*
