@@ -5,7 +5,6 @@ description: Balance Update
 date:   2024-12-14 04:00:00 +0600
 image:  '/images/EvoPTR1_12.png'
 tags:   [PTR, Extension, Seasonal Event, New Model, Balance, Bugfixes]
-featured: true
 ---
 
 ### Note: As of December 14, 2024, there are further updates to the 1.12 PTR. Please see just below the introductory paragraph for the latest changes.
