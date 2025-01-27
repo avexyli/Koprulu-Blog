@@ -28,6 +28,11 @@ Before we proceed with the patch notes, we once again would like thank our gener
 
 ![]({{site.baseurl}}/images/Divider_Extension.png)
 
+### New Models
+For this update we've added several new building models.
+
+![]({{site.baseurl}}/images/modelpreview-112models.png)
+
 ### Balance Changes
 *Please note: All time values are provided in Normal Speed [Faster Speed]*
 
@@ -41,11 +46,6 @@ Before we proceed with the patch notes, we once again would like thank our gener
     - (We believe Terran and Zerg are currently not lacking in choice of openers.)
 - Mitigate the implications of implementing high-ground miss-chance.
     - This particularly concerns interactions involving Zerg (the race most dependent on non-ranged ground units), or BW ground forces against SC2 air forces.
-
-### New Models
-For this update we've added several new building models.
-
-![]({{site.baseurl}}/images/modelpreview-112models.png)
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
