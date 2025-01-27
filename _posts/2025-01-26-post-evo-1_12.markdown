@@ -1,0 +1,249 @@
+---
+layout: post
+title:  SC Evo Complete Extension 1.12 patch notes
+description: Balance Update
+date:   2025-01-26 04:00:00 +0600
+image:  '/images/EvoExtension1_12.png'
+tags:   [Extension, Seasonal Event, New Model, Balance, Bugfixes]
+featured: true
+---
+
+## SC Evo Complete Extension Update 1.12
+
+Hello to all SC: Evo Complete fans,
+
+After a considerable hiatus, we have returned with another update.
+
+The 5.0.14 SC2 patch in December introduced numerous disruptive changes to each of the SC2 races, and likewise, version 1.12 of SC Evo Complete features staggering changes as well, most notably the implementation of high-ground miss-chance. Most of the changes should be familiar to those who have been following our PTR cycles, but there are a few new ones as well.
+
+Coinciding with the release of this patch is the launch of our <a href="https://teamkoprulu.github.io/Koprulu-Blog/post-evo-ladderbeta">unranked ladder beta</a>. Hop on and try out all the new changes!
+
+Before we proceed with the patch notes, we once again would like thank our generous sponsors to enabling our work here. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+*Please note: All time values are provided in Normal Speed [Faster Speed]*
+
+**Since the initial rationale for many of these changes has already been discussed in the <a href="https://teamkoprulu.github.io/Koprulu-Blog/post-evo-1_12-PTR">PTR 1.12 announcement post</a>, we will not do so at length here.** *Only changes introduced in the transition from PTR to live release will be discussed in detail.*
+
+**Goals for this patch:**
+- Continue adjusting the design of key unit interactions in each matchup.
+- Promote the use of historically underutilized units.
+- Tone down the strength of Terran and Zerg, who appear to be overperforming in tournaments.
+- Address the lack of opener variety for Protoss.
+    - (We believe Terran and Zerg are currently not lacking in choice of openers.)
+- Mitigate the implications of implementing high-ground miss-chance.
+    - This particularly concerns interactions involving Zerg (the race most dependent on non-ranged ground units), or BW ground forces against SC2 air forces.
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
+- Cloak Ghost now requires research at the **Covert Ops** to be unlocked
+    - Resarch cost: 100/100
+    - Research time: 49 seconds [35 seconds]
+- Decreased Lockdown range: 10 -> 9
+
+These changes mitigate the power spike when Ghosts come into play, especially against Robotics Facility-centric SC2 Protoss styles.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-vulture@scbw.png" width="50" height="50"> Vulture
+- Increased movement acceleration: 6.25 -> 9.25 [8.75 -> 12.95]
+
+The Vulture is sluggish, even with optimal control. This change aims to relieve that.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+- Increased anti-ground weapon attack period: 1.2375 -> 1.3125 [0.88 -> 0.94]
+
+This nerf stops the Goliath from being an overwhelmingly strong generalist and re-affirms its anti-air role.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-wraith@scbw.png" width="50" height="50"> Wraith
+- Decreased Cloaking Field research time: 110 -> 80 [79 -> 57]
+- Decreased Apollo Reactor research cost: 150/150 -> 100/100
+
+This change aims to vitalize cloak play with the Wraith.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-sciencevessel@scbw.png" width="50" height="50"> Science Vessel
+- Decreased Irradiate initial damage: 10 -> 0
+- Decreased Irradiate duration: 42 -> 37.5 [30 -> 27]
+    - (Total damage: 289.9 -> 249.9)
+
+Irradiate previously dealt 10 initial damage when applied to a target. Since Irradiate damage naturally stacks, this became oppressively strong against SC2 Zerg armies, since clumps of higher-health enemies could be eviscerated in an instant. This particularly disadvantaged the use of Corruptors. In order to bring the unit more in line with its BW incarnation, as well as to compensate for the strength of the new Battlecruiser, the Science Vessel is receiving a couple nerfs/reworks to Irradiate.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+*Note: The initial values for these changes are based on 1.11 and not the 1.12 PTR.*
+- Increase HP: 550 -> 700
+- Increased armor: 3 -> 4
+- Decreased movement speed: 2 -> 1.875 [2.8 -> 2.63]
+- Decreased supply: 6 -> 5
+- Increased anti-ground and anti-air attack damage: 25 -> 27
+- Increased anti-ground and anti-air attack range: 6 -> 7
+- Decreased Yamato Gun damage: 260 -> 240
+- Decreased Yamato Gun energy cost: 125 -> 100
+- Increased Yamato Gun cast range: 10 -> 13
+- Increased Yamato Gun projectile range: 20 -> 26
+
+This is our second iteration of changes to the BW Battlecruiser, the first of which occurred during the PTR. The Battlecruiser has long been one of the least used units in the game, due to its high barrier to access and relative weakness compared to other lategame options, such as Ghosts and Sciencee Vessels. In line with our vision to recreate the Brood War fantasy faithfully in StarCraft II, as well as based on user feedback, the Battlecruiser has been reworked to embody its slow but powerful Brood War incarnation.
+
+These changes aim to boost the overall power of the Battlecruiser, particularly so that it is comparable in strength to its SC2 counterpart. The decrease in movement speed brings the mobility of the Battlecruiser in line with that of the Carrier. However, it is now significantly more durable, and many of its other combat stats have also been improved. In particular, although Yamato Gun still charges more slowly than SC2's Yamato Cannon and can be interrupted by Energy-draining abilities, it can fire at targets from a much greater distance, reaching far enough to even punish poor engagements by Tempests. Overall, we expect the Battlecruiser to be a vital asset in the new era of high-ground miss-chance.
+
+We expect that the new Battlecruiser will shine most against SC2 Zerg, where it must fill the void in lategame power left behind by the weakened Science Vessel. The decrease in supply for each Battlecruiser will help BW Terran players maintain a viable standing army while gradually transitioning into them. While the Battlecruiser should also be powerful against SC2 Terran and SC2 Protoss, we think these races have enough answers to them that their new strength will not adversely affect the lategame, even without compensatory nerfs elsewhere.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-zergling@scbw.png" width="50" height="50"> Zergling
+- Increased attack period: 0.58 -> 0.60 [0.41 -> 0.43]
+- Increased Adrenal Glands attack speed bonus increase: 40% -> 45%
+
+The Zergling is still a little strong, and we expect BW Zerg to be the primary beneficiary of high-ground miss chance, so we are nerfing this key unit. The increase in Adrenal Glands attack speed bonus leaves the attack period of the Zergling after this research unaffected.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-ultralisk-remastered.png" width="50" height="50"> Ultralisk
+- Decreased cost: 200/200 -> 175/175
+- Increased model size
+- Increased unit radius: 0.8125 -> 0.875
+- Increased allied push priority: 0 -> 1
+
+Although not outright unseen, the Ultralisk is often overlooked for its lackluster combat performance. While not outright weak, its inability to deal splash damage hampers its performance; particularly against SC2 Terran, even though Ghosts received a supply nerf, Marauders are often sufficient to deal with the Ultralisk anyway. A slight cost decrease should help to mitigate this, alongside the push priority increase also received by its SC2 counterpart in Patch 5.0.14.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-queen@scbw.png" width="50" height="50"> Queen
+- Ensnare now requires research at the **Queen's Nest** to be unlocked
+    - Research cost: 100/100
+    - Research time: 49 seconds [35 seconds]
+- Reworked Infest Command Center:
+    - Can now target SC2 Command Centers, Orbital Commands and Planetary Fortresses.
+    - Increased channeling time: 0 -> 8 [5.7]
+    - Increased cooldown: 0 -> 10 [7.1]
+    - Channeling can be interrupted by the user.
+    - Targeted enemy stucture is no longer automatically attacked by allied forces.
+        - The targeted structure can still be attacked manually.
+    - (Unlike in Brood War, the Queen remains outside the targeted structure, and is vulnerable for the entire channeling duration.)
+
+Queen timings mark a daunting power spike for BW Zerg heading into the lategame. These changes delay the availability of Ensnare while not affecting Hive technology access.
+
+This patch also implements new ways for the Queen to infested SC2 Terran structures.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-infestedterran@scbw.png" width="50" height="50"> Infested Terran
+- Decreased build time: 38 -> 33 [27 -> 24]
+
+This adjustment brings the Infested Terran in line with its BW incarnation.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
+- Decreased Devourer HP: 275 -> 250
+
+This reverts a change originally intended to prevent Devourers from dying in two uses of the SC2 Ghost's Steady Targeting, which is no longer necessary with their supply nerf.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+- Universal shield regeneration rate: 0.4375 -> 0.711 [0.6125 -> 0.9954]
+
+BW Protoss units that lose their Plasma Shields tend to be crippled beyond usefulness. Although we are aware it could become overwhelming, we would like to create opportunities to make decisions about whether or not to retreat from fights by allowing more effective shield regeneration out-of-combat.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-zealot@scbw.png" width="50" height="50"> Zealot
+- Decreased attack uninterruptible duration: 0.3125 -> 0.28 [0.22 -> 0.20]
+    - (The Zealot cannot move for this duration, after beginning its attack.)
+
+This change prevents Zealots from missing their attacks.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-dragoon@scbw.png" width="50" height="50"> Dragoon
+- Increased HP: 100 -> 110
+- Decreased Plasma Shields: 80 -> 70
+- Decreased Singularity Charge research time: 175 -> 150 [125 -> 107]
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-reaver.png" width="50" height="50"> Reaver
+- Increased HP: 100 -> 110
+- Decreased Plasma Shields: 80 -> 70
+- Decreased attack damage: 105 (+50 vs Shields) -> 100 (+55 vs Shields)
+- Increased Scarab Damage attack damage bonus: 20 (+35 vs Shields) -> 25 (+30 vs Shields)
+- Increased damage point: 0 -> 0.0625 [0 -> 0.04] (Core)
+- Decreased Scarab movement speed: 9 -> 8 [12.6 -> 11.2]
+- Weapon range is now displayed when selected
+
+These changes revert a previous nerf to the Dragoon, and allow the Dragoon and Reaver to survive one use of the Disruptor's Purification Nova. Additionally, they make Reavers a more interactive unit by making Scarabs slightly easier to dodge on reaction.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-corsair.png" width="50" height="50"> Corsair
+- Increased attack range: 5 -> 6
+- Increased attack AoE damage radii:
+    - 100% zone: 0.17 -> 1.0834 (~1/3 radius of 25% zone)
+    - 50% zone: 1.65 -> 2.1667 (~2/3 radius of 25% zone)
+- Increased base damage: 3.75 {+0.75/upgrade} -> 4.5 {+0.75/upgrade}
+    - Damage vs Armored: 5 {+1/upgrade} -> 6 {+1/upgrade}
+
+These changes bolster the Corsair's defensive capabilities, especially against SC2 Mutalisks.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-scout@scbw.png" width="50" height="50"> Scout
+- Decreased Scout anti-ground weapon attack damage: 10 (+1) -> 9 (+1) 
+- Increased Scout anti-ground weapon attack damage bonus: +5 vs Shields -> +6 vs Light
+- Decreased Scout anti-ground weapon attack period: 1.875 -> 1.6875 [1.34 -> 1.21]
+
+With BW Protoss's historic struggles against SC2 Protoss being mostly accounted for, these changes rework the Scout into a vital unit for defending against enemy Light units, especially Zerglings.
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-arbiter.png" width="50" height="50"> Arbiter
+- Decreased Stasis Field duration: 46 -> 30 [33 -> 21]
+- Decreased Stasis Field range: 9 -> 8
+- Recall can now be used on allied targets if shared control is enabled between players.
+
+These changes bring the power of Stasis Field in line with other BW spells in SC: Evo Complete.
+
+### Bug Fixes and Changes
+- Miss-chance feature is now enabled for all ranged BW and SC2 weapons
+    - Ranged attacks from low-ground units targeting high-ground units have a 53.125% chance of missing
+    - Ranged attacks targeting units in shrubs (Line of Sight blockers) have 53.125% of missing
+    - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
+    - Splash effects will be offset if the weapon misses
+    - Weapons marked with 'Pierce' type will never miss
+- Updated the visuals of all Mineral Fields
+- Updated BW SCV's construction fidget timings to match 5.0.14 SC2 SCV's values
+- Workers no longer count as Idle while waiting on constructing Gas Geysers.
+- Main structures now auto-rally to closest mineral field
+- Cyclone Lock On ability is now considered a Spell, and can target and hit units inside Dark Swarm.
+- Disruption Web no longer disables Cyclone Lock On
+- Ensnare no longer affects Cyclone Lock On cooldown
+- Burrowed units will no longer be excluded from Splash damage middle and outer search areas
+- Ensnare, Maelstrom and Stasis can now target burrowed units
+- Lowered Observer Subgroup priority.
+- Lowered Ultralisk Subgroup priority.
+- Improved visual feedback for Nydus Canal to display where the Nydus Canal is connected to.
+- Scarabs now display in the observer production & units panel.
+- Reavers can now cancel launched scarabs with stop command if no other orders are issued.
+- Reduced the distance Reavers chase their targets when attack moving.
+- Dark Archon Mind Control default hotkey: R -> C 
+- Ghost Lockdown default hotkey: W -> E 
+- Ghost & Wraith Cloak hotkeys are now separated from SC2 Cloak hotkeys.
+- SC1 Burrow hotkeys are now separated from SC2 Burrow hotkeys.
+- Added Passive command card buttons for units to indicate possible upgrades.
+- Reorganized some Command Card layouts to match SC2, this change is mainly for Grid Hotkey layout to have similiar experience playing with SC2 & SC1 races.
+- Adjusted Shuttle model hit tests volumes.
+- Updated High Templar model to use cloth physics and physics based nerve cord.
+- Fixed armor caluclations being incorrect for Explosive and Concussive splash area effects.
+- Fixed Rich Assimilators, Refineries, Extractors displaying separate icons for observer panels
+- Fixed Nydus Canal being able to unload at wrong location if multiple Nydus Canals were in use.
+- Fixed bug where Nydus Canal entrance would not get killed if Exit location died during construction
+- Fixed Reaver not being able to target and kill certain destructible units in some maps.
+- Fixed Reaver sharing its hotkey with Colossus.
+- Fixed Infested Terran not being able to target and kill certain destructible units in some maps.
+- Fixed some unit & upgrade score values not matching their costs.
+- Fixed bug where SC1 Hydralisk Den provided tech for SC2 race.
+- Fixed burrowed Defilers not gaining energy upgrade.
+- Fixed Queen Parasite not providing detection if target unit is a detector unit.
+- Fixed Observer detection range not matching its sight radius. (10 -> 11)
+- Fixed Overlord detection range not matching its sight radius. (9 -> 10)
+- Fixed Creep Colony target volumes during morphing animations.
+- Fixed bug where Siege Tanks turret would stop updating after unit got hidden for the player.
+- Fixed Hatchery using incorrect larva button for its Spawn Larva ability.
+- Fixed Defensive Matrix 'break' damage always bypassing units armor regardless if it was broken by normal or spell damage.
+- Fixed Defensive Matrix 'leak' damage caused by normal attacks bypassing shields. (only spell damage will bypass shield vitals)
+
+![]({{site.baseurl}}/images/Divider_Legacy.png)
+
+- All Units can now overkill targets. (Multiple Siege Tanks can shoot at the same target even if it dies)
+- Pylons can now power higher cliff levels.
+- Extra Geyser removal should now work correctly on non official maps.
+- Geysers will not be adjusted if it has more than 5000 resources set by the mapper. (Fast money maps)
+
+***
