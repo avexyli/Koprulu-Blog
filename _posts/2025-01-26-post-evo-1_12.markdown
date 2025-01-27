@@ -33,6 +33,8 @@ For this update we've added several new building models.
 
 ![]({{site.baseurl}}/images/modelpreview-112models.png)
 
+Along with that we've updated the shaders of all Mineral Field Models
+
 ### Balance Changes
 *Please note: All time values are provided in Normal Speed [Faster Speed]*
 
@@ -203,7 +205,7 @@ With BW Protoss's historic struggles against SC2 Protoss being mostly accounted 
 
 These changes bring the power of Stasis Field in line with other BW spells in SC: Evo Complete.
 
-### Bug Fixes and Changes
+### Changes
 - Updated the visuals of all Mineral Fields
 - Updated BW SCV's construction fidget timings to match 5.0.14 SC2 SCV's values
 - Workers no longer count as Idle while waiting on constructing Gas Geysers.
@@ -227,6 +229,9 @@ These changes bring the power of Stasis Field in line with other BW spells in SC
 - Reorganized some Command Card layouts to match SC2, this change is mainly for Grid Hotkey layout to have similiar experience playing with SC2 & SC1 races.
 - Adjusted Shuttle model hit tests volumes.
 - Updated High Templar model to use cloth physics and physics based nerve cord.
+
+### Bugfixes
+
 - Fixed armor caluclations being incorrect for Explosive and Concussive splash area effects.
 - Fixed Rich Assimilators, Refineries, Extractors displaying separate icons for observer panels
 - Fixed Nydus Canal being able to unload at wrong location if multiple Nydus Canals were in use.
