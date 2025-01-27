@@ -47,6 +47,14 @@ For this update we've added several new building models.
 - Mitigate the implications of implementing high-ground miss-chance.
     - This particularly concerns interactions involving Zerg (the race most dependent on non-ranged ground units), or BW ground forces against SC2 air forces.
 
+### General Changes
+- Miss-chance feature is now enabled for all ranged BW and SC2 weapons
+    - Ranged attacks from low-ground units targeting high-ground units have a 53.125% chance of missing
+    - Ranged attacks targeting units in shrubs (Line of Sight blockers) have 53.125% of missing
+    - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
+    - Splash effects will be offset if the weapon misses
+    - Weapons marked with 'Pierce' type will never miss
+
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
 ### <img src="{{site.baseurl}}/images/btn-unit-terran-ghost@scbw.png" width="50" height="50"> Ghost
@@ -196,12 +204,6 @@ With BW Protoss's historic struggles against SC2 Protoss being mostly accounted 
 These changes bring the power of Stasis Field in line with other BW spells in SC: Evo Complete.
 
 ### Bug Fixes and Changes
-- Miss-chance feature is now enabled for all ranged BW and SC2 weapons
-    - Ranged attacks from low-ground units targeting high-ground units have a 53.125% chance of missing
-    - Ranged attacks targeting units in shrubs (Line of Sight blockers) have 53.125% of missing
-    - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
-    - Splash effects will be offset if the weapon misses
-    - Weapons marked with 'Pierce' type will never miss
 - Updated the visuals of all Mineral Fields
 - Updated BW SCV's construction fidget timings to match 5.0.14 SC2 SCV's values
 - Workers no longer count as Idle while waiting on constructing Gas Geysers.
