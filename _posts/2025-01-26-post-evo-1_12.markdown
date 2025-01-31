@@ -1,12 +1,50 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.12 patch notes
+title:  SC Evo Complete Extension 1.12.2 patch notes
 description: Balance Update
-date:   2025-01-26 04:00:00 +0600
+date:   2025-01-31 12:40:00 -0800
 image:  '/images/EvoExtension1_12.png'
 tags:   [Extension, Legacy, New Model, Balance, Bugfixes]
 featured: true
 ---
+
+## SC Evo Complete Extension Update 1.12.2
+
+This hotfix contains a few balance changes.
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+- Decreased HP: 700 -> 650
+- Decreased armor: 4 -> 3
+- Decreased cost: 400/300 -> 375/275
+- Increased supply: 5 -> 6
+- Decreased Yamato Gun cast range: 13 -> 12
+- Decreased Yamato Gun projectile range: 26 -> 24
+
+After further playtesting, the Battlecruiser proved to be too difficult to kill. We would still like to differentiate it from the SC2 Battlecruiser through higher vitals and a more effective Yamato Gun, but the magnitude of this has been reduced. In particular, Yamato Gun's new cast range of 12 should still feel noticeably stronger, and serve as a sufficient response to enemy Tempests which are not controlled perfectly.
+
+We also wanted wanted to make the barrier to Battlecruiser access lower. However, lowering supply and allowing a larger lategame mass of Battlecruisers was evidently not the right call, so instead we are slightly reducing its cost.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-collection-drone-remastered.png" width="50" height="50"> Drone
+- Decreased attack period: 1.6 -> 1.5 (Faster: 1.14 -> 1.07)
+
+The Drone's attack period was previously nerfed in order to reduce the strength of 12 Pool Drone pull against SC2 Protoss. With the Zergling's attack period increased, we would like to restore the Drone's original attack period in order to improve defense against very fast rushes.
+
+## SC Evo Complete Extension Update 1.12.1
+
+This hotfix fixes technical issues discovered after publishing Update 1.12.
+
+![]({{site.baseurl}}/images/Divider_Core.png)
+
+- Fixed Overlord movement speed upgrade being incorrect for Core & Legacy mod: 1.3125 -> 2.1875 [1.837 -> 3.06]
+- Fixed issue with `SCEvo_Multi` mod erroneously overwriting incorrect trigger libraries from external dependency mods.
+- High-ground miss-chance feature is now enabled by default on `SCEvo_Multi` mod dependency.
+    - Dependent mods should disable the feature in triggers if they dont want this feature using the `SCEvo: Activate Feature` trigger action.
 
 ## SC Evo Complete Extension Update 1.12
 
