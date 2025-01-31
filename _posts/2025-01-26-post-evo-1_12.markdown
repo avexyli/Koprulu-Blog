@@ -35,6 +35,8 @@ We also wanted wanted to make the barrier to Battlecruiser access lower. However
 
 The Drone's attack period was previously nerfed in order to reduce the strength of 12 Pool Drone pull against SC2 Protoss. With the Zergling's attack period increased, we would like to restore the Drone's original attack period in order to improve defense against very fast rushes.
 
+---
+
 ## SC Evo Complete Extension Update 1.12.1
 
 This hotfix fixes technical issues discovered after publishing Update 1.12.
@@ -45,6 +47,8 @@ This hotfix fixes technical issues discovered after publishing Update 1.12.
 - Fixed issue with `SCEvo_Multi` mod erroneously overwriting incorrect trigger libraries from external dependency mods.
 - High-ground miss-chance feature is now enabled by default on `SCEvo_Multi` mod dependency.
     - Dependent mods should disable the feature in triggers if they dont want this feature using the `SCEvo: Activate Feature` trigger action.
+
+---
 
 ## SC Evo Complete Extension Update 1.12
 
