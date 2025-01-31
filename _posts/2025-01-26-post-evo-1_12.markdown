@@ -41,7 +41,7 @@ The Drone's attack period was previously nerfed in order to reduce the strength 
 
 This hotfix fixes technical issues discovered after publishing Update 1.12.
 
-![]({{site.baseurl}}/images/Divider_Core.png)
+![]({{site.baseurl}}/images/Divider_CoreMods.png)
 
 - Fixed Overlord movement speed upgrade being incorrect for Core & Legacy mod: 1.3125 -> 2.1875 [1.837 -> 3.06]
 - Fixed issue with `SCEvo_Multi` mod erroneously overwriting incorrect trigger libraries from external dependency mods.
