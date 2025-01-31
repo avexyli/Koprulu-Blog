@@ -2,7 +2,7 @@
 layout: post
 title:  SC Evo Complete Extension 1.12.2 patch notes
 description: Balance Update
-date:   2025-01-31 12:40:00 -0800
+date:   2025-01-31 13:00:00 -0800
 image:  '/images/EvoExtension1_12.png'
 tags:   [Extension, Legacy, New Model, Balance, Bugfixes]
 featured: true
