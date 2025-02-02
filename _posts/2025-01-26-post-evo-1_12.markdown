@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.12.2 patch notes
+title:  SC Evo Complete Extension 1.12.3 patch notes
 description: Balance Update
 date:   2025-01-31 12:45:00 -0800
 image:  '/images/EvoExtension1_12.png'
 tags:   [Extension, Legacy, New Model, Balance, Bugfixes]
 featured: true
 ---
+
+## SC Evo Complete Extension Update 1.12.3
+
+This hotfix is meant to address a crash affecting replays, unfortunately it will not affect older replay files but will prevent the crash going forward.
+
+- Fixed bug that caused rewinding during replays to crash the game. (Old replays will still be bugged)
+- Fixed Defiler Plague not affecting Gas structures.
+- Minor updates for zhCN & koKR locales.
+
+***
 
 ## SC Evo Complete Extension Update 1.12.2
 
@@ -35,7 +45,7 @@ We also wanted wanted to make the barrier to Battlecruiser access lower. However
 
 The Drone's attack period was previously nerfed in order to reduce the strength of 12 Pool Drone pull against SC2 Protoss. With the Zergling's attack period increased, we would like to restore the Drone's original attack period in order to improve defense against very fast rushes.
 
----
+***
 
 ## SC Evo Complete Extension Update 1.12.1
 
@@ -48,7 +58,7 @@ This hotfix fixes technical issues discovered after publishing Update 1.12.
 - High-ground miss-chance feature is now enabled by default on `SCEvo_Multi` mod dependency.
     - Dependent mods should disable the feature in triggers if they dont want this feature using the `SCEvo: Activate Feature` trigger action.
 
----
+***
 
 ## SC Evo Complete Extension Update 1.12
 
@@ -98,6 +108,8 @@ Along with that we've updated the shaders of all Mineral Field Models
     - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
     - Splash effects will be offset if the weapon misses
     - Weapons marked with 'Pierce' type will never miss
+
+***
 
 ![]({{site.baseurl}}/images/Divider_Terran.png)
 
@@ -150,6 +162,8 @@ This is our second iteration of changes to the BW Battlecruiser, the first of wh
 These changes aim to boost the overall power of the Battlecruiser, particularly so that it is comparable in strength to its SC2 counterpart. The decrease in movement speed brings the mobility of the Battlecruiser in line with that of the Carrier. However, it is now significantly more durable, and many of its other combat stats have also been improved. In particular, although Yamato Gun still charges more slowly than SC2's Yamato Cannon and can be interrupted by Energy-draining abilities, it can fire at targets from a much greater distance, reaching far enough to even punish poor engagements by Tempests. Overall, we expect the Battlecruiser to be a vital asset in the new era of high-ground miss-chance.
 
 We expect that the new Battlecruiser will shine most against SC2 Zerg, where it must fill the void in lategame power left behind by the weakened Science Vessel. The decrease in supply for each Battlecruiser will help BW Terran players maintain a viable standing army while gradually transitioning into them. While the Battlecruiser should also be powerful against SC2 Terran and SC2 Protoss, we think these races have enough answers to them that their new strength will not adversely affect the lategame, even without compensatory nerfs elsewhere.
+
+***
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
@@ -292,6 +306,8 @@ These changes bring the power of Stasis Field in line with other BW spells in SC
 - Fixed Hatchery using incorrect larva button for its Spawn Larva ability.
 - Fixed Defensive Matrix 'break' damage always bypassing units armor regardless if it was broken by normal or spell damage.
 - Fixed Defensive Matrix 'leak' damage caused by normal attacks bypassing shields. (only spell damage will bypass shield vitals)
+
+***
 
 ![]({{site.baseurl}}/images/Divider_Legacy.png)
 
