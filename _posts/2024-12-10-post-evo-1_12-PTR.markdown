@@ -192,8 +192,8 @@ Stasis Field currently has an unreasonably long duration. Its effect is already 
 
 ### Bug Fixes and Changes
 - Miss-chance feature is now enabled for all ranged BW and SC2 weapons
-    - Ranged attacks from low-ground units targeting high-ground units have a 53.125% chance of missing
-    - Ranged attacks targeting units in shrubs (Line of Sight blockers) have 53.125% of missing
+    - Ranged attacks from low-ground units targeting high-ground units have a 46.875% chance of missing
+    - Ranged attacks targeting units in shrubs (Line of Sight blockers) have 46.875% of missing
     - Ranged attacks targeting units inside Dark Swarm have a 100% chance of missing
     - Splash effects will be offset if the weapon misses
     - Weapons marked with 'Pierce' type will never miss
