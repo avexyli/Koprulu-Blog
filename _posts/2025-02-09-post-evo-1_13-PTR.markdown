@@ -66,7 +66,7 @@ Although we think the Battlecruiser's combat capabilities are well-tuned, it is 
 
 ![]({{site.baseurl}}/images/Divider_Zerg.png)
 
-### <img src="{{site.baseurl}}/images/btn-unit-zerg-sunkencolony@scbw.png" width="50" height="50"> Sunken Colony
+### <img src="{{site.baseurl}}/images/btn-building-zerg-sunkencolony@scbw.png" width="50" height="50"> Sunken Colony
 - Increased build time: 18 -> 21 [12.9 -> 15.0]
 
 Lately, Sunken Colony rushes have been quite prevalent in the BW Zerg vs SC2 Zerg matchup. Moreover, due to its build time, rushes involving the Sunken Colony lie on a wide spectrum, from simple macro pressures to outright all-ins, making its use somewhat unpredictable. Although we do not think defending successfully against these builds is too difficult, we would like to incentivize more opening variety from BW Zerg players.
