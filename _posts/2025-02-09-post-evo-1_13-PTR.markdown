@@ -1,0 +1,101 @@
+---
+layout: post
+title:  SC Evo Complete PTR 1.13 patch notes
+description: Balance Update
+date:   2025-02-09 21:00:00 -0600
+image:  '/images/EvoPTR1_13.png'
+tags:   [PTR, Extension, Balance]
+featured: true
+---
+
+## SC Evo Complete PTR 1.13 patch notes
+
+Hello to all SC: Evo Complete fans,
+
+Welcome to the next edition of the SC: Evo Complete PTR. This coincides with the return of the StarCraft Evolution League and high-octane tournament matches. As we observe the mod played at the highest level, we continue discovering new opportunities to improve its design as well as its balance. The current PTR cycle will last through the majority of February, and the live 1.13 update will be published in time for the 8th installment of the SEL on March 1st.
+
+In addition to a new wave of changes, we are also proud to be able to announce there will be an <a href="https://liquipedia.net/starcraft2/Bingus_World/26">SC: Evo Complete PTR 1.13 showmatch</a> on Saturday, February 15th at 9 PM KST / 1 PM CET / 7 AM EST. Live commentary will be provided in English by <a href="https://www.twitch.tv/cranky_ducklings">Light_VIP</a> and in Korean by <a href="https://www.youtube.com/@SC1SC2/streams">TheStC</a>. We would like to extend our gratitude to them for their coverage, as well as to the players who volunteered to participate and lend us crucial insight into the state of the game.
+
+***
+
+Before we proceed with the changes, we once again would like thank our generous sponsors to enabling our work here. If you would like to support us, you can give us a one-time donation on PayPal or a recurring contribution on Patreon:
+
+<a href="https://paypal.me/KopruluKat/"><img src="{{site.baseurl}}/images/blue.png" width="210" height="40"></a> 
+
+<a href="https://www.patreon.com/TeamKopruluSC2"><img src="{{site.baseurl}}/images/becomeAPatronBanner.png" width="211" height="70"></a>
+
+***
+
+![]({{site.baseurl}}/images/Divider_Extension.png)
+
+### Balance Changes
+*Please note: All time values are provided in Normal Speed [Faster Speed]. Normal values provided are exact; Faster values are approximate.*
+
+![]({{site.baseurl}}/images/Divider_Terran.png)
+
+- Increased Engineering Bay build time: 30 -> 40 [21.4 -> 28.6]
+
+Previously, the Engineering Bay had its build time reduced as a way to hasten access to Missile Turrets as a response to SC2 Protoss Stargate openers. The need for this has passed, as BW Terran players have demonstrated ways to survive the early game without this change. Moreover, the Engineering Bay's build time being even faster than that of its SC2 counterpart, as well as its ability to Lift Off and scout the opponent's base after it is done being used to block an expansion, make it an incredibly cost-effective option in the early game. We are increasing its build time to reflect this.
+
+- Increased Barracks build time: 67 -> 70 [47.9 -> 50.0]
+- Increased Stimpack research time: 75 -> 85 [53.6 -> 60.7]
+
+SC2 Zerg players currently face a dilemma against BW Terran. As Stimpack timings have become more optimized in this matchup, BW Terran players have devised methods to deny virtually all scouting information to the opponent, killing the first Overlord on-sight and shutting Zerglings out with Barracks-Depot full walls at the natural. Due to this, it is nigh-impossible for SC2 Zerg players to verify the true number of Barracks built or check the timing of the natural Command Center. This is concerning, since BW Terran is capable of both exorbitant greed and fast, heavy pressure, the latter of which cannot be reliably defended against without blindly morping Spine Crawlers or Roaches.
+
+In order to mitigate the strength of Stimpack timing openers, we are increasing the time required to build the Barracks and research Stimpack. These should help permit more margin for error in earlygame Overlord movements and preparing defenses for the initial wave of Marines.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-medic.png" width="50" height="50"> Medic
+- Decreased HP: 65 -> 60
+
+Due to their HP, Medics are often seen tanking Corrosive Biles in engagements against Roach-Ravager armies. By design, Biles are supposed to force the opponent to dodge, but the Medic is able to survive one hit without dodging. Therefore, we are reducing its HP to force Terran players to control their Medics more carefully.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-siegetank-sieged@scbw.png" width="50" height="50"> Siege Tank
+- Decreased Tank Mode attack period: 2.212 -> 2.0625 [1.58 -> 1.47]
+
+This change helps to make the currently underwhelming strength of the BW Siege Tank's Tank Mode weapon proportionate to that of the SC2 Siege Tank.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-goliath@scbw.png" width="50" height="50"> Goliath
+- Increased anti-ground weapon attack period: 1.3125 -> 1.425 [0.94 -> 1.02]
+
+In spite of repeated adjustments its anti-ground weapon, the Goliath remains an overwhelmingly strong generalist. As we still believe its anti-air capabilities are in a good spot, we are proceeding with further nerfs to its anti-ground attack period.
+
+### <img src="{{site.baseurl}}/images/btn-unit-terran-battlecruiser@scbw.png" width="50" height="50"> Battlecruiser
+- Decreased build time: 90 -> 80 [64.3 -> 57.1]
+
+Although we think the Battlecruiser's combat capabilities are well-tuned, it is still difficult for BW Terran to find opportunities to transition into it. We hope to remedy this with a slight build time reduction.
+
+![]({{site.baseurl}}/images/Divider_Zerg.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-sunkencolony@scbw.png" width="50" height="50"> Sunken Colony
+- Increased build time: 18 -> 21 [12.9 -> 15.0]
+
+Lately, Sunken Colony rushes have been quite prevalent in the BW Zerg vs SC2 Zerg matchup. Moreover, due to its build time, rushes involving the Sunken Colony lie on a wide spectrum, from simple macro pressures to outright all-ins, making its use somewhat unpredictable. Although we do not think defending successfully against these builds is too difficult, we would like to incentivize more opening variety from BW Zerg players.
+
+As early interactions in the BW Zerg vs SC2 Zerg matchup are very sensitive to a couple seconds of build time, we believe this change is enough to achieve our intended effect. A couple seconds of increased build time should not affect the Sunken Colony's utility in other matchups and scenarios.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-defiler@scbw.png" width="50" height="50"> Defiler
+- Consume now requires research at the **Defiler Mound** to be unlocked
+    - Research cost: 100/100
+    - Research time: 80 seconds [57.1 seconds]
+
+This change continues our efforts to bring the BW races more in-line with their original versions. In particular, this change will help to mitigate BW Zerg's tempo advantage entering the lategame by delaying the plentiful availability of Dark Swarm and Plague.
+
+### <img src="{{site.baseurl}}/images/btn-unit-zerg-devourerex3.png" width="50" height="50"> Devourer
+- Decreased attack period: 6.25 -> 5.8125 [4.46 -> 4.15]
+
+This change more closely aligns the Devourer's attack period with its original Brood War value.
+
+![]({{site.baseurl}}/images/Divider_Protoss.png)
+
+### <img src="{{site.baseurl}}/images/btn-unit-protoss-carrier@scbw.png" width="50" height="50"> Carrier
+- Decreased build time: 90 -> 80 [64.3 -> 57.1]
+
+Although we think the Carrier's combat capabilities are well-tuned, it is still difficult for BW Protoss to find opportunities to transition into it. We hope to remedy this with a slight build time reduction.
+
+### Bug Fixes and Changes
+
+- Spider Mines detonating near other Spider Mines will now survive their outer splash damage which deals ~19.5 damage (125 * 0.625 * 0.25), instead of being force killed.
+- Fixed an issue with Interceptors being slowed down near their host Carrier even if they were attacking.
+- Fixed an issue with the Devourer's Acid Spores not affecting beam weapon cooldowns. (Oracle, Sentry, Void Ray)
+
+***
