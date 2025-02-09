@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  SC Evo Complete Extension 1.12.3 patch notes
+title:  SC Evo Complete Extension 1.12.4 patch notes
 description: Balance Update
 date:   2025-01-31 12:45:00 -0800
 image:  '/images/EvoExtension1_12.png'
 tags:   [Extension, Legacy, New Model, Balance, Bugfixes]
 featured: true
 ---
+
+## SC Evo Complete Extension Update 1.12.4
+
+- Added New Model for the Firebats
+![]({{site.baseurl}}/images/modelpreview-firebat.png)
+
+- Added New Model for the Forge
+![]({{site.baseurl}}/images/modelpreview-forge.png)
+
+***
 
 ## SC Evo Complete Extension Update 1.12.3
 
