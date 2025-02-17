@@ -1,0 +1,14 @@
+kat:
+    name: "Kat"
+    avatar: 'images/avatar-kat.png'
+    bio: "Lead Developer of Team Koprulu"
+
+avex:
+    name: "Avex"
+    avatar: 'images/avatar-avex.png'
+    bio: "Environment Artist & Balance Co-Lead"
+
+hyper:
+    name: "Hyper-ONE"
+    avatar: 'images/avatar-hyper.png'
+    bio: "Liquipedia Manager & Balance Co-Lead"
