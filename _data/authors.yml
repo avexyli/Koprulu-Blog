@@ -2,32 +2,13 @@ kat:
     name: "Kat"
     avatar: 'images/avatar-kat.png'
     bio: "Lead Developer of Team Koprulu"
-
+######################
 avex:
     name: "Avex"
     avatar: 'images/avatar-avex.png'
     bio: "Environment Artist & Balance Co-Lead"
-
+######################
 hyper:
     name: "Hyper-ONE"
     avatar: 'images/avatar-hyper.png'
     bio: "Liquipedia Manager & Balance Co-Lead"
-
-<!DOCTYPE html>
-<html lang="en">
-
-{% assign author = site.data.authors[page.author] %}
-<head>
-    <meta name="Description" content={{ author.bio }}>
-</head>
-
-<body>
-    <h1> {{ author.name }} </h1>
-    <p> {{ author.bio }} </p>
-
-{% assign posts = site.posts | where_exp:"item", "item.author == page.author" %}
-{% for posts in posts %}
-    {% include postbox.html %}
-    {% endfor %}
-    </body>
-</html>
