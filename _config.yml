@@ -28,3 +28,8 @@ include:
 sass:
   sass_dir: _sass
   style: compressed
+
+  collections:
+    authors:
+    output: true
+    permalink: /author/:author/
