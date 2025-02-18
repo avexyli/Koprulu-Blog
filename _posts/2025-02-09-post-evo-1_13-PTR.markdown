@@ -1,5 +1,6 @@
 ---
 layout: post
+author: avex
 title:  SC Evo Complete PTR 1.13 patch notes
 description: Balance Update
 date:   2025-02-09 12:00:00 -0600
