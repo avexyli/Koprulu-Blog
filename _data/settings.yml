@@ -21,9 +21,9 @@ menu-settings:
 
 #-------------------------------
 # Author Settings
-author:
-  name: Kat
-  avatar: '/images/KatAvatar.png'
+# author:
+#    name: Kat
+#    avatar: '/images/KatAvatar.png'
 
 
 #-------------------------------
