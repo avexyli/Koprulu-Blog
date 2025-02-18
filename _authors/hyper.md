@@ -1,3 +1,4 @@
-    title: "Test Hyper"
-    date: 2025-02-17
-    author: hyper
+---
+name: HyperONE
+position: Liquipedia Editor & Co-Balance Designer
+---
